@@ -87,8 +87,17 @@ If strategy communication has failed and the team is not aligned:
 
 ## Sources
 
-Sinek (2009): The Golden Circle — WHY → HOW → WHAT — explains why some leaders inspire action while others produce only compliance. The biology: WHAT and HOW are processed by the neocortex (rational thought); WHY is processed by the limbic system (emotion, decision-making). People can hear your WHAT and know everything about it and still not act. When you reach the limbic system with WHY, they act because they want to, not because they were told to.
+Sinek (2009): The **Golden Circle** — WHY → HOW → WHAT — explains why some leaders inspire action while others produce only compliance. The biology: WHAT and HOW are processed by the neocortex (rational thought); WHY is processed by the limbic system (emotion, decision-making). People can hear your WHAT and know everything about it and still not act. When you reach the limbic system with WHY, they act because they want to, not because they were told to.
 
-Sinek/Mead/Docker (2017): The WHY is the foundation of inspiring communication. Manipulation (price, incentives, fear) produces transactions; inspiration (shared WHY) produces loyalty.
+> "People don't buy WHAT you do, they buy WHY you do it."
 
-Groysberg & Slind (HBR, 2020): Command-and-control communication is no longer viable. Organizational conversation requires intimacy, interactivity, inclusion, and intentionality. Leaders must speak with employees, not to them. The conversational model is especially valuable because it allows large organizations to preserve the engagement and alignment of small ones.
+Sinek/Mead/Docker (2017): The WHY is the foundation of inspiring communication. The six **manipulations** — *price, promotions, fear, aspirations, peer pressure, novelty* — produce transactions; inspiration (shared WHY) produces loyalty. The diagnostic for a strategy communication problem: which of those six tactics are we leaning on?
+
+Groysberg & Slind (HBR, "Leadership Is a Conversation"): Command-and-control communication is no longer viable. **Organizational conversation** has four elements:
+
+1. **Intimacy** — getting close. Trust precedes substance. *"No one will dive into a heartfelt exchange of views with someone who seems to have a hidden agenda or a hostile manner."*
+2. **Interactivity** — promoting dialogue. Technology enables it (TelePresence, internal video) but only social thinking activates it. *"For many executives and managers, the temptation to treat every medium at their disposal as if it were a megaphone has proved hard to resist."*
+3. **Inclusion** — expanding employee roles as brand ambassadors, thought leaders, storytellers.
+4. **Intentionality** — pursuing a coherent agenda. *"Conversational intentionality requires leaders to convey strategic principles not just by asserting them but by explaining them — by generating consent rather than commanding assent."*
+
+Leaders must speak *with* employees, not *to* them. The conversational model is especially valuable because it allows large organizations to preserve the engagement and alignment of small ones.

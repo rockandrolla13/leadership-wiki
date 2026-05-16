@@ -72,7 +72,13 @@ A manager who cannot delegate does not scale. Their output is bounded by their o
 
 ## Source Notes
 
-Lopp (2020) calls Delegation the most important leadership merit badge, regardless of role. His central argument: earning it means you've learned that your job is to build a team capable of doing quality work, not to do quality work yourself. He describes half-delegation (assigning work without authority) as a specific failure pattern that produces failure and erodes trust. The progression from manager to executive is described explicitly as a ladder of increasing delegation scope and decreasing oversight.
+Lopp (2020) calls Delegation the most important leadership merit badge, regardless of role. His central argument:
+
+> "The complete delegation of familiar work to another human is a clear vote of confidence in their ability, which is one essential way of forming trust within a team. Letting go of doing the hands-on work is a tricky and nonobvious win, but as a leader, you build yourself by building others."
+
+Lopp's Julie example is the canonical case: a director delegates a familiar project to a manager, the result is a B, and the director resists the urge to take it back. The four lessons: (1) trust was demonstrated by giving the work; (2) when bumpy, the response was coaching not overreaction; (3) the director learned not to micromanage; (4) the team completed it and earned experience. *"A little voice in your head says, 'If it had been me banging on the keyboard, it'd be an A.' Shush, little voice."*
+
+He describes half-delegation (assigning work without authority) as a specific failure pattern that produces failure and erodes trust. The progression from manager to executive is described explicitly as a ladder of increasing delegation scope and decreasing oversight (the Delegation Ladder).
 
 ## Open Questions
 

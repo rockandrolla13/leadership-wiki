@@ -111,5 +111,10 @@ If you are receiving feedback that you genuinely cannot act on (e.g., you disagr
 
 ## Sources
 
-- [[sources/lopp-art-of-leadership-2020]] — "Say the Hard Thing," "Moments of Disproportionate Satisfaction," and "The Compliment Breakdown" are the spine of this playbook.
-- [[sources/hbr-leadership-vol2-2020]] — Ibarra's "Authenticity Paradox" on processing negative feedback without retreating into identity defense.
+- [[sources/lopp-art-of-leadership-2020]] — "Say the Hard Thing," "Moments of Disproportionate Satisfaction," and "The Compliment Breakdown" are the spine of this playbook. Lopp's three classes of feedback (no big deal / slow burn / just plain hard) and his "feedback is a gift" framing are core.
+
+  > "Feedback is a gift. … The important part of feedback isn't just that you receive the gift; you also need to unwrap (or unpack) it."
+
+  Lopp's anatomy of a useful compliment — *specific, timely, selfless* — and the warning against "doghouse roses" (compliments with an implicit ask attached) are the practical core of giving feedback that builds trust rather than spending it.
+
+- [[sources/hbr-leadership-vol2-2020]] — Ibarra's **Authenticity Paradox** on processing negative feedback without retreating into identity defense; her warning against "sticking to your story" when the feedback contradicts it. The named feedback structure used throughout (**Situation → Behavior → Impact / SBI**) is the workhorse model.

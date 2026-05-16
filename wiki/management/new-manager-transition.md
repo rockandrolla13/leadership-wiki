@@ -98,4 +98,20 @@ If you are 60 days in and the Death Spiral has already started:
 
 ## Sources
 
-Lopp (2020): The New Manager Death Spiral chapter synthesizes every wrong instinct a new manager can have into a single cascading failure. The core lesson: the instincts that earned you the promotion are the wrong instincts for the new role. Trust is the binding agent that the Death Spiral destroys. The three antidotes are letting others change your mind, building a diverse team, and delegating more than is comfortable. The Blue Tape List (from the Director section) is a separate but complementary tool for managing the hyperawareness of a new context — observe, list, wait, then address.
+Lopp (2020): The **New Manager Death Spiral** chapter synthesizes every wrong instinct a new manager can have into a single cascading failure. The core lesson: the instincts that earned you the promotion are the wrong instincts for the new role.
+
+> "Management is not a promotion, it's a career restart."
+
+Trust is the binding agent that the Death Spiral destroys. The three antidotes Lopp names:
+
+1. **Let others change your mind** (trust through listening).
+2. **Build a diverse team** (trust through valuing different perspectives).
+3. **Delegate more than is comfortable** (trust through entrusting work).
+
+The **Blue Tape List** (from the Director section) is a separate but complementary tool for managing the hyperawareness of a new context — observe, list, wait, then address. Lopp's point: "everything broken will be visible to you" in the first 30 days, and that hyperawareness is an asset only if you discipline yourself not to act on it immediately.
+
+Lopp on the role transition itself:
+
+> "You are used to having complete visibility and total ownership of your work because that is how it worked in your former individual contributor work life."
+
+That mental model is the thing the New Manager Death Spiral preys on.

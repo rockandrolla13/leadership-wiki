@@ -79,7 +79,20 @@ The informal organization is always operating. It becomes most visible and most 
 
 ## Source Notes
 
-Katzenbach & Khan (2010): The formal and informal are not opposites — they are complements. The formal provides the logic; the informal provides the magic. The best organizations learn to mobilize both. Key constructs: the informal elements (shared values, informal networks, communities, pride), the Organizational Quotient (OQ), and the distinction between formal best practice and informal best performance. The book argues that most change failures are failures of informal mobilization, not formal design.
+Katzenbach & Khan (2010): The formal and informal are not opposites — they are complements. *"The formal provides the logic; the informal provides the magic."* The best organizations learn to mobilize both.
+
+Key constructs from the book:
+
+- **The informal elements:** shared values, informal networks, communities of practice, pride, peer-to-peer respect.
+- **Organizational Quotient (OQ):** The leader's ability to use both IQ (formal, rational tools) and EQ (informal, emotional intelligence) and know which to deploy in which situation. *"OQ comprises the analytic ability to know when to use formal management tools, balanced with the emotional savvy to know when to apply informal."*
+- **Three types of manager** (the pride-builder taxonomy):
+  - **The "good" manager** — passionate about measurable results and fairness, develops only those on formal paths, focuses on monetary rewards. Described by reports as *"a really good manager — I'm confident with Sam at the helm."*
+  - **The "people person"** — passionate about being well-liked, develops personal favorites, talks through issues. Described as *"easy to work with — believes people matter more than numbers."*
+  - **The pride-builder** — passionate about connecting company needs to each person's definition of success, holds high standards, role-models behavior. Described as *"someone you never want to disappoint" and "not easy to work for, but always really energizing."* This is the type that mobilizes the informal organization.
+- **Fast zebras and frozen tundra:** "Fast zebras" are the self-motivated, values-aligned individuals who run with change without being pushed; "frozen tundra" is the layer of middle management that resists.
+- **Values-displayed vs. values-driven organizations:** Enron displayed values; the U.S. Marine Corps drives them. *"A critical difference between these organizations lies in the use of the informal organization to bring the values to life."*
+
+The book's central argument: most change failures are failures of *informal mobilization*, not formal design.
 
 ## Open Questions
 

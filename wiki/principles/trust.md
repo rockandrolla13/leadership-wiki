@@ -76,6 +76,16 @@ Trust matters in every leadership relationship. It becomes most critical when:
 
 Lopp (2020) treats trust as the central binding agent in leadership. His three small things from the New Manager Death Spiral chapter all resolve to trust: letting others change your mind (trust through listening), building a diverse team (trust through valuing different perspectives), and delegating more than is comfortable (trust through entrusting work). He argues the 1:1 is the simplest and most reliable mechanism for building trust — not because of anything special about the format, but because consistent, high-bandwidth weekly conversation accumulates into a reliable relationship.
 
+Lopp on the slow trust-building loop of feedback:
+
+> "Feedback is a gift. The phrase is designed to remove the fear of receiving critical feedback, to reinforce the fact that you are about to receive a useful thing. … The important part of feedback isn't just that you receive the gift; you also need to unwrap (or unpack) it."
+
+And on the asymmetry of feedback as the test of trust:
+
+> "I am going to ask you for feedback in 1:1s regularly. I am never going to stop doing this, no matter how many times you say you have no feedback for me."
+
+Katzenbach & Khan (2010): Trust at the *team* level — distinct from one-to-one trust — is built through the shared experience of difficulty. *"The Old Guard trust each other because through a combination of luck, smarts, blood, sweat, and tears they managed to bring a new thing into the world."* The implication: trust on a new team is built by surviving something together, not by trust-falls or offsites. When the Old Guard / New Guard split emerges, the cure is a shared real challenge — what Lopp calls "Never Waste a Disaster."
+
 ## Open Questions
 
 - How does trust transfer (or not) when a manager is replaced? What can a new manager do to inherit existing trust rather than start from zero?

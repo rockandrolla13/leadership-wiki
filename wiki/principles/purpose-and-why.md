@@ -84,7 +84,13 @@ The WHY is most critical:
 
 ## Source Notes
 
-Sinek (2009, Start with Why): The Golden Circle — WHY → HOW → WHAT — explains why some leaders and organizations inspire while others merely manage. The biological basis: the limbic brain drives decisions and emotions but has no language, while the neocortex processes rational content. Starting with WHY speaks directly to the decision-making center. Examples: Wright Brothers (vs. Langley), Apple (vs. Dell), Martin Luther King (vs. other civil rights leaders). All started with WHY.
+Sinek (2009, *Start with Why*): The **Golden Circle** — WHY → HOW → WHAT — explains why some leaders and organizations inspire while others merely manage. The biological basis: the limbic brain drives decisions and emotions but has no language, while the neocortex processes rational content. Starting with WHY speaks directly to the decision-making center. Examples: Wright Brothers (vs. Langley), Apple (vs. Dell), Martin Luther King (vs. other civil rights leaders). All started with WHY.
+
+Sinek's central claim is sharp:
+
+> "People don't buy WHAT you do, they buy WHY you do it."
+
+He distinguishes inspiration from **manipulation** — the six tactics organizations reach for in absence of a clear WHY: *price, promotions, fear, aspirational messages, peer pressure, novelty*. All produce transactions; none produce loyalty. *"Manipulations are a perfectly valid strategy for driving a transaction… but the more they are used, the more it costs."* This list is the diagnostic to apply whenever a team is achieving compliance without commitment.
 
 Sinek/Mead/Docker (2017, Find Your Why): Practical process for discovering the WHY. Individual process: gather 10+ specific stories, find themes, draft statement in "To X so that Y" format. Tribe process: collective stories, facilitated theme identification, group WHY statement. Key insight: happiness comes from WHAT, fulfillment comes from WHY. The WHY is always there — it just needs to be surfaced, not invented.
 

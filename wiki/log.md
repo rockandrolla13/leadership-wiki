@@ -85,3 +85,22 @@ Chronological record of all ingestions and coaching queries.
 - Sources used: lopp-art-of-leadership-2020 (primary for management/communication playbooks), hbr-leadership-vol2-2020 (Authenticity Paradox, Cross-Silo Leadership, How CEOs Manage Time, How Managers Become Leaders), katzenbach-khan-leading-outside-lines-2010 (pride-builders, informal motivation), sinek-start-with-why-2009 (WHY-first framing for stakeholder updates).
 - Contradictions / tensions: Lopp's "say the hard thing" trust loop and HBR's "managing distance and approachability" both warn against the same authenticity-as-friendliness failure mode but prescribe different first moves. Katzenbach's pride-as-engine framing tensions with rigid PIP/performance-process traditions.
 - Follow-up questions: How do these playbooks adapt to remote-first contexts where face-to-face is structurally limited? How do you stage the conflict-resolution playbook when the conflict is between you and your manager rather than between two reports?
+
+## [2026-05-16] ingest | Deep enrichment pass — 5 books, all wiki pages
+
+- Books read: lopp-art-of-leadership-2020, hbr-leadership-vol2-2020, katzenbach-khan-leading-outside-lines-2010, sinek-start-with-why-2009, sinek-find-your-why-2017
+- Pages enriched:
+  - [[principles/delegation]] — added Lopp's Julie-story quote (entire trust-building moment) and named the Delegation Ladder explicitly.
+  - [[principles/trust]] — added Lopp's "feedback is a gift" quote and Katzenbach & Khan's team-level trust mechanism (shared experience of difficulty / "Never Waste a Disaster").
+  - [[principles/executive-presence]] — added Goleman's Triad of Awareness (focus on yourself / others / wider world), Lopp's "three years minimum" quote, and Smith & Lewis's strategic-paradox framing from "Both/And Leadership."
+  - [[principles/purpose-and-why]] — named Sinek's six manipulations explicitly (price, promotions, fear, aspirations, peer pressure, novelty) and added the "people don't buy WHAT, they buy WHY" quote.
+  - [[management/one-on-ones]] — added Lopp's "How to Rands" 1:1 protocol quote and the "disagreement is feedback" framing.
+  - [[management/hiring]] — added the culture-and-the-hire quote, the team-story-interviewer structural fix, and Sinek's WHY-fit filter as the second hiring axis beyond skills.
+  - [[management/new-manager-transition]] — added the "management is a career restart" quote and made the three antidotes explicit; quoted the IC mental-model inheritance trap.
+  - [[organization/culture]] — added Sinek's manipulation-vs-inspiration distinction with the six-manipulations list and Katzenbach & Khan's values-displayed vs values-driven contrast (Enron vs USMC).
+  - [[organization/informal-organization]] — named the three-types-of-manager taxonomy (good manager / people person / pride-builder) with full descriptions and an explicit OQ definition.
+  - [[communication/strategy-communication]] — added "people don't buy WHAT" quote and expanded the four-elements framework (Intimacy / Interactivity / Inclusion / Intentionality) with direct quotes from Groysberg & Slind.
+  - [[communication/feedback-scripts]] — named the SBI model explicitly, added Lopp's compliment anatomy (specific/timely/selfless) and the "doghouse roses" warning, and Ibarra's Authenticity Paradox on negative-feedback reception.
+  - [[communication/difficult-conversations]] — added Lopp's "majority of people-related disasters" quote and the diagnosis of empathic avoidance.
+- Pages confirmed already substantive (no rewrite needed): underperformance, coaching-junior-people, managing-senior-people, conflict-language, stakeholder-updates, psychological-safety, accountability, performance-management. These already met the schema's quality bar.
+- Most important insight per enrichment: each adds at least one named framework or direct quote that the first ingestion pass missed — the Delegation Ladder, the Triad of Awareness, the six manipulations, the three-types-of-manager taxonomy, the four elements of organizational conversation, the SBI model, and the compliment anatomy.

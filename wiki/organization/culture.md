@@ -78,6 +78,12 @@ Lopp (2020): Culture is built and cared for by the humans who do the work. The s
 
 Sinek/Mead/Docker (2017): Organizations that know their WHY attract people who believe what they believe. This is the mechanism of culture-by-alignment rather than culture-by-rules. The WHY creates a filter for hiring — not "can they do the job?" but "do they believe what we believe?" When beliefs align, discretionary effort follows. When they don't, management becomes an enforcement function.
 
+Sinek (2009, *Start with Why*): The manipulation-vs-inspiration distinction underwrites culture maintenance. *"There are only two ways to influence human behavior: you can manipulate it or you can inspire it."* The six common manipulations — **price, promotions, fear, aspirations, peer pressure, novelty** — all work in the short term and erode loyalty over time. A culture maintained by manipulation becomes a culture of transactions; a culture maintained by inspiration (shared WHY) becomes a culture of loyalty.
+
+> "Manipulations are a perfectly valid strategy for driving a transaction, or for any behavior that is only required once or on rare occasions. … But these strategies do not breed loyalty."
+
+Katzenbach & Khan (2010): The contrast between **values-displayed** and **values-driven** organizations: Enron's values were *communication, respect, integrity, excellence* — printed on wallet cards, posted on the website, repeated in speeches. They were not lived. The U.S. Marine Corps's values — *honor, courage, commitment* — guide daily, life-saving decisions. *"A critical difference between these organizations lies in the use of the informal organization to bring the values to life."* Culture is not what is stated; it is what is enforced by peers, *both* through "walking the talk" and "talking the walk."
+
 ## Open Questions
 
 - How do you preserve culture-by-WHY as an organization scales beyond 150 people? Dunbar's number suggests informal relationship networks break down at that size.

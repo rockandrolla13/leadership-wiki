@@ -91,4 +91,14 @@ If a critical hire is failing after 60+ days: audit the funnel. Where are candid
 
 ## Sources
 
-Lopp (2020): Hiring is the most important work a manager can do. The best engineering manager Lopp worked with built her reputation with two hires — both people he had described as unattainable. The mechanism was simple: spending time on recruiting every single day. The Must List is a core tool: a maintained spreadsheet of every person you'd want to work with again, reviewed monthly, contacted at 90-day intervals. The three phases of the engineering recruiting pipeline — Discover, Understand, Delight — are designed to put the candidate's evolving mindset at the center rather than the standard funnel metrics.
+Lopp (2020): Hiring is the most important work a manager can do. The best engineering manager Lopp worked with built her reputation with two hires — both people he had described as unattainable. The mechanism was simple: spending time on recruiting every single day. The **Must List** is a core tool: a maintained spreadsheet of every person you'd want to work with again, reviewed monthly, contacted at 90-day intervals. The three phases of the engineering recruiting pipeline — **Discover, Understand, Delight** — are designed to put the candidate's evolving mindset at the center rather than the standard funnel metrics.
+
+Lopp on culture and the hire:
+
+> "The simple fact is that culture is built and cared for by the humans who do the work. Your ability to shape the culture is a function of your ability to hire a diverse set of humans who are going to add to that culture."
+
+Lopp's specific structural fix for the "do you have any questions for me?" failure mode: explicitly assign one interviewer the job of telling the team's story.
+
+> "Your responsibility is to make sure the candidates understand your mission, culture, and values. While they will organically pick up some of this during interviews, you need to make sure it's one person's responsibility to clearly tell the engineering story."
+
+Sinek (2009, 2017): Adds the WHY-fit filter to skills evaluation. The hiring question is not only *"can they do the job?"* but *"do they believe what we believe?"* People hired for skills alone may execute well in the short term; people hired for WHY-alignment compound. Sinek's recommended interview probe: *"Tell me about a time in your career when you felt most aligned — like the work genuinely mattered. What made it feel that way?"* The answer reveals their WHY; you assess alignment with your team's WHY (see [[principles/purpose-and-why]]).

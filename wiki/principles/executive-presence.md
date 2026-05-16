@@ -78,7 +78,21 @@ Ibarra (HBR 2015, "The Authenticity Paradox"): Authenticity is not about always 
 
 Watkins (HBR 2012, "How Managers Become Leaders"): The seven seismic shifts define the cognitive and behavioral reorientation required when moving from functional to enterprise leadership. Each shift is a distinct mindset change, not just a skill increment. The biggest risk: executives default to the functional behaviors that earned them the promotion and under-invest in the genuinely new capabilities the enterprise role requires.
 
-Lopp (2020): Executive presence at the senior level includes "acting without asking" (doing things within your authority without waiting for permission), protecting unstructured time (the source of the most important executive thinking), and finding high-signal people in your network who will tell you the truth.
+Lopp (2020): Executive presence at the senior level includes "acting without asking" (doing things within your authority without waiting for permission), protecting unstructured time (the source of the most important executive thinking), and finding high-signal people in your network who will tell you the truth. Lopp's stark calibration on time-to-competence:
+
+> "It takes three years — minimum — to become competent at a new job. *Three years minimum*."
+
+Goleman (HBR 2013, "The Focused Leader"): Adds a third dimension to executive presence — *attention*. Goleman's **Triad of Awareness** frames the cognitive substrate of presence:
+
+1. **Focus on yourself** (self-awareness and self-control) — hearing your inner voice, somatic markers, cognitive empathy.
+2. **Focus on others** (the empathy triad: cognitive, emotional, empathic concern) — the foundation of relationship and influence.
+3. **Focus on the wider world** (strategy, innovation, systems) — the outward gaze that prevents being blindsided.
+
+> "A failure to focus inward leaves you rudderless, a failure to focus on others renders you clueless, and a failure to focus outward may leave you blindsided."
+
+Goleman also warns about a power-status effect that erodes presence: "As people rise through the ranks and gain power, their ability to perceive and maintain personal connections tends to suffer a sort of psychic attrition." The longer it takes person A to respond to person B, the more relative power A has. Executive presence is partly the discipline of *not* doing what hierarchy makes natural.
+
+Smith & Lewis (HBR, "Both/And Leadership"): At the executive level, presence is also the ability to hold paradox without collapsing it into a false choice. **Strategic paradoxes** — innovation/efficiency, global/local, profit/purpose — "cannot be definitively answered." The leader's job is to keep both halves alive: "consistently inconsistent" rather than falsely resolved.
 
 ## Open Questions
 

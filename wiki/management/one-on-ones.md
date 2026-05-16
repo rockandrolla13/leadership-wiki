@@ -84,3 +84,11 @@ If still stuck, try a format change: walk instead of sit, different location, sp
 ## Sources
 
 Lopp (2020): 1:1s are the mechanism through which professional trust and respect are built with the team. They represent the highest signal of the week. Lopp has conducted thousands of them and argues their value is not theoretical — it compounds from doing them reliably, not from understanding them conceptually. Key practice: schedule them as the first meeting in any new role; protect them during busy periods; use the opening question to read mood, not gather status.
+
+Lopp's explicit "How to Rands" 1:1 protocol (a model worth adopting or adapting as a "user guide for me"):
+
+> "We'll have a 1:1 every week for at least 30 minutes, except during HIGH ALERT. This meeting is for discussing topics of substance, not updates. I've created a private Slack channel for the two of us to capture future topics for our 1:1s as well as to provide a handy historic record of what we've discussed."
+
+And the protocol he names for feedback inside 1:1s:
+
+> "Disagreement is feedback, and the sooner we learn how to efficiently disagree with each other, the sooner (and more) we'll trust and respect each other. Ideas don't get better with agreement."

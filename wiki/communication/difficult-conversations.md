@@ -92,4 +92,15 @@ If the conversation involves a peer or senior person rather than a direct report
 ## Sources
 
 - [[sources/lopp-art-of-leadership-2020]] — "Say the Hard Thing," "A Performance Question," "The Checklist Sentence." The foundation of this playbook.
-- [[sources/hbr-leadership-vol2-2020]] — "The Authenticity Paradox" (Ibarra) on receiving hard feedback as a leader and not retreating into "your story"; "How Managers Become Leaders" on the negative-feedback shift.
+
+  Lopp's central indictment of empathic avoidance:
+
+  > "The majority of people-related disasters I've created have originated with my choice to not say the hard thing."
+
+  And his diagnosis of why empathic leaders fail at this specifically:
+
+  > "The difficulty with saying the hard thing is you know how it will feel to hear the hard thing. You're projecting yourself into the mind of the receiver and literally feeling their reaction. Thank you for being an empathic leader. However, your job, the work you should value the most, is helping your team grow."
+
+  The **Checklist Sentence** — "Have you had multiple face-to-face conversations over multiple months with the employee where you have clearly explained and agreed there is a gap in performance, and where you have agreed to specific measurable actions to address that gap?" — is the diagnostic that distinguishes coaching from performance management.
+
+- [[sources/hbr-leadership-vol2-2020]] — Ibarra's **"Authenticity Paradox"** on receiving hard feedback as a leader and not retreating into "your story"; the warning that the "true-to-selfer" who refuses feedback that contradicts identity stagnates faster than the "chameleon" who experiments. Goleman's "Focused Leader" on **cognitive empathy** as the skill underlying both giving and receiving hard feedback well.
