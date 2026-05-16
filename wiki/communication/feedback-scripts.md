@@ -4,8 +4,8 @@ title: "Feedback Scripts"
 tags: [feedback, communication, scripts]
 created: 2026-05-16
 updated: 2026-05-16
-sources: [lopp-art-of-leadership-2020, hbr-leadership-vol2-2020]
-related: [communication/difficult-conversations, principles/psychological-safety, principles/trust, management/one-on-ones, management/performance-management]
+sources: [lopp-art-of-leadership-2020, hbr-leadership-vol2-2020, bradberry-emotional-intelligence-2009]
+related: [communication/difficult-conversations, principles/psychological-safety, principles/trust, management/one-on-ones, management/performance-management, principles/emotional-intelligence]
 ---
 
 # Feedback Scripts
@@ -118,3 +118,19 @@ If you are receiving feedback that you genuinely cannot act on (e.g., you disagr
   Lopp's anatomy of a useful compliment — *specific, timely, selfless* — and the warning against "doghouse roses" (compliments with an implicit ask attached) are the practical core of giving feedback that builds trust rather than spending it.
 
 - [[sources/hbr-leadership-vol2-2020]] — Ibarra's **Authenticity Paradox** on processing negative feedback without retreating into identity defense; her warning against "sticking to your story" when the feedback contradicts it. The named feedback structure used throughout (**Situation → Behavior → Impact / SBI**) is the workhorse model.
+
+- [[sources/bradberry-emotional-intelligence-2009]] — Bradberry and Greaves treat feedback as a *relationship-building event* that requires all four [[principles/emotional-intelligence|EQ skills]] to land:
+
+  > "Giving feedback is a relationship-building event that requires all four EQ skills to be effective."
+
+  The practical contribution:
+
+  - **Calibrate to the receiver, not your defaults.** A direct receiver (their archetype "Todd") wants the unvarnished version; sugarcoating insults them. A sensitive receiver ("Jenni") receives the same content better when wrapped in softeners ("I believe…", "I think…", "There are parts of the report that could be stronger — may I walk you through some suggestions?"). The content stays the same; the form adapts.
+
+  - **Align intent with impact.** "I was only kidding" is what the misaligned say after the damage. The advanced practice is checking with the target *before* the comment leaves your mouth — and *after,* when you suspect it landed wrong: *"I want to check — when I said X in the meeting, my intent was Y. How did it land for you?"*
+
+  - **Acknowledge before solving.** When the receiver arrives emotional, the move is *"I'm sorry you're upset; what can I do?"* before any plan. Skipping this step degrades every subsequent step.
+
+  - **Receive feedback with the same skill set.** When you are the receiver, the move is: (1) name your own emotional reaction internally; (2) ask clarifying questions and request specific examples; (3) thank the giver regardless of agreement; (4) use the Emotion vs. Reason list before deciding what to act on.
+
+  These practices sit *underneath* SBI and Lopp's three-classes model. SBI specifies the content; calibration-to-receiver specifies the delivery; intent-vs-impact specifies the check.

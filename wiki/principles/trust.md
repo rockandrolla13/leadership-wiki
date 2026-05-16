@@ -4,8 +4,8 @@ title: "Trust"
 tags: [trust, psychological-safety, management, delegation, one-on-ones]
 created: 2026-05-16
 updated: 2026-05-16
-sources: [lopp-art-of-leadership-2020]
-related: [principles/psychological-safety, principles/delegation, management/one-on-ones, principles/accountability]
+sources: [lopp-art-of-leadership-2020, sinek-leaders-eat-last-2014, george-authentic-leadership-2003, bradberry-emotional-intelligence-2009]
+related: [principles/psychological-safety, principles/delegation, management/one-on-ones, principles/accountability, principles/authentic-leadership, principles/emotional-intelligence]
 ---
 
 # Trust
@@ -86,7 +86,20 @@ And on the asymmetry of feedback as the test of trust:
 
 Katzenbach & Khan (2010): Trust at the *team* level — distinct from one-to-one trust — is built through the shared experience of difficulty. *"The Old Guard trust each other because through a combination of luck, smarts, blood, sweat, and tears they managed to bring a new thing into the world."* The implication: trust on a new team is built by surviving something together, not by trust-falls or offsites. When the Old Guard / New Guard split emerges, the cure is a shared real challenge — what Lopp calls "Never Waste a Disaster."
 
+Sinek ([[sources/sinek-leaders-eat-last-2014]]) grounds trust in biology. Oxytocin — released during repeated, in-person, vulnerable interactions — is the chemical substrate of trust. Unlike dopamine (instant gratification, addictive), oxytocin is slow to build and durable. This explains several practical observations that the wiki has been treating separately: why handshakes still matter ("trust is not formed through a screen, it is formed across a table"); why telecommuters take longer to feel like part of the team; why Dunbar's number (~150) is a real ceiling on the size of a group in which a leader can maintain direct trust.
+
+> "Trust is like lubrication. It reduces friction and creates conditions much more conducive to performance." — [[sources/sinek-leaders-eat-last-2014|Sinek, 2014]]
+
+Sinek also names the *foxhole test* as the underlying question: "would I want to be in a foxhole with this person?" Trust is the answer when the cost of misjudging is high. The OCS Marine who fell asleep on watch and then denied it failed not because he fell asleep but because he tried to evade responsibility until forced. *"Taking responsibility for one's actions must happen at the time you perform your actions, not at the time you get caught."*
+
+George ([[sources/george-authentic-leadership-2003]]) provides the test for trust in your own decisions: the **front page of the New York Times** test. *"Whether we would feel comfortable having the entire story appear on the front page of the New York Times. If we didn't, we went back to the drawing boards and reexamined our decision."* This is the inside-the-inner-circle decision filter (Houghton's two concentric circles): a decision that is legal but you wouldn't want public is in the outer circle, and accumulating those decisions destroys trust faster than any single failure.
+
+George also identifies **CEO-itis** as the slow trust killer at the top. Quoting Daniel Vasella of Novartis: *"Once you get under the domination of making the quarter — even unwittingly — you start to compromise in the gray areas of your business. … The culprit that drives this cycle isn't the fear of failure so much as it is the craving for success."* Trust at scale is most often lost not by a single moral failure but by the cumulative pull of celebration, idealization, and the small compromises that buy more of both.
+
+Bradberry & Greaves ([[sources/bradberry-emotional-intelligence-2009]]) add the moment-to-moment skill set. Trust is the long-run output; [[principles/emotional-intelligence|emotional intelligence]] is the daily practice that produces it. *"Trust is built through open communication; willingness to share; consistency in words, actions, and behavior over time; and reliability in following through on the agreements of the relationship."* Every one of those is an EQ behavior; a leader without self-management or social awareness cannot produce them consistently.
+
 ## Open Questions
 
 - How does trust transfer (or not) when a manager is replaced? What can a new manager do to inherit existing trust rather than start from zero?
 - Is there a point where high trust makes a team fragile to outside shocks — e.g., trusting the manager more than the institution?
+- How does the oxytocin model adapt to remote-first organizations where face-to-face is rare or absent? Sinek argues it doesn't, but the wiki has not yet found a clean alternative mechanism.

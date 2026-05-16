@@ -4,8 +4,8 @@ title: "Difficult Conversations"
 tags: [difficult-conversations, feedback, conflict]
 created: 2026-05-16
 updated: 2026-05-16
-sources: [lopp-art-of-leadership-2020, hbr-leadership-vol2-2020]
-related: [communication/feedback-scripts, communication/conflict-language, principles/psychological-safety, principles/trust, management/underperformance]
+sources: [lopp-art-of-leadership-2020, hbr-leadership-vol2-2020, bradberry-emotional-intelligence-2009]
+related: [communication/feedback-scripts, communication/conflict-language, principles/psychological-safety, principles/trust, management/underperformance, principles/emotional-intelligence]
 ---
 
 # Difficult Conversations
@@ -104,3 +104,13 @@ If the conversation involves a peer or senior person rather than a direct report
   The **Checklist Sentence** — "Have you had multiple face-to-face conversations over multiple months with the employee where you have clearly explained and agreed there is a gap in performance, and where you have agreed to specific measurable actions to address that gap?" — is the diagnostic that distinguishes coaching from performance management.
 
 - [[sources/hbr-leadership-vol2-2020]] — Ibarra's **"Authenticity Paradox"** on receiving hard feedback as a leader and not retreating into "your story"; the warning that the "true-to-selfer" who refuses feedback that contradicts identity stagnates faster than the "chameleon" who experiments. Goleman's "Focused Leader" on **cognitive empathy** as the skill underlying both giving and receiving hard feedback well.
+
+- [[sources/bradberry-emotional-intelligence-2009]] — adds three pre-meeting practices that materially change how difficult conversations land:
+
+  - **Run the Emotion vs. Reason list before the meeting.** Draw a vertical line down a page. Left column: what your emotions are telling you to say. Right column: what your reason is telling you. Ask where each is clouding the other. The decision about what to say should be on paper before the conversation, not improvised in it.
+
+  - **Acknowledge feelings before solving problems.** If the other person arrives upset, "I'm sorry you're upset; what can I do?" comes before any plan. Trying to fix the problem while the receiver is still emotional means the fix doesn't land — they will agree in the room and revert later.
+
+  - **Align intent with impact, with an explicit check.** After the conversation, follow up: *"I want to check — when I said X, my intent was Y. How did it land for you?"* This is the single move that catches the conversations that *seemed* to go well but didn't.
+
+  The deeper claim: a difficult conversation is not one event; it is a four-stage [[principles/emotional-intelligence|EQ-driven]] sequence — self-aware about your own discomfort, self-managed about how you raise it, socially aware of how this specific receiver processes hard content, relationship-managed in how you close. Skipping any stage degrades the whole.

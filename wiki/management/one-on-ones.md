@@ -4,8 +4,8 @@ title: "One-on-Ones"
 tags: [one-on-ones, management, trust, coaching, feedback]
 created: 2026-05-16
 updated: 2026-05-16
-sources: [lopp-art-of-leadership-2020]
-related: [principles/trust, principles/delegation, management/performance-management]
+sources: [lopp-art-of-leadership-2020, bradberry-emotional-intelligence-2009]
+related: [principles/trust, principles/delegation, management/performance-management, principles/emotional-intelligence]
 ---
 
 # One-on-Ones
@@ -92,3 +92,11 @@ Lopp's explicit "How to Rands" 1:1 protocol (a model worth adopting or adapting 
 And the protocol he names for feedback inside 1:1s:
 
 > "Disagreement is feedback, and the sooner we learn how to efficiently disagree with each other, the sooner (and more) we'll trust and respect each other. Ideas don't get better with agreement."
+
+Bradberry & Greaves ([[sources/bradberry-emotional-intelligence-2009]]) add two practices that change the quality of signal a 1:1 produces:
+
+- **Don't take notes during the 1:1.** A pen in your hand pulls attention to the page; the high-signal data — pauses, tone shifts, the half-second hesitation before the answer — is in the face. Take notes after the meeting, not during it. If you need a record, ask permission to type for 30 seconds at the end and capture the commitments.
+
+- **Live in the moment.** "Planning the future and reflecting on the past are valuable exercises, but doing this throughout your day interferes with what is in front of you — your present." A 1:1 spent half-mentally on the next meeting captures roughly half the signal it could. The practice: close the laptop, turn the phone over, sit facing the person.
+
+The deeper principle is from EI 2.0's [[principles/emotional-intelligence|four-skill model]]: the 1:1 is the primary forum where the leader's *social awareness* (reading the person in front of them) and *relationship management* (acting on what they read) compound. The mechanism is high-signal, repeated, in-person attention — the exact opposite of what most calendars optimize for.

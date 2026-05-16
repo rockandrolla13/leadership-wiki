@@ -4,8 +4,8 @@ title: "Purpose and WHY"
 tags: [purpose, why, golden-circle, inspiration, motivation, culture, leadership]
 created: 2026-05-16
 updated: 2026-05-16
-sources: [sinek-find-your-why-2017, sinek-start-with-why-2009]
-related: [organization/culture, principles/executive-presence, management/hiring, communication/strategy-communication]
+sources: [sinek-find-your-why-2017, sinek-start-with-why-2009, sinek-leaders-eat-last-2014, george-authentic-leadership-2003]
+related: [organization/culture, principles/executive-presence, management/hiring, communication/strategy-communication, principles/authentic-leadership]
 ---
 
 # Purpose and WHY
@@ -94,8 +94,21 @@ He distinguishes inspiration from **manipulation** — the six tactics organizat
 
 Sinek/Mead/Docker (2017, Find Your Why): Practical process for discovering the WHY. Individual process: gather 10+ specific stories, find themes, draft statement in "To X so that Y" format. Tribe process: collective stories, facilitated theme identification, group WHY statement. Key insight: happiness comes from WHAT, fulfillment comes from WHY. The WHY is always there — it just needs to be surfaced, not invented.
 
+Sinek (2014, *Leaders Eat Last*) provides the **outsize the resources** corollary. Small businesses innovate more than large ones not because they have less but because their goals outsize their resources. "If the leaders of organizations give their people something to believe in, if they offer their people a challenge that outsizes their resources but not their intellect, the people will give everything they've got to solve the problem." Microsoft's "a PC on every desk." Steve Jobs's "put a dent in the universe." MLK's "I have a dream." A WHY without a goal big enough to mobilize discretionary effort decays into a slogan; a goal without a WHY decays into a target.
+
+George (2003, *Authentic Leadership*) operationalizes WHY at the CEO scale through the **mission-driven flywheel:**
+
+> Mission → motivated employees → product innovation + superior customer service → increased customer satisfaction → revenue growth → profit growth → reinvestment → mission.
+
+Shareholder value is the *output,* not the input. George's argument against shareholder-primacy is that "you cannot inspire employees by urging them to help management get the company's stock price up." Thousands of front-line employees designing, manufacturing, and selling products cannot be motivated by an EPS metric. They can be motivated by Medtronic's mission "to alleviate pain, restore health, and extend life" — which produced 32% compound annual growth in shareholder value 1985–2003, *because of* the mission, not in spite of it.
+
+> "Missions motivate; dollars don't." — [[sources/george-authentic-leadership-2003|George, 2003]]
+
+George operationalizes this at scale through the **Mission and Medallion** ceremony (see [[organization/culture]] and [[principles/authentic-leadership]] for the ritual). The mechanism is: every new hire meets the founder/CEO in person, hears the origin story, receives a physical token tied to the mission. This is how a WHY survives crossing the 150-person Dunbar threshold — by being instantiated in a costly, repeated, in-person ritual that the leader refuses to delegate.
+
 ## Open Questions
 
 - How does the WHY adapt over time? Can an organization's WHY evolve without losing its identity?
 - At what level of abstraction does the WHY become too vague to be useful? "To inspire people" could describe almost any positive organization.
 - How do you handle teams where individual WHYs are present but the organizational WHY is unclear or absent?
+- Sinek's WHY is treated as fixed (formed by adolescence). George's mission and Ibarra's "authenticity paradox" suggest more evolution is possible — even necessary — through leadership transitions. Where is the line between core stability and rigid attachment to a WHY that has stopped serving?

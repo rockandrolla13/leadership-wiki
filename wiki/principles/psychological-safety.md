@@ -1,11 +1,11 @@
 ---
 type: concept
 title: "Psychological Safety"
-tags: [psychological-safety, trust, feedback]
+tags: [psychological-safety, trust, feedback, circle-of-safety]
 created: 2026-05-16
 updated: 2026-05-16
-sources: [lopp-art-of-leadership-2020, hbr-leadership-vol2-2020, katzenbach-khan-leading-outside-lines-2010]
-related: [principles/trust, communication/feedback-scripts, communication/difficult-conversations, management/one-on-ones]
+sources: [lopp-art-of-leadership-2020, hbr-leadership-vol2-2020, katzenbach-khan-leading-outside-lines-2010, sinek-leaders-eat-last-2014, edmondson-extreme-teaming-2017, bradberry-emotional-intelligence-2009]
+related: [principles/trust, communication/feedback-scripts, communication/difficult-conversations, management/one-on-ones, management/cross-functional-teaming, principles/emotional-intelligence]
 ---
 
 # Psychological Safety
@@ -84,8 +84,19 @@ Lopp ties the same idea to feedback specifically: people are "extremely slow to 
 - Lopp ([[sources/lopp-art-of-leadership-2020]]) does not use the term "psychological safety" but the chapters "Say the Hard Thing" and "Trust Falls for Everyone!" describe exactly the same mechanism: feedback as a slow trust-building loop, anchored in 1:1s.
 - HBR Vol. 2 ([[sources/hbr-leadership-vol2-2020]]) uses the term directly in "Cross-Silo Leadership," tying it to the leader's role-modeling of inquiry: "leaders can encourage inquiry in two important ways — and in the process help create an organization where it's psychologically safe to ask questions."
 - Katzenbach & Khan ([[sources/katzenbach-khan-leading-outside-lines-2010]]) approach the same territory through "pride-builders" — managers who hold high standards while making it safe to bring half-finished ideas forward.
+- Sinek ([[sources/sinek-leaders-eat-last-2014]]) frames the same phenomenon as the **Circle of Safety**: the leader-bounded perimeter inside which team members can trust each other. *"When the people have to manage dangers from inside the organization, the organization itself becomes less able to face the dangers from outside."* The Circle is biological — built by oxytocin and serotonin, eroded by cortisol — and is the leader's primary structural job. Sinek's argument adds the anthropological grounding to Edmondson's organizational research: safety isn't a feature of the work; it is the precondition for the work.
+
+- Edmondson & Harvey ([[sources/edmondson-extreme-teaming-2017]]) — Amy Edmondson is the originator of the term in management research (1999). In *Extreme Teaming* she extends the construct to short-lived, cross-organizational teams of strangers, where the usual mechanisms (long shared history, mutual familiarity) are absent. Their finding: in extreme teaming, psychological safety is produced by two specific leader practices — **displaying authentic caring** and **framing cross-boundary work as a resource.**
+
+  - *Authentic caring* is not feeling; it is *visible presence,* *non-checking engagement,* and *acting on what you hear.* "When you lead such a project, you need to be visible. People need to know where to reach you, that you will pick up if they call and be attentive to what they have to say."
+  - *Framing cross-boundary work as a resource* means naming disagreement as "potential for discovery" and "learning opportunity," and explicitly treating each discipline's perspective as essential rather than as an obstacle to manage.
+
+  See [[management/cross-functional-teaming]] for the full playbook applying these to project leadership.
+
+- Bradberry & Greaves ([[sources/bradberry-emotional-intelligence-2009]]) — psychological safety does not exist without the leader's [[principles/emotional-intelligence|emotional management of themselves]]. A manager who loses their temper in a meeting affects everyone present, not just the target; the affected team members take fewer risks for months afterward. The granular EQ practices ("only get mad on purpose," "acknowledge the other person's feelings," "align intent with impact") are the moment-to-moment practices that aggregate into psychological safety over time.
 
 ## Open Questions
 
-- How does psychological safety scale beyond ~30 people, where the leader can no longer model it personally in every relationship? Lopp's "Rule of 3 and 10" suggests the mechanism breaks at predictable thresholds, but the wiki has no playbook yet for re-establishing it at scale.
+- How does psychological safety scale beyond ~30 people, where the leader can no longer model it personally in every relationship? Lopp's "Rule of 3 and 10" suggests the mechanism breaks at predictable thresholds; Sinek's Dunbar's-number-150 argument suggests the ceiling is higher but still real. The wiki has no clean playbook yet for re-establishing safety at scale.
 - How do you build safety with senior ICs who have been burned by previous regimes? See [[management/managing-senior-people]].
+- How does the Circle-of-Safety / authentic-caring model adapt to remote-first organizations where physical presence and "walking the halls" are not available? Both Sinek and Edmondson lean heavily on in-person mechanisms.

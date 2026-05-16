@@ -4,8 +4,8 @@ title: "Culture"
 tags: [culture, psychological-safety, trust, purpose, hiring, values]
 created: 2026-05-16
 updated: 2026-05-16
-sources: [lopp-art-of-leadership-2020, sinek-find-your-why-2017]
-related: [principles/trust, principles/psychological-safety, management/hiring, organization/team-design, principles/ownership]
+sources: [lopp-art-of-leadership-2020, sinek-find-your-why-2017, sinek-start-with-why-2009, katzenbach-khan-leading-outside-lines-2010, sinek-leaders-eat-last-2014, george-authentic-leadership-2003]
+related: [principles/trust, principles/psychological-safety, management/hiring, organization/team-design, principles/ownership, principles/authentic-leadership]
 ---
 
 # Culture
@@ -84,7 +84,22 @@ Sinek (2009, *Start with Why*): The manipulation-vs-inspiration distinction unde
 
 Katzenbach & Khan (2010): The contrast between **values-displayed** and **values-driven** organizations: Enron's values were *communication, respect, integrity, excellence* — printed on wallet cards, posted on the website, repeated in speeches. They were not lived. The U.S. Marine Corps's values — *honor, courage, commitment* — guide daily, life-saving decisions. *"A critical difference between these organizations lies in the use of the informal organization to bring the values to life."* Culture is not what is stated; it is what is enforced by peers, *both* through "walking the talk" and "talking the walk."
 
+Sinek ([[sources/sinek-leaders-eat-last-2014]]) — culture is the **Circle of Safety** in operation. The decisive variable is whether employees feel safe from *each other* inside the organization, freeing them to face external threats. Bob Chapman's **Truly Human Leadership** at Barry-Wehmiller is the canonical case: when the 2008 financial crisis hit and the company had to absorb a 30% revenue drop, Chapman refused layoffs and ran a furlough program in which every employee — CEO to receptionist — took four unpaid weeks. *"It is better that we all suffer a little, so that none of us has to suffer a lot."* The result was not just survival; it was a culture in which higher-paid employees voluntarily traded their furlough weeks with lower-paid colleagues. The contrast case Sinek tracks is Stanley O'Neal's Merrill Lynch: O'Neal explicitly dismantled "Mother Merrill," used a private elevator, instructed employees not to speak to him, and engineered a culture of internal competition. The company collapsed within years.
+
+> "Every single employee is someone's son or someone's daughter. Like a parent, a leader of a company is responsible for their precious lives." — Bob Chapman, quoted by Sinek
+
+The same source supplies the **Lifetime Employment** counter-example (Charlie Kim at Next Jump): explicit no-layoffs policy + extremely selective hiring (1 in 100). The result: turnover dropped from 40% to 1%; revenue growth nearly tripled (25% → 60%). The mechanism is not paternalism but the predictable downstream effect of changing the hiring filter and signaling to the team that the leader's promises survive bad quarters.
+
+George ([[sources/george-authentic-leadership-2003]]) operationalizes culture-by-WHY at scale through the **Mission and Medallion** ceremony. Every new hire at Medtronic — engineer, secretary, accounting clerk, executive — meets with the founder (or CEO) personally, hears the company's origin story, and receives a physical bronze medallion engraved with the mission. The ceremony scaled from a few employees in the 1950s to 28,000 globally by the time George retired. Earl Bakken's words handing over each medallion: *"This medallion is only given to Medtronic employees, not even our customers. Put it on your desk and look at it while you're working. If you get frustrated with your work, remember that you are here to help restore people to full life and health, not just to make money for yourself or the company."* The point is not the object; the point is that the CEO spent the hours to do this in person, repeatedly, signaling that the mission is more important than the calendar.
+
+George also identifies the **values-centered AND performance-driven** synthesis. Many leaders treat these as a trade-off; George argues they are complements. Joining Medtronic, he found a deeply values-centered culture that was "too Minnesota Nice" — consensus-driven, conflict-avoidant, low accountability. The work was to *keep* the values while *adding* disciplined performance management: challenging goals, named owners, no excuses, no rule adjustments to make missed targets look like hits. *"Empowerment with responsibility — is there any other kind?"* See [[principles/authentic-leadership]] for the full framework.
+
+> "Inculcating values throughout an organization starts with the leader, who sets the standard of behavior for everyone in the organization. The leader has to work hard every day to gain alignment with the company's values, reinforcing positive actions and swiftly taking action with employees who do not emulate these values." — [[sources/george-authentic-leadership-2003|George, 2003]]
+
+The contrast case George tracks is the Dutch student's observation about Arthur Andersen: *"Andersen didn't lose it all in a day. They sold their soul to their clients over the last five to ten years by compromising their values more and more, just to make money. What looks to you like a giant step in destroying documents was to them just another step in sacrificing values for greed."* Culture rots in increments, not in single failures; what protects it is the leader's discipline in catching the small compromises.
+
 ## Open Questions
 
-- How do you preserve culture-by-WHY as an organization scales beyond 150 people? Dunbar's number suggests informal relationship networks break down at that size.
+- How do you preserve culture-by-WHY as an organization scales beyond 150 people? Dunbar's number suggests informal relationship networks break down at that size. George's Mission and Medallion ritual is one answer at the Medtronic scale (28,000); does it work at 50,000+ or in remote-first contexts?
 - Is there a productive tension between strong WHY culture and genuine intellectual diversity? Can you have both?
+- How does Truly Human Leadership translate to industries with structurally cyclical employment (construction, gig, seasonal)? Sinek and Chapman work from a stable-employment-is-feasible premise that does not hold everywhere.

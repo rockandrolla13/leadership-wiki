@@ -1,18 +1,20 @@
 # Leadership Wiki Index
 
-_Last updated: 2026-05-16 | Pages: 27_
+_Last updated: 2026-05-16 | Pages: 30_
 
 ## Concept Pages
 | Page | Summary | Tags | Updated | Sources |
 |------|---------|------|---------|---------|
 | [[principles/delegation]] | Entrusting work with authority; the most important leadership merit badge | delegation, trust, ownership, scaling | 2026-05-16 | lopp-art-of-leadership-2020 |
-| [[principles/trust]] | The accumulated belief that a leader acts consistently and in the team's interests | trust, psychological-safety, one-on-ones | 2026-05-16 | lopp-art-of-leadership-2020 |
-| [[principles/psychological-safety]] | Conditions under which people take interpersonal risks | psychological-safety, trust, feedback | 2026-05-16 | lopp-art-of-leadership-2020, hbr-leadership-vol2-2020, katzenbach-khan-leading-outside-lines-2010 |
+| [[principles/trust]] | The accumulated belief that a leader acts consistently and in the team's interests | trust, psychological-safety, one-on-ones | 2026-05-16 | lopp-art-of-leadership-2020, sinek-leaders-eat-last-2014, george-authentic-leadership-2003, bradberry-emotional-intelligence-2009 |
+| [[principles/psychological-safety]] | Conditions under which people take interpersonal risks; the Circle of Safety | psychological-safety, trust, feedback, circle-of-safety | 2026-05-16 | lopp-art-of-leadership-2020, hbr-leadership-vol2-2020, katzenbach-khan-leading-outside-lines-2010, sinek-leaders-eat-last-2014, edmondson-extreme-teaming-2017, bradberry-emotional-intelligence-2009 |
 | [[principles/accountability]] | Distinguishing accountability from responsibility; owning outcomes | accountability, ownership, management | 2026-05-16 | lopp-art-of-leadership-2020, hbr-leadership-vol2-2020 |
 | [[principles/ownership]] | Team members acting as owners rather than executors | ownership, accountability | 2026-05-16 | lopp-art-of-leadership-2020, katzenbach-khan-leading-outside-lines-2010, sinek-start-with-why-2009 |
 | [[principles/executive-presence]] | The ability to command attention and inspire confidence at scale | executive-presence, authenticity, leadership-transition | 2026-05-16 | hbr-leadership-vol2-2020, lopp-art-of-leadership-2020 |
-| [[principles/purpose-and-why]] | The Golden Circle: WHY → HOW → WHAT; purpose as the foundation of leadership | purpose, why, golden-circle, inspiration | 2026-05-16 | sinek-find-your-why-2017, sinek-start-with-why-2009 |
-| [[organization/culture]] | What is actually valued and rewarded, carried by the people who do the work | culture, trust, purpose, hiring | 2026-05-16 | lopp-art-of-leadership-2020, sinek-find-your-why-2017 |
+| [[principles/purpose-and-why]] | The Golden Circle: WHY → HOW → WHAT; purpose as the foundation of leadership | purpose, why, golden-circle, inspiration | 2026-05-16 | sinek-find-your-why-2017, sinek-start-with-why-2009, sinek-leaders-eat-last-2014, george-authentic-leadership-2003 |
+| [[principles/emotional-intelligence]] | Four-skill model: self-awareness, self-management, social awareness, relationship management | emotional-intelligence, self-awareness, social-awareness | 2026-05-16 | bradberry-emotional-intelligence-2009, hbr-leadership-vol2-2020 |
+| [[principles/authentic-leadership]] | Leading from purpose, values, heart, relationships, self-discipline | authenticity, purpose, values, integrity | 2026-05-16 | george-authentic-leadership-2003, sinek-leaders-eat-last-2014, hbr-leadership-vol2-2020 |
+| [[organization/culture]] | What is actually valued and rewarded, carried by the people who do the work | culture, trust, purpose, hiring | 2026-05-16 | lopp-art-of-leadership-2020, sinek-find-your-why-2017, sinek-start-with-why-2009, katzenbach-khan-leading-outside-lines-2010, sinek-leaders-eat-last-2014, george-authentic-leadership-2003 |
 | [[organization/informal-organization]] | The networks, norms, and emotional commitments that exist outside formal lines | informal-organization, change-management, motivation | 2026-05-16 | katzenbach-khan-leading-outside-lines-2010 |
 | [[organization/organizational-politics]] | Navigating interests and coalitions in the organization | organizational-politics, stakeholders | 2026-05-16 | — |
 | [[organization/decision-rights]] | Who decides what and how | decision-rights, accountability | 2026-05-16 | — |
@@ -35,6 +37,7 @@ _Last updated: 2026-05-16 | Pages: 27_
 | [[management/underperformance]] | Diagnosing and addressing underperformance before it becomes a crisis | underperformance, coaching, feedback | 2026-05-16 |
 | [[management/coaching-junior-people]] | Developing early-career team members | coaching, mentoring, development | 2026-05-16 |
 | [[management/managing-senior-people]] | Working with senior individual contributors and principal-level talent | senior-people, management | 2026-05-16 |
+| [[management/cross-functional-teaming]] | Leading cross-disciplinary, cross-org project teams using Edmondson's four leadership functions | teaming, cross-functional, psychological-safety, innovation | 2026-05-16 |
 | [[communication/strategy-communication]] | Communicating direction starting with WHY, then HOW, then WHAT | strategy, communication, inspiration | 2026-05-16 |
 | [[communication/difficult-conversations]] | Navigating uncomfortable conversations with directness and care | difficult-conversations, feedback | 2026-05-16 |
 | [[communication/feedback-scripts]] | Exact language for delivering and requesting feedback | feedback, communication | 2026-05-16 |
@@ -54,6 +57,10 @@ _Last updated: 2026-05-16 | Pages: 27_
 | [[sources/sinek-start-with-why-2009]] | Simon Sinek | Book | 2026-05-16 | strategy-communication, purpose-and-why, ownership, stakeholder-updates |
 | [[sources/hbr-leadership-vol2-2020]] | Harvard Business Review | Book | 2026-05-16 | executive-presence, strategy-communication, psychological-safety, accountability, difficult-conversations, feedback-scripts, conflict-language, stakeholder-updates, coaching-junior-people, managing-senior-people |
 | [[sources/katzenbach-khan-leading-outside-lines-2010]] | Katzenbach & Khan | Book | 2026-05-16 | culture, informal-organization, psychological-safety, ownership, conflict-language, coaching-junior-people, managing-senior-people |
+| [[sources/sinek-leaders-eat-last-2014]] | Simon Sinek | Book | 2026-05-16 | trust, psychological-safety, culture, purpose-and-why, authentic-leadership |
+| [[sources/bradberry-emotional-intelligence-2009]] | Travis Bradberry & Jean Greaves | Book | 2026-05-16 | emotional-intelligence, feedback-scripts, difficult-conversations, one-on-ones, trust |
+| [[sources/edmondson-extreme-teaming-2017]] | Amy Edmondson & Jean-François Harvey | Book | 2026-05-16 | cross-functional-teaming, psychological-safety |
+| [[sources/george-authentic-leadership-2003]] | Bill George | Book | 2026-05-16 | authentic-leadership, purpose-and-why, culture, trust |
 
 ## Personal Development Pages
 | Page | Summary | Updated |

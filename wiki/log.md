@@ -104,3 +104,26 @@ Chronological record of all ingestions and coaching queries.
   - [[communication/difficult-conversations]] — added Lopp's "majority of people-related disasters" quote and the diagnosis of empathic avoidance.
 - Pages confirmed already substantive (no rewrite needed): underperformance, coaching-junior-people, managing-senior-people, conflict-language, stakeholder-updates, psychological-safety, accountability, performance-management. These already met the schema's quality bar.
 - Most important insight per enrichment: each adds at least one named framework or direct quote that the first ingestion pass missed — the Delegation Ladder, the Triad of Awareness, the six manipulations, the three-types-of-manager taxonomy, the four elements of organizational conversation, the SBI model, and the compliment anatomy.
+
+## [2026-05-16] ingest | Group A — Leaders Eat Last, EI 2.0, Extreme Teaming, Authentic Leadership
+
+- Sources ingested: sinek-leaders-eat-last-2014, bradberry-emotional-intelligence-2009, edmondson-extreme-teaming-2017, george-authentic-leadership-2003
+- Pages created:
+  - [[sources/sinek-leaders-eat-last-2014.md]]
+  - [[sources/bradberry-emotional-intelligence-2009.md]]
+  - [[sources/edmondson-extreme-teaming-2017.md]]
+  - [[sources/george-authentic-leadership-2003.md]]
+  - [[principles/emotional-intelligence.md]]
+  - [[principles/authentic-leadership.md]]
+  - [[management/cross-functional-teaming.md]]
+- Pages updated:
+  - [[principles/trust.md]] — added biology of trust (oxytocin), foxhole test, NYT front-page test, CEO-itis
+  - [[principles/psychological-safety.md]] — added Circle of Safety framing, authentic caring practice, EQ as the daily skill set
+  - [[organization/culture.md]] — added Truly Human Leadership (Barry-Wehmiller), Lifetime Employment (Next Jump), Mission and Medallion (Medtronic), values-centered AND performance-driven synthesis
+  - [[principles/purpose-and-why.md]] — added "outsize the resources" framing, the mission-driven flywheel, "missions motivate; dollars don't"
+  - [[communication/feedback-scripts.md]] — added calibrate-to-receiver (Todd vs. Jenni), intent-vs-impact check, feedback as a relationship-building event
+  - [[communication/difficult-conversations.md]] — added Emotion vs. Reason list, acknowledge-before-solving, four-stage EQ sequence
+  - [[management/one-on-ones.md]] — added "don't take notes during the meeting" and "live in the moment" practices
+- Key concepts: Circle of Safety, E.D.S.O. (endorphins/dopamine/serotonin/oxytocin), Truly Human Leadership, Lifetime Employment, "I intend to" (Marquet), Dunbar's number, Mission and Medallion, the Four-Skill EQ model (self-awareness → self-management → social awareness → relationship management), Emotion vs. Reason list, intent-vs-impact alignment, Five Dimensions of Authentic Leadership (Purpose, Values, Heart, Relationships, Self-Discipline), the crucible, the two concentric circles (Houghton), the stakeholder order (customers → employees → shareholders), Extreme Teaming's four leadership functions (Build Engaging Vision, Cultivate Psychological Safety, Develop Shared Mental Models, Empower Agile Execution), authentic caring, boundary objects, expert decision clusters, room to maneuver.
+- Contradictions / tensions: George's "be yourself" (2003) vs. Ibarra's "authenticity paradox" (HBR Vol. 2) — the synthesis is core-stable / expression-adaptive. Sinek's protection-first ethic vs. Lopp's say-the-hard-thing — both fail in opposite directions; the synthesis is protection-from-external-blame as the precondition for internal honesty. Bradberry & Greaves's calibrate-to-receiver vs. Lopp's directness — Todd vs. Jenni framing reconciles them. Sinek and George together push the wiki away from shareholder-primacy framing and toward stakeholder-order framing.
+- Follow-up questions: How does the Circle of Safety / Mission-and-Medallion model adapt to remote-first organizations where physical presence is structurally limited? Can extreme teaming's four-function model be inverted to diagnose which function is missing when a project is failing? What does the realistic curve of EQ improvement look like by age and starting score? How does George's stakeholder order hold up in industries with diffuse missions (financial services, platform software)?
