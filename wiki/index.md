@@ -1,6 +1,6 @@
 # Leadership Wiki Index
 
-_Last updated: 2026-05-17 | Pages: 76_
+_Last updated: 2026-05-17 | Pages: 79_
 
 ## Concept Pages
 | Page | Summary | Tags | Updated | Sources |
@@ -29,7 +29,8 @@ _Last updated: 2026-05-17 | Pages: 76_
 | [[principles/hands-on-leadership]] | Cook & Nohria's five principles: top CEOs architect how work gets done | hands-on, ceo-role, execution, continuous-improvement | 2026-05-16 | hbr-stop-holding-yourself-back-2025 |
 | [[principles/influence]] | Positional vs. personal power; managing up, peer partnering, idea promotion | influence, power, managing-up, silo-busting | 2026-05-16 | hbr-managers-handbook-17-skills, hbr-leadership-vol1 |
 | [[organization/adaptive-organization]] | Octopus Org: clarity, ownership, curiosity through hypothesize/experiment/reflect/spread | adaptive-organization, octopus-org, antipatterns | 2026-05-16 | hbr-stop-holding-yourself-back-2025 |
-| [[organization/c-suite-as-team]] | Gartner: only 31% of C-suite see peers as primary team; shared goals as the lever | c-suite, executive-team, top-team, chro | 2026-05-16 | hbr-stop-holding-yourself-back-2025, hbr-building-better-teams |
+| [[organization/c-suite-as-team]] | Gartner: only 31% of C-suite see peers as primary team; shared goals as the lever | c-suite, executive-team, top-team, chro | 2026-05-16 |
+| [[principles/motivation]] | Sustained directed energy — intrinsic vs extrinsic, neurochemistry, pride-builder taxonomy, and what a leader can actually do | motivation, intrinsic-motivation, incentives, informal-organization | 2026-05-17 | hbr-stop-holding-yourself-back-2025, hbr-building-better-teams |
 
 ## Framework Pages
 | Page | Summary | Tags | Updated |
@@ -67,6 +68,7 @@ _Last updated: 2026-05-17 | Pages: 76_
 | [[management/multicultural-teams]] | Brett/Behfar/Kern's four-intervention hierarchy for cross-cultural friction | multicultural-teams, cross-cultural, brett-behfar-kern | 2026-05-16 |
 | [[coaching/career-development]] | Career conversations distinct from performance; stretch design; hidden-blocker diagnosis | career, development, stretch-assignments | 2026-05-16 |
 | [[communication/productive-disagreement]] | Minson et al.: words matter more than mindset; hedge, acknowledge, ask, surface | disagreement, conflict, minson, scripts | 2026-05-16 |
+| [[organization/change-management]] | When formal change is failing: map the informal network, mobilize fast zebras, address frozen tundra | change-management, informal-organization, resistance, mobilization | 2026-05-17 |
 
 ## Case Pages
 | Page | Summary | Tags | Date | Status |
@@ -100,5 +102,6 @@ _Last updated: 2026-05-17 | Pages: 76_
 | [[coaching/personal-leadership-profile]] | Living profile: style, patterns, goals | 2026-05-16 |
 | [[coaching/recurring-patterns]] | Patterns observed across cases | 2026-05-16 |
 | [[coaching/development-plan]] | Active development priorities | 2026-05-16 |
+| [[coaching/microstress]] | Cross & Dillon's 14-source taxonomy: the invisible cumulative load that erodes high-performers | microstress, resilience, burnout, energy | 2026-05-17 |
 | [[coaching/leadership-scorecard]] | Track leadership effectiveness across key dimensions over time | 2026-05-16 |
 | [[coaching/weekly-reflections]] | Structured weekly reflection on leadership patterns and experiments | 2026-05-16 |

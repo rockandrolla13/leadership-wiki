@@ -4,6 +4,13 @@ Chronological record of all ingestions and coaching queries.
 
 ---
 
+## [2026-05-17] lint-fix | Create 3 missing concept pages
+
+- Pages created: principles/motivation, organization/change-management, coaching/microstress
+- Sources: katzenbach-khan-leading-outside-lines-2010, sinek-leaders-eat-last-2014, hbr-managing-yourself, hbr-must-reads-2025, hbr-must-reads-2026, bradberry-emotional-intelligence-2009, hbr-leadership-vol1
+
+---
+
 ## [2026-05-16] ingest | The Art of Leadership Small Things, Done Well (Michael Lopp)
 
 - Source: raw/books/markdown/The Art of Leadership Small Things, Done Well (Michael Lopp).md
