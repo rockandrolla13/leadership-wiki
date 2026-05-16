@@ -7,9 +7,9 @@ _Last updated: 2026-05-16 | Pages: 27_
 |------|---------|------|---------|---------|
 | [[principles/delegation]] | Entrusting work with authority; the most important leadership merit badge | delegation, trust, ownership, scaling | 2026-05-16 | lopp-art-of-leadership-2020 |
 | [[principles/trust]] | The accumulated belief that a leader acts consistently and in the team's interests | trust, psychological-safety, one-on-ones | 2026-05-16 | lopp-art-of-leadership-2020 |
-| [[principles/psychological-safety]] | Conditions under which people take interpersonal risks | psychological-safety, trust, feedback | 2026-05-16 | — |
-| [[principles/accountability]] | Distinguishing accountability from responsibility; owning outcomes | accountability, ownership, management | 2026-05-16 | — |
-| [[principles/ownership]] | Team members acting as owners rather than executors | ownership, accountability | 2026-05-16 | — |
+| [[principles/psychological-safety]] | Conditions under which people take interpersonal risks | psychological-safety, trust, feedback | 2026-05-16 | lopp-art-of-leadership-2020, hbr-leadership-vol2-2020, katzenbach-khan-leading-outside-lines-2010 |
+| [[principles/accountability]] | Distinguishing accountability from responsibility; owning outcomes | accountability, ownership, management | 2026-05-16 | lopp-art-of-leadership-2020, hbr-leadership-vol2-2020 |
+| [[principles/ownership]] | Team members acting as owners rather than executors | ownership, accountability | 2026-05-16 | lopp-art-of-leadership-2020, katzenbach-khan-leading-outside-lines-2010, sinek-start-with-why-2009 |
 | [[principles/executive-presence]] | The ability to command attention and inspire confidence at scale | executive-presence, authenticity, leadership-transition | 2026-05-16 | hbr-leadership-vol2-2020, lopp-art-of-leadership-2020 |
 | [[principles/purpose-and-why]] | The Golden Circle: WHY → HOW → WHAT; purpose as the foundation of leadership | purpose, why, golden-circle, inspiration | 2026-05-16 | sinek-find-your-why-2017, sinek-start-with-why-2009 |
 | [[organization/culture]] | What is actually valued and rewarded, carried by the people who do the work | culture, trust, purpose, hiring | 2026-05-16 | lopp-art-of-leadership-2020, sinek-find-your-why-2017 |
@@ -49,11 +49,11 @@ _Last updated: 2026-05-16 | Pages: 27_
 ## Source Summaries
 | Page | Author | Type | Ingested | Pages Updated |
 |------|--------|------|----------|---------------|
-| [[sources/lopp-art-of-leadership-2020]] | Michael Lopp | Book | 2026-05-16 | one-on-ones, delegation, trust, performance-management, hiring, new-manager-transition |
+| [[sources/lopp-art-of-leadership-2020]] | Michael Lopp | Book | 2026-05-16 | one-on-ones, delegation, trust, performance-management, hiring, new-manager-transition, psychological-safety, accountability, ownership, difficult-conversations, feedback-scripts, conflict-language, stakeholder-updates, underperformance, coaching-junior-people, managing-senior-people |
 | [[sources/sinek-find-your-why-2017]] | Sinek, Mead, Docker | Book | 2026-05-16 | culture, purpose-and-why |
-| [[sources/sinek-start-with-why-2009]] | Simon Sinek | Book | 2026-05-16 | strategy-communication, purpose-and-why |
-| [[sources/hbr-leadership-vol2-2020]] | Harvard Business Review | Book | 2026-05-16 | executive-presence, strategy-communication |
-| [[sources/katzenbach-khan-leading-outside-lines-2010]] | Katzenbach & Khan | Book | 2026-05-16 | culture, informal-organization |
+| [[sources/sinek-start-with-why-2009]] | Simon Sinek | Book | 2026-05-16 | strategy-communication, purpose-and-why, ownership, stakeholder-updates |
+| [[sources/hbr-leadership-vol2-2020]] | Harvard Business Review | Book | 2026-05-16 | executive-presence, strategy-communication, psychological-safety, accountability, difficult-conversations, feedback-scripts, conflict-language, stakeholder-updates, coaching-junior-people, managing-senior-people |
+| [[sources/katzenbach-khan-leading-outside-lines-2010]] | Katzenbach & Khan | Book | 2026-05-16 | culture, informal-organization, psychological-safety, ownership, conflict-language, coaching-junior-people, managing-senior-people |
 
 ## Personal Development Pages
 | Page | Summary | Updated |

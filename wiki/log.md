@@ -67,3 +67,21 @@ Chronological record of all ingestions and coaching queries.
 - Key concepts: informal organization, formal vs informal, organizational quotient (OQ), fast zebras, frozen tundra, pride as motivator, informal hubs, mobilization
 - Contradictions / tensions: Complements Sinek's WHY (purpose motivates informally); tensions with overly-formal views of change management.
 - Follow-up questions: How do informal networks function in remote-first organizations? Is the formal/informal binary sufficient?
+
+## [2026-05-16] ingest | Second pass — filling stub pages from book content
+
+- Pages updated:
+  - [[principles/psychological-safety.md]]
+  - [[principles/accountability.md]]
+  - [[principles/ownership.md]]
+  - [[communication/difficult-conversations.md]]
+  - [[communication/feedback-scripts.md]]
+  - [[communication/conflict-language.md]]
+  - [[communication/stakeholder-updates.md]]
+  - [[management/underperformance.md]]
+  - [[management/coaching-junior-people.md]]
+  - [[management/managing-senior-people.md]]
+- Key concepts added: accountability vs responsibility (Lopp), the "checklist sentence" for performance, SBI feedback framing, Lopp's three classes of feedback (no big deal / slow burn / just plain hard), Old Guard / New Guard dynamic, pride-builder vs "good manager" vs "people person," disagree-and-commit language, the WHY-first stakeholder update structure, escalation from coaching to written feedback to formal process, "say the hard thing" loop, "shush, little voice" letting work be a B.
+- Sources used: lopp-art-of-leadership-2020 (primary for management/communication playbooks), hbr-leadership-vol2-2020 (Authenticity Paradox, Cross-Silo Leadership, How CEOs Manage Time, How Managers Become Leaders), katzenbach-khan-leading-outside-lines-2010 (pride-builders, informal motivation), sinek-start-with-why-2009 (WHY-first framing for stakeholder updates).
+- Contradictions / tensions: Lopp's "say the hard thing" trust loop and HBR's "managing distance and approachability" both warn against the same authenticity-as-friendliness failure mode but prescribe different first moves. Katzenbach's pride-as-engine framing tensions with rigid PIP/performance-process traditions.
+- Follow-up questions: How do these playbooks adapt to remote-first contexts where face-to-face is structurally limited? How do you stage the conflict-resolution playbook when the conflict is between you and your manager rather than between two reports?
