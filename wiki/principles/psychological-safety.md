@@ -4,8 +4,8 @@ title: "Psychological Safety"
 tags: [psychological-safety, trust, feedback, circle-of-safety]
 created: 2026-05-16
 updated: 2026-05-16
-sources: [lopp-art-of-leadership-2020, hbr-leadership-vol2-2020, katzenbach-khan-leading-outside-lines-2010, sinek-leaders-eat-last-2014, edmondson-extreme-teaming-2017, bradberry-emotional-intelligence-2009]
-related: [principles/trust, communication/feedback-scripts, communication/difficult-conversations, management/one-on-ones, management/cross-functional-teaming, principles/emotional-intelligence]
+sources: [lopp-art-of-leadership-2020, hbr-leadership-vol2-2020, katzenbach-khan-leading-outside-lines-2010, sinek-leaders-eat-last-2014, edmondson-extreme-teaming-2017, bradberry-emotional-intelligence-2009, hbr-leadership-vol1, hbr-building-better-teams, hbr-stop-holding-yourself-back-2025, hbr-must-reads-2025, hbr-must-reads-2026]
+related: [principles/trust, communication/feedback-scripts, communication/difficult-conversations, management/one-on-ones, management/cross-functional-teaming, principles/emotional-intelligence, communication/productive-disagreement, management/team-building, organization/leadership-teams]
 ---
 
 # Psychological Safety
@@ -100,3 +100,17 @@ Lopp ties the same idea to feedback specifically: people are "extremely slow to 
 - How does psychological safety scale beyond ~30 people, where the leader can no longer model it personally in every relationship? Lopp's "Rule of 3 and 10" suggests the mechanism breaks at predictable thresholds; Sinek's Dunbar's-number-150 argument suggests the ceiling is higher but still real. The wiki has no clean playbook yet for re-establishing safety at scale.
 - How do you build safety with senior ICs who have been burned by previous regimes? See [[management/managing-senior-people]].
 - How does the Circle-of-Safety / authentic-caring model adapt to remote-first organizations where physical presence and "walking the halls" are not available? Both Sinek and Edmondson lean heavily on in-person mechanisms.
+
+## Additional Source Notes (Group C — HBR collections)
+
+- HBR Vol. 1 ([[sources/hbr-leadership-vol1]]) — Goleman's "What Makes a Leader?" provides the EI substrate of psychological safety. Empathy and social skill are the two EI components most directly responsible for whether a leader produces a safe room or an unsafe one. The leader's emotional self-regulation (component 2 in Goleman's framework) is the moment-to-moment input: a leader who reacts defensively to the first piece of hard feedback teaches everyone else that the room is unsafe.
+
+- HBR on Building Better Teams ([[sources/hbr-building-better-teams]]) — Eisenhardt's "How Management Teams Can Have a Good Fight" reframes psychological safety as the precondition for *productive disagreement*: it is not absence of conflict but the safety to disagree intensely about the work without it becoming personal. Her five tactics (fact-based discussion, multiple alternatives, shared goals, humor, balanced power) are the conditions under which safety produces output rather than just comfort. See [[communication/productive-disagreement]] for the operationalization.
+
+- HBR Nov–Dec 2025 ([[sources/hbr-stop-holding-yourself-back-2025]]) — Werner & Le-Brun's "Octopus Organization" identifies the absence of psychological safety as one of the three antipattern categories ("behaviors that undermine ownership"). The remedy is structural: principle-based decisions over bureaucratic approvals; experimentation with "fire extinguishers" (budget reserves, backup teams) so that trying something new feels less risky to the person trying it.
+
+## Additional Source Notes (Group B — HBR Must Reads 2025 / 2026)
+
+- HBR 2025 ([[sources/hbr-must-reads-2025]]) — Laura Morgan Roberts's **Four Freedoms** framing (freedom to be, become, fade, fail) reframes the psychological-safety conversation: the **freedom to fail** is the cousin of safety, but the other three are usually missing in safety discussions. A team can be "safe to speak" but still unsafe to *be authentically yourself* (freedom to be), unsafe to *grow into your strengths* (freedom to become), or unsafe to *step back from constant spotlight* (freedom to fade). The wiki should treat psychological safety as one of four freedoms, not as the totality.
+
+- HBR 2026 ([[sources/hbr-must-reads-2026]]) — Keil & Zangrillo's **petting-zoo** dysfunction pattern is the cautionary note this page needed: too much safety can become its own pathology, where no one is willing to disagree and the team confuses harmony with health. Safety should produce *productive disagreement*, not consensus-by-default. See [[organization/leadership-teams]] for the diagnostic and repair. Erin Meyer's "Build a Corporate Culture That Works" supplies the related Netflix maxim: *"No brilliant jerks; the cost to teamwork is just too high"* — safety is preserved by removing chronically corrosive members, not by tolerating them in the name of inclusion.

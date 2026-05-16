@@ -4,8 +4,8 @@ title: "Purpose and WHY"
 tags: [purpose, why, golden-circle, inspiration, motivation, culture, leadership]
 created: 2026-05-16
 updated: 2026-05-16
-sources: [sinek-find-your-why-2017, sinek-start-with-why-2009, sinek-leaders-eat-last-2014, george-authentic-leadership-2003]
-related: [organization/culture, principles/executive-presence, management/hiring, communication/strategy-communication, principles/authentic-leadership]
+sources: [sinek-find-your-why-2017, sinek-start-with-why-2009, sinek-leaders-eat-last-2014, george-authentic-leadership-2003, hbr-managing-yourself]
+related: [organization/culture, principles/executive-presence, management/hiring, communication/strategy-communication, principles/authentic-leadership, coaching/personal-leadership-development]
 ---
 
 # Purpose and WHY
@@ -112,3 +112,17 @@ George operationalizes this at scale through the **Mission and Medallion** cerem
 - At what level of abstraction does the WHY become too vague to be useful? "To inspire people" could describe almost any positive organization.
 - How do you handle teams where individual WHYs are present but the organizational WHY is unclear or absent?
 - Sinek's WHY is treated as fixed (formed by adolescence). George's mission and Ibarra's "authenticity paradox" suggest more evolution is possible — even necessary — through leadership transitions. Where is the line between core stability and rigid attachment to a WHY that has stopped serving?
+
+## Additional Source Notes (Group B — HBR Managing Yourself)
+
+- [[sources/hbr-managing-yourself]] — John Coleman's "You Don't Find Your Purpose, You Build It" provides a significant qualifier to the Sinek frame at the individual level. Coleman identifies three misconceptions:
+
+  1. **Purpose is only a thing you find.** The "Hollywood version" (waiting for a calling). Coleman: this is rare. For most people, professional purpose is *constructed* by deliberately focusing on what's meaningful in the work you have. "Purpose is a thing you build, not a thing you find."
+  2. **Purpose is a single thing.** Coleman: even Mother Teresa, Marie Curie, and Samuel Johnson had multiple sources of purpose (faith, family, craft, community). "It's not purpose but *purposes* we are looking for."
+  3. **Purpose is stable over time.** Coleman: most of us experience phases (young adulthood, parenthood, empty-nest, late career) where our sources of meaning change. "This evolution… isn't flaky or demonstrative of a lack of commitment, but natural and good."
+
+  **How this reconciles with Sinek:** Sinek's WHY is the core orientation — formed by formative experiences, relatively stable, the deep reason you do what you do. Coleman's *purposes* are the operational sources of meaning that you build daily across multiple domains, and that legitimately evolve over time. Both can be true: you can have one stable WHY at the level of "to help people see themselves clearly" *and* build multiple specific purposes (this team, this craft, this family relationship) that operationalise it across decades.
+
+  **What this changes in the playbook:** the Sinek "discover your one true WHY" exercise should not be presented as a one-time terminal event. After surfacing the WHY, the user should build a plural, evolving set of purpose anchors using Coleman's frame and Strack/Dyrchs/Bailey's PERMA-V life-portfolio exercise (see [[coaching/personal-leadership-development]]). The combined practice: WHY is the deep North Star (surfaced once, refined occasionally); *purposes* are the daily operational meanings (built, plural, evolving).
+
+  This particularly matters in coaching conversations with mid-career professionals who report "I've lost my purpose" — often what they've lost is one source of meaning (a role, a relationship, a project), not the underlying WHY. Coleman's frame protects against treating that as an identity crisis.

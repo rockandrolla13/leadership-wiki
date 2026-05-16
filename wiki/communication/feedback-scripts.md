@@ -4,8 +4,8 @@ title: "Feedback Scripts"
 tags: [feedback, communication, scripts]
 created: 2026-05-16
 updated: 2026-05-16
-sources: [lopp-art-of-leadership-2020, hbr-leadership-vol2-2020, bradberry-emotional-intelligence-2009]
-related: [communication/difficult-conversations, principles/psychological-safety, principles/trust, management/one-on-ones, management/performance-management, principles/emotional-intelligence]
+sources: [lopp-art-of-leadership-2020, hbr-leadership-vol2-2020, bradberry-emotional-intelligence-2009, hbr-managers-handbook-17-skills, hbr-stop-holding-yourself-back-2025, hbr-communication-vol2, hbr-managing-yourself]
+related: [communication/difficult-conversations, principles/psychological-safety, principles/trust, management/one-on-ones, management/performance-management, principles/emotional-intelligence, management/sbi-feedback-model, communication/productive-disagreement, communication/listening-and-conversation]
 ---
 
 # Feedback Scripts
@@ -134,3 +134,21 @@ If you are receiving feedback that you genuinely cannot act on (e.g., you disagr
   - **Receive feedback with the same skill set.** When you are the receiver, the move is: (1) name your own emotional reaction internally; (2) ask clarifying questions and request specific examples; (3) thank the giver regardless of agreement; (4) use the Emotion vs. Reason list before deciding what to act on.
 
   These practices sit *underneath* SBI and Lopp's three-classes model. SBI specifies the content; calibration-to-receiver specifies the delivery; intent-vs-impact specifies the check.
+
+- [[sources/hbr-managers-handbook-17-skills]] — Skill 10, "Giving Effective Feedback," explicitly anchors the SBI model and adds three practitioner moves: (1) deliver feedback in *real time* rather than waiting for the annual review (the review is too late and too aggregated to change behavior); (2) calibrate frequency to relationship — weekly micro-feedback in early relationship, less frequent as the patterns lock in; (3) distinguish *feedback* from *coaching* — feedback is observation of the past, coaching is question about the future. See [[management/sbi-feedback-model]] for the dedicated framework page.
+
+- [[sources/hbr-stop-holding-yourself-back-2025]] — Wilkins's hidden-blockers framework provides a lens for *receiving* hard feedback. When feedback lands hard, the question is: which of my hidden beliefs is being challenged? *I know I'm right, I can't make a mistake,* and *I don't belong here* are the three most common blockers activated by feedback. Naming the blocker rather than defending against the feedback is the move. See [[coaching/self-limiting-beliefs]].
+
+## Additional Source Notes (Group B — HBR Communication Vol 2 / Managing Yourself)
+
+- [[sources/hbr-communication-vol2]] — **Sheila Heen and Douglas Stone's three triggers** (in "Find the Coaching in Criticism") are the cleanest framework available for *receiving* feedback. They sit alongside Lopp's three classes (no big deal / slow burn / just plain hard) but on a different axis: Lopp describes the *type of feedback*; Heen & Stone describe the *type of reaction the receiver is having*.
+
+  - **Truth triggers** are set off by the content. The receiver thinks the feedback is wrong, unhelpful, or simply untrue. The defensive script is "you don't have the facts."
+  - **Relationship triggers** are set off by the messenger. "After all I've done for you, *I get this petty criticism?*" The receiver may reject feedback they would have accepted from a different person.
+  - **Identity triggers** are set off by what the feedback implies about who the receiver is. The brain enters fight-or-flight and learning stops.
+
+  The practical sequence: (1) **know your tendencies** — do you defensively explain, retreat, or attack? (2) **disentangle the what from the who** — separate the message from the messenger; (3) **sort toward coaching** — interpret feedback as forward-looking advice, not backward-looking judgment; (4) **unpack the feedback** — ask where it's coming from and where it's going before accepting or rejecting; (5) **ask for just one thing** — bite-size pieces from many sources beats annual reviews; (6) **experiment** — try the advice in low-stakes situations to see what happens.
+
+  When delivering feedback, you can defuse triggers by naming them: *"I want to give you feedback. I'm not saying you're a bad colleague — I'm saying this specific behaviour had a specific impact. Let's separate those."*
+
+- [[sources/hbr-managing-yourself]] — Annie McKee's "Happiness Traps" framing complements Heen & Stone: identity triggers are amplified when the feedback hits a trap the receiver is already in (ambition, "should," overwork). Feedback to someone in the ambition trap that says "you're not collaborative" hits both identity (I'm a winner!) and trap (collaboration costs me my edge). The deliverer should expect a harder reaction in those cases and plan a longer follow-up arc.

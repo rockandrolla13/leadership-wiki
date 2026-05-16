@@ -4,8 +4,8 @@ title: "Culture"
 tags: [culture, psychological-safety, trust, purpose, hiring, values]
 created: 2026-05-16
 updated: 2026-05-16
-sources: [lopp-art-of-leadership-2020, sinek-find-your-why-2017, sinek-start-with-why-2009, katzenbach-khan-leading-outside-lines-2010, sinek-leaders-eat-last-2014, george-authentic-leadership-2003]
-related: [principles/trust, principles/psychological-safety, management/hiring, organization/team-design, principles/ownership, principles/authentic-leadership]
+sources: [lopp-art-of-leadership-2020, sinek-find-your-why-2017, sinek-start-with-why-2009, katzenbach-khan-leading-outside-lines-2010, sinek-leaders-eat-last-2014, george-authentic-leadership-2003, hbr-must-reads-2025, hbr-must-reads-2026]
+related: [principles/trust, principles/psychological-safety, management/hiring, organization/team-design, principles/ownership, principles/authentic-leadership, organization/leadership-teams]
 ---
 
 # Culture
@@ -103,3 +103,22 @@ The contrast case George tracks is the Dutch student's observation about Arthur 
 - How do you preserve culture-by-WHY as an organization scales beyond 150 people? Dunbar's number suggests informal relationship networks break down at that size. George's Mission and Medallion ritual is one answer at the Medtronic scale (28,000); does it work at 50,000+ or in remote-first contexts?
 - Is there a productive tension between strong WHY culture and genuine intellectual diversity? Can you have both?
 - How does Truly Human Leadership translate to industries with structurally cyclical employment (construction, gig, seasonal)? Sinek and Chapman work from a stable-employment-is-feasible premise that does not hold everywhere.
+
+## Additional Source Notes (Group B — HBR Must Reads 2025 / 2026)
+
+- [[sources/hbr-must-reads-2025]] — Sutton & Rao's "Rid Your Organization of Obstacles That Infuriate Everyone" is the **subtraction-as-culture** addition. Culture is also defined by what you remove, not just what you state. "Addition sickness" (every leader rewarded for adding programs, processes, meetings, fiefdoms) is a cultural pathology that compounds invisibly. The remedies are cultural: *good-riddance reviews* ("nominate anything poorly designed, unnecessary, or just plain stupid" — Hawaii Pacific Health's GROSS program); *subtraction games* and *rule of halves*; *subtraction specialists* (someone who owns the killing of jargon, meetings, forms); *subtraction movements* (AstraZeneca's million-hour challenge). The cultural marker: do people in your org get noticed and rewarded for *removing* obstacles, or only for *adding* initiatives?
+
+  > "Bad friction is a plague that undermines productivity and creativity, raises costs, and frustrates employees, customers, and other stakeholders. It happens in large part because we default to asking, 'What can I add here?' instead of 'What can I get rid of?'" — Sutton & Rao
+
+- [[sources/hbr-must-reads-2026]] — Erin Meyer's "Build a Corporate Culture That Works" provides the operational complement to Sinek's WHY: culture is operationalised by **dilemmas**, not by abstract values. Six rules:
+
+  1. **Ground culture in real dilemmas your people face.** Abstract values ("integrity," "respect") don't drive behaviour. Specific dilemmas — "if I see my boss's organizational change leak, do I tell my team or wait?" — produce decisions, and the values are what tell the team which way to lean.
+  2. **Dilemma-test your values.** For each stated value, can you imagine a real dilemma it would resolve? If not, the value is decorative.
+  3. **Use colourful language.** Amazon's "two-pizza rule." Airbnb's "elephants, dead fish, and vomit." Netflix's "adequate performance gets a generous severance." Memorable, behaviour-shaping, hard to dilute.
+  4. **Hire for fit.** Patagonia's "we'll take a risk on an itinerant rock climber over a run-of-the-mill MBA."
+  5. **Let culture drive strategy.** Specifically, the values determine what kind of person you hire and what you tolerate. HubSpot: "people who want stability and predictability… probably won't be happy here."
+  6. **Know when to override.** Netflix's transparency value met its limit at salary disclosure; privacy won. Be honest about the limit rather than pretending the value is absolute.
+
+  This is the operational counterpart to Sinek's WHY: WHY is the orientation; **dilemma-tested values** are the daily decision filter. The wiki should treat both as necessary — WHY without dilemmas is poster culture; dilemmas without WHY is tactical without direction.
+
+  Keil & Zangrillo's leadership-team dysfunction patterns (see [[organization/leadership-teams]]) are themselves cultural artifacts. A shark-tank team has a culture of competition; a petting-zoo team has a culture of harmony-over-truth; a mediocracy has a culture of complacency. The fix is at the cultural level, not the individual level.
