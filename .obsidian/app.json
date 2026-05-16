@@ -1,0 +1,8 @@
+{
+  "userIgnoreFilters": [
+    "raw",
+    "schemas",
+    "scripts",
+    "tests"
+  ]
+}
