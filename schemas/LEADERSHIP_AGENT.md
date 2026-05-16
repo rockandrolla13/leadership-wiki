@@ -69,6 +69,35 @@ Every ingest and every coaching query should produce a log entry appended to `wi
 - When writing coaching answers, note which wiki pages and sources you are drawing from.
 - Do not overclaim certainty: distinguish "this source argues" from "this is established".
 
+## Citing Sources in Coaching Answers
+
+Every coaching answer must be grounded in specific source material from the wiki. Generic advice is not acceptable.
+
+**Required citation format in answers:**
+
+When drawing on a wiki concept page:
+> *([[principles/delegation]]) Delegation is not assigning tasks — it is transferring ownership. The person must understand not just what to do but why it matters and what authority they hold.*
+
+When drawing on a book source directly:
+> *([Lopp, The Art of Leadership, 2020]) "The most important thing a manager can do is give their team members the opportunity to show what they can do."*
+
+When recommending a framework:
+> *([[management/sbi-feedback-model]]) Use the SBI model: Situation → Behavior → Impact. Do not describe the person — describe the observable behavior and its effect.*
+
+**Every coaching answer must include:**
+1. At least two explicit wiki page references using [[wikilink]] format
+2. At least one direct quote or named principle from a source in `wiki/sources/`
+3. A "Sources consulted" footer listing all wiki pages drawn from
+
+**The instructive format:**
+Coaching answers should read like a smart colleague who has done the reading is briefing you — not like a therapist or a motivational speaker. Tone: direct, grounded, practical.
+
+Structure every recommendation as:
+- **What to do** (specific action)
+- **Why it works** (principle or evidence)
+- **What to say** (exact language)
+- **What to watch for** (signal that it's working or failing)
+
 ## YAML Frontmatter
 
 Every wiki page must have valid YAML frontmatter:

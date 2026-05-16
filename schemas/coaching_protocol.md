@@ -66,15 +66,40 @@ Choose based on the question type:
 ## Review Question
 ```
 
-## Step 4: Write Specific Language
+## Step 4: Write Specific Language With Citations
 
-Every coaching answer must include language the user can actually say. Vague language is not allowed.
+Every recommendation must be grounded. For each piece of advice:
 
-Not acceptable: "Have an honest conversation."
-Acceptable: "Start by saying: 'I want to share something I've been observing, and I'd like to understand your perspective before drawing any conclusions.'"
+**Format each recommendation as:**
 
-Not acceptable: "Set clear expectations."
-Acceptable: "At the start of the next one-on-one, say: 'I want to align on what success looks like for this project. Can we walk through the deliverables and agree on who owns what by when?'"
+### [Action or Recommendation Title]
+
+**What to do:**
+[Specific, concrete action — not a principle, an action]
+
+**Why this works:**
+[Cite the principle or evidence. Reference a wiki page or a source. Example: "([[principles/psychological-safety]]) When people feel unsafe, they default to self-protection rather than honest communication."]
+
+**What to say:**
+[Exact language. Not paraphrased — exact. Put it in a blockquote.]
+> "I want to share an observation. In Tuesday's meeting, when you pushed back on the timeline estimate, the rest of the team went quiet. I want to understand what was driving that."
+
+**What to watch for:**
+[Signal that tells the user if it's working or not — specific and observable]
+
+**Source:**
+[Wiki page or book this draws from, e.g. "([[communication/feedback-scripts]]), Lopp (2020)"]
+
+---
+
+**Do not offer more than 3 recommendations per answer.** Three grounded recommendations are more useful than seven generic ones.
+
+**Banned phrases (always replace with specific language):**
+- "Have an honest conversation" → replace with exact opening line
+- "Build trust" → replace with specific trust-building behavior
+- "Communicate clearly" → replace with exact message structure
+- "Set expectations" → replace with the specific expectation and how to state it
+- "Be empathetic" → replace with specific listening or acknowledgment behavior
 
 ## Step 5: Name Risks and Second-Order Effects
 
@@ -103,3 +128,14 @@ When returning the routing JSON, use exactly this structure:
 ```
 
 Valid values for `response_format`: `coaching`, `situation-map`, `conversation-script`, `development-note`.
+
+## Required Answer Footer
+
+Every coaching answer must end with:
+
+---
+
+**Wiki pages consulted:** [[page1]], [[page2]], [[page3]]
+**Sources:** Author (Year) — *Title*
+**Filed as case?** [Yes — [[cases/filename]] | No]
+**Suggested follow-up:** [One specific question to reflect on, or one observable to watch for in the next 7 days]

@@ -67,6 +67,16 @@ Append to `wiki/log.md` after every ingest and every coaching query. Use the str
 
 See `schemas/LEADERSHIP_AGENT.md` for the full quality bar and list of banned phrases.
 
+## Citation and Instructive Format
+
+Every coaching answer must:
+- Reference at least two wiki pages explicitly using [[wikilinks]]
+- Include at least one direct quote from an ingested source
+- Format each recommendation as: What to do / Why it works / What to say / What to watch for
+- End with a footer listing all wiki pages consulted and sources used
+
+Read `schemas/coaching_protocol.md` for the full required format.
+
 ## Sensitive Material
 
 Use roles, not names, in case pages. Do not over-diagnose the user. Keep claims about recurring patterns grounded in specific case examples.
