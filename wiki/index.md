@@ -1,6 +1,6 @@
 # Leadership Wiki Index
 
-_Last updated: 2026-05-16 | Pages: 56_
+_Last updated: 2026-05-17 | Pages: 76_
 
 ## Concept Pages
 | Page | Summary | Tags | Updated | Sources |
@@ -100,3 +100,5 @@ _Last updated: 2026-05-16 | Pages: 56_
 | [[coaching/personal-leadership-profile]] | Living profile: style, patterns, goals | 2026-05-16 |
 | [[coaching/recurring-patterns]] | Patterns observed across cases | 2026-05-16 |
 | [[coaching/development-plan]] | Active development priorities | 2026-05-16 |
+| [[coaching/leadership-scorecard]] | Track leadership effectiveness across key dimensions over time | 2026-05-16 |
+| [[coaching/weekly-reflections]] | Structured weekly reflection on leadership patterns and experiments | 2026-05-16 |

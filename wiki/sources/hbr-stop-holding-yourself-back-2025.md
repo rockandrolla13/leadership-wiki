@@ -5,7 +5,7 @@ tags: [self-limiting-beliefs, mindset, hands-on-leadership, octopus-organization
 created: 2026-05-16
 updated: 2026-05-16
 sources: []
-related: [coaching/career-development, coaching/self-limiting-beliefs, principles/hands-on-leadership, principles/charismatic-leadership, organization/c-suite-as-team, communication/productive-disagreement, organization/adaptive-organization, principles/leadership-styles]
+related: [coaching/career-development, coaching/self-limiting-beliefs, principles/hands-on-leadership, organization/c-suite-as-team, communication/productive-disagreement, organization/adaptive-organization, principles/leadership-styles]
 author: "Multiple HBR authors. Featured: Muriel M. Wilkins, Scott Cook & Nitin Nohria, Jana Werner & Phil Le-Brun, Christopher Marquis, Marla Capozzi et al., Julia Minson et al."
 date: 2025-11-01
 source_type: book

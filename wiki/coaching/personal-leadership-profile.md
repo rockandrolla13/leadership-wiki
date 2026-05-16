@@ -5,7 +5,7 @@ tags: [profile, self-awareness, development]
 created: 2026-05-16
 updated: 2026-05-16
 sources: []
-related: [recurring-patterns, development-plan]
+related: [coaching/recurring-patterns, coaching/development-plan]
 ---
 
 # Personal Leadership Profile

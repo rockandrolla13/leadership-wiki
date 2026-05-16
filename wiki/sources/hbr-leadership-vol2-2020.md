@@ -99,12 +99,12 @@ A curated collection of HBR's most significant leadership articles, covering the
 
 ## Pages Updated
 
-- [[principles/executive-presence.md]]
-- [[communication/strategy-communication.md]]
+- [[principles/executive-presence]]
+- [[communication/strategy-communication]]
 
 ## Pages Created
 
-- [[sources/hbr-leadership-vol2-2020.md]]
+- [[sources/hbr-leadership-vol2-2020]]
 
 ## Questions This Source Raises
 

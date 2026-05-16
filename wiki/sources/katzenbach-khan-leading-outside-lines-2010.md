@@ -74,12 +74,12 @@ Every organization has two parallel systems: the formal (strategy, structure, pr
 
 ## Pages Updated
 
-- [[organization/culture.md]] (informal organization as a related concept)
+- [[organization/culture]] (informal organization as a related concept)
 
 ## Pages Created
 
-- [[organization/informal-organization.md]]
-- [[sources/katzenbach-khan-leading-outside-lines-2010.md]]
+- [[organization/informal-organization]]
+- [[sources/katzenbach-khan-leading-outside-lines-2010]]
 
 ## Questions This Source Raises
 

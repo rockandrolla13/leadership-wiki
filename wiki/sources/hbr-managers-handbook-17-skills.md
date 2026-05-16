@@ -5,7 +5,7 @@ tags: [management, manager-skills, delegation, feedback, hiring, strategy, finan
 created: 2026-05-16
 updated: 2026-05-16
 sources: []
-related: [management/manager-skills-overview, management/delegation, management/performance-management, management/hiring, communication/feedback-scripts, communication/strategy-communication, principles/influence, coaching/career-development]
+related: [management/manager-skills-overview, principles/delegation, management/performance-management, management/hiring, communication/feedback-scripts, communication/strategy-communication, principles/influence, coaching/career-development]
 author: "Harvard Business Review Press (editors)"
 date: 2016-09-13
 source_type: book

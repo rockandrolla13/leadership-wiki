@@ -68,12 +68,12 @@ None at this stage. The manipulation framework may tension with sources that vie
 
 ## Pages Updated
 
-- [[communication/strategy-communication.md]]
-- [[principles/purpose-and-why.md]] (additional source noted)
+- [[communication/strategy-communication]]
+- [[principles/purpose-and-why]] (additional source noted)
 
 ## Pages Created
 
-- [[sources/sinek-start-with-why-2009.md]]
+- [[sources/sinek-start-with-why-2009]]
 
 ## Questions This Source Raises
 

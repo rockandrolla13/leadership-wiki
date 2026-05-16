@@ -67,12 +67,12 @@ None (second source ingested). The WHY framework will tension with any future so
 
 ## Pages Updated
 
-- [[organization/culture.md]]
+- [[organization/culture]]
 
 ## Pages Created
 
-- [[principles/purpose-and-why.md]]
-- [[sources/sinek-find-your-why-2017.md]]
+- [[principles/purpose-and-why]]
+- [[sources/sinek-find-your-why-2017]]
 
 ## Questions This Source Raises
 

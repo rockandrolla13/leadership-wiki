@@ -76,16 +76,16 @@ No existing wiki content to contradict (first source ingested). Note for future:
 
 ## Pages Updated
 
-- [[management/one-on-ones.md]]
-- [[principles/delegation.md]]
-- [[principles/trust.md]]
-- [[management/performance-management.md]]
-- [[management/hiring.md]]
+- [[management/one-on-ones]]
+- [[principles/delegation]]
+- [[principles/trust]]
+- [[management/performance-management]]
+- [[management/hiring]]
 
 ## Pages Created
 
-- [[management/new-manager-transition.md]]
-- [[sources/lopp-art-of-leadership-2020.md]]
+- [[management/new-manager-transition]]
+- [[sources/lopp-art-of-leadership-2020]]
 
 ## Questions This Source Raises
 
