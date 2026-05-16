@@ -4,8 +4,8 @@ title: "Hiring"
 tags: [hiring, recruiting, talent, culture, team-design]
 created: 2026-05-16
 updated: 2026-05-16
-sources: [lopp-art-of-leadership-2020]
-related: [organization/team-design, organization/culture, principles/trust, management/onboarding]
+sources: [lopp-art-of-leadership-2020, hbr-managers-handbook-17-skills, sinek-find-your-why-2017]
+related: [organization/team-design, organization/culture, principles/trust, management/onboarding, management/team-building, coaching/career-development, management/manager-skills-overview]
 ---
 
 # Hiring
@@ -102,3 +102,15 @@ Lopp's specific structural fix for the "do you have any questions for me?" failu
 > "Your responsibility is to make sure the candidates understand your mission, culture, and values. While they will organically pick up some of this during interviews, you need to make sure it's one person's responsibility to clearly tell the engineering story."
 
 Sinek (2009, 2017): Adds the WHY-fit filter to skills evaluation. The hiring question is not only *"can they do the job?"* but *"do they believe what we believe?"* People hired for skills alone may execute well in the short term; people hired for WHY-alignment compound. Sinek's recommended interview probe: *"Tell me about a time in your career when you felt most aligned — like the work genuinely mattered. What made it feel that way?"* The answer reveals their WHY; you assess alignment with your team's WHY (see [[principles/purpose-and-why]]).
+
+### HBR Manager's Handbook on Craft, Behavioral Interviewing, and Retention
+
+[[sources/hbr-managers-handbook-17-skills]] — the Handbook's chapter on Hiring (Skill 14) adds three structural disciplines that complement Lopp's pipeline-and-relationships framing:
+
+1. **Craft the role before you write the JD.** Most JDs are wishlists. The Handbook's discipline is to write a one-page role definition: the outcome the role exists to produce, the three most important behaviors, the constraints on the role, and the explicit non-goals. From this you derive the JD, the interview rubric, and the success criteria for the first 90 days. Most bad hires are bad role definitions.
+
+2. **Behavioral interviewing as the default structure.** "The single best predictor of future behavior is past behavior in similar situations." Replace hypothetical questions ("how would you handle X?") with behavioral ones ("tell me about a time when you faced X. What did you do? What was the result?"). Each behavioral answer should produce specific situation, action, and result. Vague answers are signal; press for the next layer of specificity.
+
+3. **Retention is part of hiring.** A hire who leaves in 12 months is a recruiting failure, not a "fit" failure. The Handbook prescribes that the interview process include a candid conversation about the role's downsides, the team's known weaknesses, and the realistic 1-2-3 year trajectory. Candidates who join with accurate expectations stay.
+
+The Handbook also names the **motivation and engagement** loop explicitly: hiring without a plan for what motivates the hired person produces silent disengagement within the first year. Connect hiring to career-development practices ([[coaching/career-development]]) from the first day.

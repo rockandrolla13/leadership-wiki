@@ -173,3 +173,52 @@ Chronological record of all ingestions and coaching queries.
   - The petting-zoo / safety tension needs an explicit diagnostic — how do you tell *productive harmony* from *suppression of dissent*? The signals (muted discussions, performance theatre, offline horse-trading) are after-the-fact.
   - Meyer's cross-cultural rules essentialise national cultures — how do they apply on multi-national teams where members have lived in multiple cultures?
   - "Walking away" (Drucker, Dorsey) is courageous but can be a rationalisation for failing strategic patience. The two are hard to tell apart in advance.
+
+## [2026-05-16] ingest | Group C — HBR Leadership Vol.1, Managers Handbook, Building Better Teams, Stop Holding Yourself Back
+
+- Sources ingested: hbr-leadership-vol1, hbr-managers-handbook-17-skills, hbr-building-better-teams, hbr-stop-holding-yourself-back-2025
+- Pages created:
+  - [[sources/hbr-leadership-vol1]]
+  - [[sources/hbr-managers-handbook-17-skills]]
+  - [[sources/hbr-building-better-teams]]
+  - [[sources/hbr-stop-holding-yourself-back-2025]]
+  - [[principles/leadership-styles]] (Goleman's 6 leadership styles)
+  - [[principles/leadership-development-stages]] (Rooke & Torbert 7 action logics)
+  - [[principles/incomplete-leader]] (Ancona et al. 4 capabilities)
+  - [[principles/hands-on-leadership]] (Cook & Nohria 5 principles)
+  - [[principles/influence]] (positional vs. personal power; managing up)
+  - [[management/team-building]] (group EI, virtuoso/traditional, multicultural)
+  - [[management/multicultural-teams]] (Brett/Behfar/Kern 4-intervention hierarchy)
+  - [[management/manager-skills-overview]] (17 skills taxonomy)
+  - [[management/sbi-feedback-model]] (Situation-Behavior-Impact)
+  - [[coaching/career-development]] (career conversations, stretch design)
+  - [[coaching/self-limiting-beliefs]] (Wilkins's 7 hidden blockers + Uncover/Unpack/Unblock)
+  - [[organization/adaptive-organization]] (Werner & Le-Brun Octopus Org)
+  - [[organization/c-suite-as-team]] (Gartner research)
+  - [[communication/productive-disagreement]] (Minson et al. phrasings)
+- Pages updated:
+  - [[organization/team-design]] (filled in empty page with virtuoso vs. traditional, two-pizza, role-clarity-with-task-ambiguity)
+  - [[principles/psychological-safety]] (added Goleman EI, Eisenhardt good-fight, Octopus Org ownership antipattern)
+  - [[principles/delegation]] (added 5-step plan, reverse delegation, Wilkins's 'I need to be involved' blocker, hands-on tension)
+  - [[principles/executive-presence]] (added Goffee & Jones, Collins Level 5, Rooke & Torbert, Cook & Nohria, Wilkins blockers, Ancona)
+  - [[principles/trust]] (added Collins Level 5 humility + will)
+  - [[communication/strategy-communication]] (added Kotter direction-vs-planning, Porter on choice, Cook & Nohria, Ancona Sensemaking, Minson)
+  - [[communication/feedback-scripts]] (added Handbook on real-time/SBI, Wilkins on receiving)
+  - [[communication/conflict-language]] (added Eisenhardt 5 tactics, Minson)
+  - [[management/performance-management]] (added Handbook real-time, Wilkins belief layer, PIP case study from issue)
+  - [[management/hiring]] (added Handbook craft-the-role, behavioral interviewing, retention)
+  - [[coaching/recurring-patterns]] (added Wilkins blocker patterns, Rooke & Torbert action-logic patterns)
+  - [[coaching/development-plan]] (added Wilkins blocker tracker, 17-skill self-rating, action-logic transition)
+- Key concepts: Goleman's 6 styles, Rooke & Torbert's 7 action logics, Ancona's 4 capabilities (sensemaking/relating/visioning/inventing), Collins Level 5, Cook & Nohria's 5 hands-on principles, two-way-door decisions, Octopus Org antipatterns, Wilkins's 7 hidden blockers + Uncover/Unpack/Unblock, virtuoso vs. traditional teams, group EI (Druskat & Wolff), Eisenhardt's 5 tactics for productive conflict, Brett/Behfar/Kern's 4-intervention hierarchy, two-pizza rule, role clarity with task ambiguity, 17 manager skills taxonomy, SBI feedback model, positional vs. personal power, Gartner C-suite-as-team research, Minson's conversational receptiveness.
+- Contradictions / tensions:
+  - Cook & Nohria's hands-on CEO model vs. Lopp's anti-micromanagement + delegation page. Resolved by distinguishing 'architecting the system' (hands-on) from 'overriding decisions' (micromanagement).
+  - Goffee & Jones's 'selective weakness' vs. existing executive-presence framing. Resolved by treating calibrated vulnerability as a presence move rather than its opposite.
+  - Eisenhardt's 'good fight' productive conflict vs. existing affiliative bias on team harmony. Resolved by recognizing disagreement-about-work as the productive output of psychological safety.
+  - Wilkins's 'I need to be involved' blocker vs. ownership principle. Resolved by sharpening the distinction: ownership is what is transferred; the blocker is what is retained.
+  - Goleman's '6 styles as repertoire' vs. wiki's existing personality-leaning treatments. Resolved by emphasizing styles as behavioral repertoires not identities.
+- Follow-up questions:
+  - How does Cook & Nohria's hands-on model translate down from CEO to division-president and first-line manager altitudes?
+  - The Gartner C-suite finding (only 31% see C-suite as primary team) — is 'team' even the right frame, or is it really a coalition with rotating sub-coalitions?
+  - Wilkins's blockers are descriptive; when multiple are active, how do you sequence which to address first?
+  - The Rooke & Torbert action logics show only 5% reach Strategist; what does the developmental path actually look like for the 95% stuck at Expert/Achiever?
+

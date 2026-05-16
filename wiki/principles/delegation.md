@@ -4,8 +4,8 @@ title: "Delegation"
 tags: [delegation, trust, ownership, management, scaling]
 created: 2026-05-16
 updated: 2026-05-16
-sources: [lopp-art-of-leadership-2020]
-related: [principles/trust, principles/accountability, principles/ownership, management/one-on-ones]
+sources: [lopp-art-of-leadership-2020, hbr-managers-handbook-17-skills, hbr-stop-holding-yourself-back-2025]
+related: [principles/trust, principles/accountability, principles/ownership, management/one-on-ones, coaching/self-limiting-beliefs, principles/hands-on-leadership, management/manager-skills-overview]
 ---
 
 # Delegation
@@ -84,3 +84,25 @@ He describes half-delegation (assigning work without authority) as a specific fa
 
 - At what point does a leader stop delegating and start abdicating? What signals distinguish the two?
 - How does the right level of check-in frequency change for different levels of team maturity?
+
+## Additional Source Notes (Group C)
+
+### HBR Manager's Handbook: The Five-Step Delegation Plan
+
+The HBR Manager's Handbook ([[sources/hbr-managers-handbook-17-skills]]) prescribes a more explicit five-step delegation plan that complements Lopp's principle-based framing:
+
+1. **Identify what to delegate.** Not everything is delegable. The handbook prescribes a quadrant: high-impact + uniquely-yours = keep; high-impact + delegable = delegate; low-impact + uniquely-yours = stop doing; low-impact + delegable = delegate or eliminate.
+2. **Match person to task.** Consider skill, development opportunity, and current load. The right person may be a stretch.
+3. **Communicate context — including the *why*.** A delegation without the why produces compliance, not ownership. Spell out the goal, the constraints, the connections to the broader strategy, and the room for the person to make their own choices.
+4. **Define authority and check-in points.** Specify what decisions they can make alone, what they should consult on, and the regular cadence for status. Authority is the part most often skipped.
+5. **Provide support without taking back the work.** Coach when stuck. Resist the impulse to fix. If you find yourself doing the work, you have either delegated wrong or are not honoring the delegation.
+
+**Reverse delegation** — when the report hands the task back ("Can you just tell me what to do?") — is the handbook's named failure mode. Counter: refuse politely. "What do you think? What are you considering? Come back when you've worked through it; I'll review then."
+
+### Wilkins's "I need to be involved" Blocker
+
+The Nov–Dec 2025 HBR ([[sources/hbr-stop-holding-yourself-back-2025]]) names *I need to be involved* as one of seven hidden blockers — and it presents most often as a chronic failure to delegate. The reframe Wilkins prescribes: *I can do anything, but I can't do everything.* When a leader cannot delegate despite knowing they should, the issue is rarely skill — it is belief. See [[coaching/self-limiting-beliefs]] for the Uncover/Unpack/Unblock framework applied to this specific blocker.
+
+### Tension with Hands-On Leadership
+
+Cook & Nohria's "hands-on leaders" research ([[sources/hbr-stop-holding-yourself-back-2025]]) might appear to contradict the delegation principle. It does not. The reconciliation: hands-on leaders delegate *decisions* but actively *architect the system* in which decisions are made — they teach the toolkit, they coach the methods, they participate in the work without overriding it. See [[principles/hands-on-leadership]]. The distinction is sharp: a hands-on leader who finds themselves making the decision rather than building the capacity is no longer hands-on; they are micromanaging.

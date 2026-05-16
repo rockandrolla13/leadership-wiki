@@ -4,8 +4,8 @@ title: "Trust"
 tags: [trust, psychological-safety, management, delegation, one-on-ones]
 created: 2026-05-16
 updated: 2026-05-16
-sources: [lopp-art-of-leadership-2020, sinek-leaders-eat-last-2014, george-authentic-leadership-2003, bradberry-emotional-intelligence-2009]
-related: [principles/psychological-safety, principles/delegation, management/one-on-ones, principles/accountability, principles/authentic-leadership, principles/emotional-intelligence]
+sources: [lopp-art-of-leadership-2020, sinek-leaders-eat-last-2014, george-authentic-leadership-2003, bradberry-emotional-intelligence-2009, hbr-leadership-vol1]
+related: [principles/psychological-safety, principles/delegation, management/one-on-ones, principles/accountability, principles/authentic-leadership, principles/emotional-intelligence, principles/leadership-development-stages, principles/incomplete-leader]
 ---
 
 # Trust
@@ -103,3 +103,9 @@ Bradberry & Greaves ([[sources/bradberry-emotional-intelligence-2009]]) add the 
 - How does trust transfer (or not) when a manager is replaced? What can a new manager do to inherit existing trust rather than start from zero?
 - Is there a point where high trust makes a team fragile to outside shocks — e.g., trusting the manager more than the institution?
 - How does the oxytocin model adapt to remote-first organizations where face-to-face is rare or absent? Sinek argues it doesn't, but the wiki has not yet found a clean alternative mechanism.
+
+### Collins on Level 5 Trust
+
+[[sources/hbr-leadership-vol1]] — Jim Collins's research on Level 5 leadership adds a dimension to trust at the institutional level. Level 5 leaders are described as combining "fierce professional will" with "extreme personal humility" — they channel ambition into the institution rather than the self. The result is the highest sustained trust scores in the companies Collins studied, because the leader's incentives are visibly aligned with the institution rather than with personal credit. Trust at this altitude is built by the *direction* of credit-giving: the Level 5 leader gives credit outward (others, luck, predecessors) and takes blame inward (their own failure of judgment).
+
+The pragmatic implication: when a leader takes credit for the team's win, the team's trust in them decreases. When they direct credit outward, it increases. This is not modesty — it is the structural mechanism through which institutional trust is built.

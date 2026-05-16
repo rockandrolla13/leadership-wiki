@@ -4,8 +4,8 @@ title: "Conflict Language"
 tags: [conflict, communication, scripts]
 created: 2026-05-16
 updated: 2026-05-16
-sources: [lopp-art-of-leadership-2020, hbr-leadership-vol2-2020, katzenbach-khan-leading-outside-lines-2010]
-related: [communication/difficult-conversations, communication/feedback-scripts, principles/psychological-safety, organization/organizational-politics]
+sources: [lopp-art-of-leadership-2020, hbr-leadership-vol2-2020, katzenbach-khan-leading-outside-lines-2010, hbr-building-better-teams, hbr-stop-holding-yourself-back-2025]
+related: [communication/difficult-conversations, communication/feedback-scripts, principles/psychological-safety, organization/organizational-politics, communication/productive-disagreement, management/team-building, management/multicultural-teams]
 ---
 
 # Conflict Language
@@ -112,3 +112,5 @@ Lopp's "Gossip, Rumors, and Lies" frames a related diagnosis: when there is a "g
 - [[sources/lopp-art-of-leadership-2020]] — "Act Last, Read the Room, and Taste the Soup," "Gossip, Rumors, and Lies," "Say the Hard Thing." Lopp's view that healthy debate produces better decisions underwrites the playbook's stance on heat-as-data.
 - [[sources/hbr-leadership-vol2-2020]] — "Both/And Leadership" on paradox-management and the trap of "false synergy"; "Cross-Silo Leadership" on inquiry across disagreeing groups.
 - [[sources/katzenbach-khan-leading-outside-lines-2010]] — on how the informal organization absorbs conflicts that the formal one cannot resolve.
+- [[sources/hbr-building-better-teams]] — Eisenhardt's "How Management Teams Can Have a Good Fight" provides five tactics for productive conflict that complement this playbook: (1) base discussion on current factual information, (2) develop multiple alternatives to enrich debate, (3) rally around shared goals, (4) inject humor, (5) maintain a balanced power structure and resolve issues without forcing consensus. Brett/Behfar/Kern's intervention hierarchy for multicultural friction (Adaptation → Structural → Managerial → Exit) is the cross-cultural cousin of this playbook's escalation path. See [[management/multicultural-teams]].
+- [[sources/hbr-stop-holding-yourself-back-2025]] — Minson, Collins & Yeomans's "A Smarter Way to Disagree" — words matter more than mindset. Hedging certainty, acknowledging shared ground, and asking genuine questions can shift conflict toward productive disagreement. See [[communication/productive-disagreement]] for the dedicated playbook.

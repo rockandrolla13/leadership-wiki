@@ -4,8 +4,8 @@ title: "Executive Presence"
 tags: [executive-presence, communication, credibility, leadership-transition, authenticity]
 created: 2026-05-16
 updated: 2026-05-16
-sources: [hbr-leadership-vol2-2020, lopp-art-of-leadership-2020]
-related: [management/new-manager-transition, principles/trust, communication/strategy-communication, organization/managing-senior-people]
+sources: [hbr-leadership-vol2-2020, lopp-art-of-leadership-2020, hbr-leadership-vol1, hbr-stop-holding-yourself-back-2025]
+related: [management/new-manager-transition, principles/trust, communication/strategy-communication, organization/managing-senior-people, principles/leadership-development-stages, principles/incomplete-leader, principles/hands-on-leadership]
 ---
 
 # Executive Presence
@@ -98,3 +98,25 @@ Smith & Lewis (HBR, "Both/And Leadership"): At the executive level, presence is 
 
 - Is "adaptively authentic" a sustainable frame for leaders who change styles significantly across contexts? At some point does the chameleon lose the moral center Ibarra warns about?
 - The seven seismic shifts assume a linear career path. Does the model apply to executives who arrive at enterprise leadership through founder paths rather than functional ladders?
+
+## Additional Source Notes (Group C)
+
+### HBR Vol. 1 (Goffee & Jones, Collins, Rooke & Torbert)
+
+[[sources/hbr-leadership-vol1]] — three articles add depth to the presence concept:
+
+- **Goffee & Jones** ("Why Should Anyone Be Led by You?") argue that authentic leaders selectively show weakness, manage distance from followers (close enough to be trusted, far enough to be respected), use intuition to gauge timing, and reveal their differences rather than conform. Presence is not perfection — it is *calibrated vulnerability* paired with confident substance. A leader who pretends to completeness reads as inauthentic.
+- **Collins** ("Level 5 Leadership") finds that the leaders who built enduring greatness combined deep personal humility with fierce professional will. They were not the charismatic figures the press celebrated; they directed credit outward and blame inward. Presence at the highest altitude looks unlike presence at lower altitudes — the Level 5 leader is often described as quiet, reserved, almost shy in social settings, while being uncompromising about the institution's standards.
+- **Rooke & Torbert** (Action Logics) — presence at senior altitude requires Strategist-level or Alchemist-level action logic. Below that, presence is constrained: Achievers project competence within established frames; Individualists project unconventional thinking but irritate established structures; only Strategists and above can hold transformation with credibility. See [[principles/leadership-development-stages]].
+
+### Cook & Nohria — Presence Through Hands-On Engagement
+
+[[sources/hbr-stop-holding-yourself-back-2025]] — Cook & Nohria's research on Amazon, Danaher, RELX, and Toyota challenges the conventional "above-the-fray" presence model. Their study finds that top CEOs build presence through *inordinate* time spent on the front lines, teaching the operational toolkit, modeling customer-value obsession. The corollary: presence built only through speeches and high-level meetings is weaker than presence built through demonstrated execution. See [[principles/hands-on-leadership]].
+
+### Wilkins — Hidden Blockers to Presence
+
+[[sources/hbr-stop-holding-yourself-back-2025]] — Wilkins's *I don't belong here* blocker is the single most damaging constraint on presence. The leader who carries this belief diminishes their visibility, communicates with hedged credibility, and is read as less confident than they actually are. The reframe — *I belong wherever I am* — is the precondition for the rest of presence development. *I can't make a mistake* is another presence-damaging blocker: it produces over-cautious communication that reads as indecisive. See [[coaching/self-limiting-beliefs]].
+
+### Ancona's Incomplete-Leader Frame
+
+[[sources/hbr-leadership-vol1]] — Ancona et al.'s "incomplete leader" model gives a counterintuitive read on presence: leaders who openly acknowledge their gaps in one of the four capabilities (Sensemaking, Relating, Visioning, Inventing) and visibly staff or partner around them project more presence, not less, than leaders who pretend to completeness. The completeness pretense is itself a presence failure. See [[principles/incomplete-leader]].

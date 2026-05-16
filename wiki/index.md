@@ -23,7 +23,7 @@ _Last updated: 2026-05-16 | Pages: 56_
 | [[organization/organizational-politics]] | Navigating interests and coalitions in the organization | organizational-politics, stakeholders | 2026-05-16 | — |
 | [[organization/decision-rights]] | Who decides what and how | decision-rights, accountability | 2026-05-16 | — |
 | [[organization/incentives]] | How compensation and recognition shape behavior | incentives, motivation | 2026-05-16 | — |
-| [[organization/team-design]] | Principles for structuring effective teams | team-design, organization | 2026-05-16 | — |
+| [[organization/team-design]] | Virtuoso vs. traditional, two-pizza rule, role clarity with task ambiguity | team-design, organization, virtuoso-teams | 2026-05-16 | hbr-building-better-teams, hbr-stop-holding-yourself-back-2025, lopp-art-of-leadership-2020 |
 | [[organization/operating-rhythm]] | The cadence of meetings, reviews, and decisions that keeps an organization aligned | operating-rhythm, management | 2026-05-16 | — |
 | [[organization/leadership-teams]] | Three dysfunction patterns (shark tank, petting zoo, mediocracy) and targeted repairs | leadership-team, dysfunction, governance | 2026-05-16 | hbr-must-reads-2026 |
 | [[principles/hands-on-leadership]] | Cook & Nohria's five principles: top CEOs architect how work gets done | hands-on, ceo-role, execution, continuous-improvement | 2026-05-16 | hbr-stop-holding-yourself-back-2025 |

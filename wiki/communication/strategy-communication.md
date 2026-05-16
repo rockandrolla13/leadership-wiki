@@ -4,8 +4,8 @@ title: "Strategy Communication"
 tags: [strategy, communication, alignment, purpose, why, inspiration]
 created: 2026-05-16
 updated: 2026-05-16
-sources: [sinek-start-with-why-2009, sinek-find-your-why-2017, hbr-leadership-vol2-2020]
-related: [principles/purpose-and-why, organization/culture, communication/stakeholder-updates, communication/difficult-conversations]
+sources: [sinek-start-with-why-2009, sinek-find-your-why-2017, hbr-leadership-vol2-2020, hbr-leadership-vol1, hbr-managers-handbook-17-skills, hbr-stop-holding-yourself-back-2025]
+related: [principles/purpose-and-why, organization/culture, communication/stakeholder-updates, communication/difficult-conversations, principles/incomplete-leader, communication/productive-disagreement, principles/hands-on-leadership, management/manager-skills-overview]
 ---
 
 # Strategy Communication
@@ -101,3 +101,25 @@ Groysberg & Slind (HBR, "Leadership Is a Conversation"): Command-and-control com
 4. **Intentionality** — pursuing a coherent agenda. *"Conversational intentionality requires leaders to convey strategic principles not just by asserting them but by explaining them — by generating consent rather than commanding assent."*
 
 Leaders must speak *with* employees, not *to* them. The conversational model is especially valuable because it allows large organizations to preserve the engagement and alignment of small ones.
+
+### Kotter on Leadership vs. Management Communication
+
+[[sources/hbr-leadership-vol1]] — John Kotter's "What Leaders Really Do" sharpens the distinction between *direction* (where are we going and why — leadership work) and *planning* (how do we get there — management work). Most strategy communication failures conflate the two: the team is briefed on the plan without being given the direction. The fix is structural: direction first (one slide, three sentences, repeated until people can repeat it back); planning second (the operational detail).
+
+Kotter's other relevant point: *alignment* is not the same as planning. Once direction is set, the leader's job is to *align* the team — get them all moving in the same direction with their own initiative — not to plan their work for them. Sinek's Golden Circle is the *content*; Kotter's direction-alignment-motivation is the *function*.
+
+### HBR Manager's Handbook on Strategy as Choice
+
+[[sources/hbr-managers-handbook-17-skills]] — quoting Porter: *strategy is choice; it is choosing what not to do*. Strategy communication therefore must include the *no-list*: what the organization is *not* going to do this year, this quarter. If your strategy communication includes only what you will do, you have communicated aspirations, not strategy. The handbook prescribes the simple test: ask three colleagues what the team has *de-prioritized* this quarter. If they cannot answer, the strategy has not landed.
+
+### Cook & Nohria on Communicating Strategy through Execution
+
+[[sources/hbr-stop-holding-yourself-back-2025]] — Cook & Nohria's hands-on leaders article reframes strategy communication itself. The most powerful strategy communication is not the speech; it is the *demonstrated execution*. RELX's "better, faster, cheaper — every year, forever" is communication only because Engstrom has translated it into every team's measurable customer-value improvement. The principle: strategy is communicated through what the leader pays attention to, what the leader teaches, and what the leader asks about — not primarily through what the leader says. See [[principles/hands-on-leadership]].
+
+### Ancona's Sensemaking Capability
+
+[[sources/hbr-leadership-vol1]] — Ancona's "incomplete leader" framework places *Sensemaking* (understanding changes in the environment and interpreting their ramifications) as the foundation for strategy communication. A leader who cannot do Sensemaking communicates a strategy disconnected from reality and surprises themselves when the environment shifts. The prescribed practices: (1) get data from multiple sources, (2) involve others in your sensemaking, (3) use early observations to design small experiments, (4) be open to new possibilities rather than applying existing frameworks. See [[principles/incomplete-leader]].
+
+### Minson on Productive Disagreement
+
+[[sources/hbr-stop-holding-yourself-back-2025]] — Strategy communication often produces disagreement. The Minson et al. framing applies: hedging certainty, naming shared ground, and asking genuine questions makes the strategic conversation productive rather than adversarial. See [[communication/productive-disagreement]].

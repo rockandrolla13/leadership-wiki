@@ -4,8 +4,8 @@ title: "Performance Management"
 tags: [performance, feedback, accountability, coaching, underperformance]
 created: 2026-05-16
 updated: 2026-05-16
-sources: [lopp-art-of-leadership-2020]
-related: [management/one-on-ones, management/underperformance, principles/trust, communication/feedback-scripts, communication/difficult-conversations]
+sources: [lopp-art-of-leadership-2020, hbr-managers-handbook-17-skills, hbr-stop-holding-yourself-back-2025]
+related: [management/one-on-ones, management/underperformance, principles/trust, communication/feedback-scripts, communication/difficult-conversations, management/sbi-feedback-model, coaching/self-limiting-beliefs]
 ---
 
 # Performance Management
@@ -100,3 +100,15 @@ Immediate escalation (bypasses the above): theft, harassment, dishonesty in perf
 ## Sources
 
 Lopp (2020): The key question before entering performance management is whether you have had multiple face-to-face conversations over multiple months, clearly named the gap, and agreed on specific measurable actions. If no, you are still in the coaching phase. The flip-to-grim-reaper move is a leadership failure: it signals to the employee they should find a new job before you've done the hard work of coaching. Most performance situations are coachable; the work is hard, uncomfortable, and time-consuming, but it is the work through which leaders become better communicators and coaches.
+
+### HBR Manager's Handbook on Real-Time Feedback Cadence
+
+[[sources/hbr-managers-handbook-17-skills]] — the Handbook's chapter on Giving Effective Feedback (Skill 10) reinforces Lopp's "multiple months of coaching" requirement with the prescription that feedback be real-time and frequent. The annual performance review is too late and too aggregated to change behavior; by the time the review is delivered, the report has been performing badly for months without correction. The Handbook adds the SBI structure as the workhorse delivery format (see [[management/sbi-feedback-model]]) and the distinction between *feedback* (observation of the past) and *coaching* (question about the future) — both required, both different.
+
+### Wilkins on the Belief Layer Beneath Performance
+
+[[sources/hbr-stop-holding-yourself-back-2025]] — Wilkins's hidden-blockers framework adds a diagnostic layer beneath the performance-management process. When the report's performance has been corrected verbally three times and still has not changed, the question shifts from skill to belief. Is one of the seven blockers (especially *I can't make a mistake, I don't belong here,* or *I know I'm right*) holding the behavior in place? If so, prescribing more behavior change without addressing the belief will continue to fail. The intervention then shifts toward coaching the belief (see [[coaching/self-limiting-beliefs]]) before returning to performance steps.
+
+### The PIP Case Study (Bhave & Cheah)
+
+[[sources/hbr-stop-holding-yourself-back-2025]] — the case study "Should a CHRO Abandon Performance Improvement Plans?" is a sobering empirical input for the formal end of performance management. The reported PIP success rate at the case company was 15%. Sixty percent of those placed on PIPs were terminated; 25% went on stress-related medical leave (gaming the system to job-hunt elsewhere). The expert commentators converge on: PIPs should be reserved for situations where the manager is 90%+ confident the person should leave; otherwise the process is destructive. *Genuine performance recovery requires a different program — proactive upskilling and mentorship — not a process built primarily for legal defense.* This sharpens Lopp's warning: skipping the coaching phase and moving to formal process is a worse failure than the wiki has been treating it.
