@@ -68,7 +68,7 @@ def test_answer_question_returns_coaching_response(tmp_path):
             )
 
     assert "delegation problem" in answer
-    assert "delegation.md" in pages
+    assert any("delegation.md" in p for p in pages)
     assert fmt == "coaching"
 
 

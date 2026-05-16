@@ -73,7 +73,7 @@ Do not use generic advice. Include suggested language the user can actually say.
         model=model,
     )
 
-    return answer, "\n".join(relevant_pages), response_format
+    return answer, relevant_pages, response_format
 
 
 def _save_as_case(question: str, answer: str, relevant_pages: list[str], model: str) -> None:
@@ -111,8 +111,7 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--no-save", action="store_true", help="Skip case save prompt")
     args = parser.parse_args(argv)
 
-    answer, pages_str, response_format = answer_question(args.question, args.model)
-    pages_list = [p for p in pages_str.splitlines() if p]
+    answer, pages_list, response_format = answer_question(args.question, args.model)
 
     print("\n" + "=" * 60)
     print(answer)
