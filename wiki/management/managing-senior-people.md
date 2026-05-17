@@ -109,16 +109,6 @@ This is the inverse failure mode from [[management/coaching-junior-people]]: ins
 - Annually: would they recommend me as a manager to another senior IC?
 - Watch for the silent signal: senior people who are unhappy do not complain — they go quiet, then they leave.
 
-## Related Frameworks
-
-- [[principles/trust]] — the operating currency.
-- [[principles/delegation]] — what good management of senior people looks like at scale.
-- [[principles/executive-presence]] — what makes senior people willing to follow your lead even when you are less expert than they are.
-- [[communication/difficult-conversations]] — the conversation craft.
-- [[communication/feedback-scripts]] — specifically the "asking for feedback" and "lightweight observation" patterns.
-- [[management/coaching-junior-people]] — the contrast case.
-- [[organization/informal-organization]] — where senior people's real influence lives.
-
 ## When a Senior IC Is Structurally Resistant — Use the If…Then Map
 
 A specific case: the senior IC who is overconfident, stubborn, narcissistic, or disagreeable. These are not rare profiles at the top of a technical or functional ladder — they often correlate with the qualities that produced excellence on the way up. Standard feedback moves do not work on them. Use Grant's if…then map (full playbook in [[communication/persuasion]]):

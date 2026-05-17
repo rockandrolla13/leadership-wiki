@@ -111,11 +111,11 @@ Good decisions in business require three separate forms of discipline: (1) under
 
 ## Pages Updated
 
-- [[wiki/principles/decision-making.md]] — *new page* — the four-field matrix, holistic decision-making, Badaracco's five questions, the indecision diagnostic
-- [[wiki/principles/decision-making-biases.md]] — extended with the eight Hammond traps, noise vs. bias, reasoned rules, three-filters-of-experience, Wilding on gut, Reeves/Moldoveanu/Job on dataism
-- [[wiki/organization/decision-rights.md]] — RAPID extended with Rogers/Blenko examples; "good fights" (Hill et al.) and decision-meeting closure (Charan) added
-- [[wiki/principles/courage.md]] — Charan's "heavy lifting of leadership" — candid feedback as the leader's hardest discipline
-- [[wiki/communication/feedback-scripts.md]] — Brown's "no surprises in the annual review" principle added
+- [[principles/decision-making]] — *new page* — the four-field matrix, holistic decision-making, Badaracco's five questions, the indecision diagnostic
+- [[principles/decision-making-biases]] — extended with the eight Hammond traps, noise vs. bias, reasoned rules, three-filters-of-experience, Wilding on gut, Reeves/Moldoveanu/Job on dataism
+- [[organization/decision-rights]] — RAPID extended with Rogers/Blenko examples; "good fights" (Hill et al.) and decision-meeting closure (Charan) added
+- [[principles/courage]] — Charan's "heavy lifting of leadership" — candid feedback as the leader's hardest discipline
+- [[communication/feedback-scripts]] — Brown's "no surprises in the annual review" principle added
 
 ## Questions This Source Raises
 

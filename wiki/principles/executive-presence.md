@@ -5,7 +5,7 @@ tags: [executive-presence, communication, credibility, leadership-transition, au
 created: 2026-05-16
 updated: 2026-05-16
 sources: [hbr-leadership-vol2-2020, lopp-art-of-leadership-2020, hbr-leadership-vol1, hbr-stop-holding-yourself-back-2025]
-related: [management/new-manager-transition, principles/trust, communication/strategy-communication, organization/managing-senior-people, principles/leadership-development-stages, principles/incomplete-leader, principles/hands-on-leadership]
+related: [management/new-manager-transition, principles/trust, communication/strategy-communication, management/managing-senior-people, principles/leadership-development-stages, principles/incomplete-leader, principles/hands-on-leadership]
 ---
 
 # Executive Presence

@@ -117,13 +117,13 @@ The issue's most leadership-relevant pieces converge on a single thesis: *the fo
 
 ## Pages Updated
 
-- [[wiki/management/managing-senior-people.md]] — Freeman's "look for differences" principle and the Mintzberg "engagement over heroics" frame added
-- [[wiki/communication/difficult-conversations.md]] — Ertel's pre-mortem and Mullins-case "late-stage red flag" added to escalation diagnostics
-- [[wiki/organization/decision-rights.md]] — Useem's anti-proxy discipline added as a corrective to "the presenter sounded confident" failure mode
-- [[wiki/organization/incentives.md]] — Narayanan & Raman's three-cause incentive diagnostic added
-- [[wiki/coaching/personal-leadership-development.md]] — Mintzberg's "just enough leadership" frame added
-- [[wiki/communication/cross-cultural-negotiation.md]] — Ertel's five implementation-minded behaviors layered on top of Meyer's five rules
-- [[wiki/principles/decision-making.md]] — *new page* — the four-field matrix from the decision-making book, plus the anti-proxy and pre-mortem disciplines from Now What
+- [[management/managing-senior-people]] — Freeman's "look for differences" principle and the Mintzberg "engagement over heroics" frame added
+- [[communication/difficult-conversations]] — Ertel's pre-mortem and Mullins-case "late-stage red flag" added to escalation diagnostics
+- [[organization/decision-rights]] — Useem's anti-proxy discipline added as a corrective to "the presenter sounded confident" failure mode
+- [[organization/incentives]] — Narayanan & Raman's three-cause incentive diagnostic added
+- [[coaching/personal-leadership-development]] — Mintzberg's "just enough leadership" frame added
+- [[communication/cross-cultural-negotiation]] — Ertel's five implementation-minded behaviors layered on top of Meyer's five rules
+- [[principles/decision-making]] — *new page* — the four-field matrix from the decision-making book, plus the anti-proxy and pre-mortem disciplines from Now What
 
 ## Questions This Source Raises
 

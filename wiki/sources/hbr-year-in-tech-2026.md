@@ -105,11 +105,11 @@ We are in the "messy middle" of multiple simultaneous technology disruptions, an
 
 ## Pages Updated
 
-- [[wiki/management/leading-technical-teams.md]] — *new page* — leadership for AI/agentic-AI deployment, model governance, vendor dependency, team-design with agents
-- [[wiki/management/managing-senior-people.md]] — added: managing senior technical talent in an AI-augmented environment
-- [[wiki/principles/decision-making.md]] — AI/human partition; the technology feasibility matrix as a strategic-decision tool
-- [[wiki/organization/operating-rhythm.md]] — cadence-matching to learning rhythm in AI-deployment contexts (note: existed already; minor reference added)
-- [[wiki/organization/adaptive-organization.md]] — agentic AI as a new layer of the adaptive organization
+- [[management/leading-technical-teams]] — *new page* — leadership for AI/agentic-AI deployment, model governance, vendor dependency, team-design with agents
+- [[management/managing-senior-people]] — added: managing senior technical talent in an AI-augmented environment
+- [[principles/decision-making]] — AI/human partition; the technology feasibility matrix as a strategic-decision tool
+- [[organization/operating-rhythm]] — cadence-matching to learning rhythm in AI-deployment contexts (note: existed already; minor reference added)
+- [[organization/adaptive-organization]] — agentic AI as a new layer of the adaptive organization
 
 ## Questions This Source Raises
 

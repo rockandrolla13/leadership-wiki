@@ -99,12 +99,12 @@ You can change the mind of even an overconfident, stubborn, narcissistic, or dis
 
 ## Pages Updated
 
-- [[wiki/principles/influence.md]] — Grant's if…then framework added as a personal-power tactic for influencing-up
-- [[wiki/communication/difficult-conversations.md]] — Grant's four counter-strategies added as a diagnostic for hard conversations with strong-personality counterparts
-- [[wiki/organization/change-management.md]] — informal-influence-up section added: how to persuade an unpersuadable senior stakeholder
-- [[wiki/communication/listening-and-conversation.md]] — Sharer's listening ecosystem and WAIT diagnostic added
-- [[wiki/management/managing-senior-people.md]] — the if…then map added as a tool for managing senior ICs and skip-level peers
-- [[wiki/communication/persuasion.md]] — *new page* — the full Grant framework as a standalone playbook
+- [[principles/influence]] — Grant's if…then framework added as a personal-power tactic for influencing-up
+- [[communication/difficult-conversations]] — Grant's four counter-strategies added as a diagnostic for hard conversations with strong-personality counterparts
+- [[organization/change-management]] — informal-influence-up section added: how to persuade an unpersuadable senior stakeholder
+- [[communication/listening-and-conversation]] — Sharer's listening ecosystem and WAIT diagnostic added
+- [[management/managing-senior-people]] — the if…then map added as a tool for managing senior ICs and skip-level peers
+- [[communication/persuasion]] — *new page* — the full Grant framework as a standalone playbook
 
 ## Questions This Source Raises
 

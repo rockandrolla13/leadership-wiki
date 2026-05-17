@@ -1,6 +1,6 @@
 # Leadership Wiki Index
 
-_Last updated: 2026-05-17 | Pages: 85_
+_Last updated: 2026-05-17 | Pages: 87_
 
 ## Concept Pages
 | Page | Summary | Tags | Updated | Sources |
@@ -20,16 +20,16 @@ _Last updated: 2026-05-17 | Pages: 85_
 | [[coaching/resilience]] | Microstress, happiness traps, moxie, strategic patience — sustainable performance under sustained pressure | resilience, microstress, burnout, recovery | 2026-05-16 | hbr-managing-yourself, hbr-must-reads-2025 |
 | [[organization/culture]] | What is actually valued and rewarded, carried by the people who do the work | culture, trust, purpose, hiring | 2026-05-16 | lopp-art-of-leadership-2020, sinek-find-your-why-2017, sinek-start-with-why-2009, katzenbach-khan-leading-outside-lines-2010, sinek-leaders-eat-last-2014, george-authentic-leadership-2003, hbr-must-reads-2025, hbr-must-reads-2026 |
 | [[organization/informal-organization]] | The networks, norms, and emotional commitments that exist outside formal lines | informal-organization, change-management, motivation | 2026-05-16 | katzenbach-khan-leading-outside-lines-2010 |
-| [[organization/organizational-politics]] | Navigating interests and coalitions in the organization | organizational-politics, stakeholders | 2026-05-16 | — |
+| [[organization/organizational-politics]] | Navigating coalitions and informal power; necessary vs. corrosive politics; OQ (IQ + EQ); pre-selling and stakeholder mapping | organizational-politics, stakeholders, influence, coalitions, informal-organization | 2026-05-17 | katzenbach-khan-leading-outside-lines-2010, hbr-leadership-vol1, hbr-managers-handbook-17-skills |
 | [[organization/decision-rights]] | RAPID/RACI + Charan closure discipline + anti-proxy + AI-augmented decision partition | decision-rights, accountability, raci, rapid, closure | 2026-05-17 | katzenbach-khan-leading-outside-lines-2010, hbr-managers-handbook-17-skills, hbr-decision-making, hbr-now-what |
 | [[organization/incentives]] | Pride-builder model; stated vs. enacted; cross-organization incentive alignment (Narayanan & Raman) | incentives, motivation, recognition, supply-chain | 2026-05-17 | katzenbach-khan-leading-outside-lines-2010, hbr-must-reads-2026, hbr-managers-handbook-17-skills, hbr-now-what |
 | [[organization/team-design]] | Virtuoso vs. traditional, two-pizza rule, role clarity with task ambiguity | team-design, organization, virtuoso-teams | 2026-05-16 | hbr-building-better-teams, hbr-stop-holding-yourself-back-2025, lopp-art-of-leadership-2020 |
-| [[organization/operating-rhythm]] | The cadence of meetings, reviews, and decisions that keeps an organization aligned | operating-rhythm, management | 2026-05-16 | — |
+| [[organization/operating-rhythm]] | Four-level cadence (1:1s, team, cross-functional, leadership forum); each forum has a decision class, owner, attendees, and artifact | operating-rhythm, management, meetings, governance, alignment | 2026-05-17 | hbr-managers-handbook-17-skills, hbr-must-reads-2026 |
 | [[organization/leadership-teams]] | Three dysfunction patterns (shark tank, petting zoo, mediocracy) and targeted repairs | leadership-team, dysfunction, governance | 2026-05-16 | hbr-must-reads-2026 |
 | [[principles/hands-on-leadership]] | Cook & Nohria's five principles: top CEOs architect how work gets done | hands-on, ceo-role, execution, continuous-improvement | 2026-05-16 | hbr-stop-holding-yourself-back-2025 |
 | [[principles/influence]] | Positional vs. personal power; managing up, peer partnering, idea promotion; Grant's if…then map for persuading the unpersuadable | influence, power, managing-up, silo-busting, persuasion | 2026-05-17 | hbr-managers-handbook-17-skills, hbr-leadership-vol1, hbr-change-anyones-mind-2021 |
 | [[organization/adaptive-organization]] | Octopus Org: clarity, ownership, curiosity through hypothesize/experiment/reflect/spread | adaptive-organization, octopus-org, antipatterns | 2026-05-16 | hbr-stop-holding-yourself-back-2025 |
-| [[organization/c-suite-as-team]] | Gartner: only 31% of C-suite see peers as primary team; shared goals as the lever | c-suite, executive-team, top-team, chro | 2026-05-16 |
+| [[organization/c-suite-as-team]] | Gartner: only 31% of C-suite see peers as primary team; shared goals as the lever | c-suite, executive-team, top-team, chro | 2026-05-16 | hbr-stop-holding-yourself-back-2025, hbr-building-better-teams |
 | [[principles/motivation]] | Sustained directed energy — intrinsic vs extrinsic, neurochemistry, pride-builder taxonomy, and what a leader can actually do | motivation, intrinsic-motivation, incentives, informal-organization | 2026-05-17 | hbr-stop-holding-yourself-back-2025, hbr-building-better-teams |
 | [[principles/decision-making]] | Four-field matrix, gray-area five questions, AI partition, closure discipline, anti-proxy stance | decision-making, judgment, gray-area, ai-decisions | 2026-05-17 | hbr-decision-making, hbr-now-what, hbr-must-reads-2026, hbr-year-in-tech-2026 |
 

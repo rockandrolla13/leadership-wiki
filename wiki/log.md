@@ -8,26 +8,26 @@ Chronological record of all ingestions and coaching queries.
 
 - Sources ingested: hbr-change-anyones-mind-2021, hbr-decision-making, hbr-now-what, hbr-year-in-tech-2026
 - Pages created:
-  - [[wiki/sources/hbr-change-anyones-mind-2021.md]]
-  - [[wiki/sources/hbr-decision-making.md]]
-  - [[wiki/sources/hbr-now-what.md]]
-  - [[wiki/sources/hbr-year-in-tech-2026.md]]
-  - [[wiki/communication/persuasion.md]]
-  - [[wiki/principles/decision-making.md]]
-  - [[wiki/management/leading-technical-teams.md]]
+  - [[sources/hbr-change-anyones-mind-2021]]
+  - [[sources/hbr-decision-making]]
+  - [[sources/hbr-now-what]]
+  - [[sources/hbr-year-in-tech-2026]]
+  - [[communication/persuasion]]
+  - [[principles/decision-making]]
+  - [[management/leading-technical-teams]]
 - Pages updated:
-  - [[wiki/principles/influence.md]] — Grant if…then map added as persuading-up tactic
-  - [[wiki/communication/difficult-conversations.md]] — structural-resistance diagnostic + Mullins red-flag patterns
-  - [[wiki/organization/change-management.md]] — Grant's upward persuasion as complement to Katzenbach informal-organization
-  - [[wiki/communication/listening-and-conversation.md]] — Sharer's listening ecosystem + WAIT diagnostic
-  - [[wiki/principles/decision-making-biases.md]] — Hammond eight traps + bias vs. noise + reasoned rules + intuition vs. fear + Reeves dataism critique
-  - [[wiki/organization/decision-rights.md]] — Charan closure discipline + Useem anti-proxy + AI-augmented decision partition
-  - [[wiki/organization/incentives.md]] — Narayanan & Raman three-cause cross-organization incentive diagnostic
-  - [[wiki/management/managing-senior-people.md]] — if…then map + Freeman succession model + AI-augmented IC management
-  - [[wiki/principles/courage.md]] — Brown/Charan "heavy lifting of leadership" (recurring candid feedback as courage)
-  - [[wiki/communication/feedback-scripts.md]] — no-surprises-in-annual-review principle
-  - [[wiki/coaching/personal-leadership-development.md]] — Mintzberg just-enough-leadership
-  - [[wiki/communication/cross-cultural-negotiation.md]] — Ertel implementation-minded negotiating layer
+  - [[principles/influence]] — Grant if…then map added as persuading-up tactic
+  - [[communication/difficult-conversations]] — structural-resistance diagnostic + Mullins red-flag patterns
+  - [[organization/change-management]] — Grant's upward persuasion as complement to Katzenbach informal-organization
+  - [[communication/listening-and-conversation]] — Sharer's listening ecosystem + WAIT diagnostic
+  - [[principles/decision-making-biases]] — Hammond eight traps + bias vs. noise + reasoned rules + intuition vs. fear + Reeves dataism critique
+  - [[organization/decision-rights]] — Charan closure discipline + Useem anti-proxy + AI-augmented decision partition
+  - [[organization/incentives]] — Narayanan & Raman three-cause cross-organization incentive diagnostic
+  - [[management/managing-senior-people]] — if…then map + Freeman succession model + AI-augmented IC management
+  - [[principles/courage]] — Brown/Charan "heavy lifting of leadership" (recurring candid feedback as courage)
+  - [[communication/feedback-scripts]] — no-surprises-in-annual-review principle
+  - [[coaching/personal-leadership-development]] — Mintzberg just-enough-leadership
+  - [[communication/cross-cultural-negotiation]] — Ertel implementation-minded negotiating layer
 - Key concepts: if…then map / persuading-the-unpersuadable (Grant); listening ecosystem + WAIT (Sharer); four-field decision matrix (Rosenzweig); bias vs. noise + noise audits (Kahneman et al.); RAPID + closure discipline (Rogers/Blenko + Charan); gray-area five questions (Badaracco); CEO-led succession (Freeman); implementation-minded negotiating (Ertel); cross-organization incentive alignment (Narayanan & Raman); just-enough-leadership (Mintzberg); anti-proxy discipline (Useem); the four disruption patterns (Anthony); agentic AI imperatives + scaffolding (Purdy); blockchain-based AI governance (Zoldi & Levine); explainable cyber risk + vendor dependency (Yahalom); data cooperatives (Parra-Moyano & Joshi); Technology Feasibility Matrix + convergence window (Marion/Deeds/Friar); future-of-work field frames (Dries/Luyckx/Rogiers); triangular executive coaching contract (Sherman & Freas)
 - Contradictions / tensions:
   - Grant's situational-personality view vs. Sinek's stable-WHY core (both can be true; behavior is situational, purpose is stable)
@@ -55,14 +55,14 @@ Chronological record of all ingestions and coaching queries.
 
 - Source: raw/books/markdown/The Art of Leadership Small Things, Done Well (Michael Lopp).md
 - Pages created:
-  - [[management/new-manager-transition.md]]
-  - [[sources/lopp-art-of-leadership-2020.md]]
+  - [[management/new-manager-transition]]
+  - [[sources/lopp-art-of-leadership-2020]]
 - Pages updated:
-  - [[management/one-on-ones.md]]
-  - [[principles/delegation.md]]
-  - [[principles/trust.md]]
-  - [[management/performance-management.md]]
-  - [[management/hiring.md]]
+  - [[management/one-on-ones]]
+  - [[principles/delegation]]
+  - [[principles/trust]]
+  - [[management/performance-management]]
+  - [[management/hiring]]
 - Key concepts: one-on-ones, delegation, trust, new manager death spiral, performance management, hiring, blue tape list, spidey-sense, must list
 - Contradictions / tensions: None (first source ingested). Note face-to-face requirement may tension with remote-first contexts.
 - Follow-up questions: At what point does coaching become performance management? How does the Must List apply in non-engineering contexts?
@@ -71,10 +71,10 @@ Chronological record of all ingestions and coaching queries.
 
 - Source: raw/books/markdown/Find Your Why A Practical Guide to Discovering Purpose for You and Your Team (Sinek, Simon).md
 - Pages created:
-  - [[principles/purpose-and-why.md]]
-  - [[sources/sinek-find-your-why-2017.md]]
+  - [[principles/purpose-and-why]]
+  - [[sources/sinek-find-your-why-2017]]
 - Pages updated:
-  - [[organization/culture.md]]
+  - [[organization/culture]]
 - Key concepts: WHY, golden circle, individual why discovery, tribe why discovery, fulfillment vs happiness, nested WHYs, why statement format
 - Contradictions / tensions: Fulfillment-through-purpose may tension with sources that emphasize extrinsic motivation or craft as motivation.
 - Follow-up questions: Does the WHY update over time? How does this apply when the founder's WHY and organizational behavior have diverged?
@@ -83,10 +83,10 @@ Chronological record of all ingestions and coaching queries.
 
 - Source: raw/books/markdown/Start with Why (Simon Sinek).md
 - Pages created:
-  - [[sources/sinek-start-with-why-2009.md]]
+  - [[sources/sinek-start-with-why-2009]]
 - Pages updated:
-  - [[communication/strategy-communication.md]]
-  - [[principles/purpose-and-why.md]] (additional source cited)
+  - [[communication/strategy-communication]]
+  - [[principles/purpose-and-why]] (additional source cited)
 - Key concepts: golden circle, manipulation vs inspiration, WHY biology, loyalty vs repeat business, tipping point dynamics, novelty vs innovation
 - Contradictions / tensions: Manipulation argument may tension with legitimate incentive design literature.
 - Follow-up questions: How does the WHY model apply in bureaucratic organizations where mission is constrained?
@@ -95,10 +95,10 @@ Chronological record of all ingestions and coaching queries.
 
 - Source: raw/books/markdown/HBRs 10 Must Reads on Leadership, Vol. 2.md
 - Pages created:
-  - [[sources/hbr-leadership-vol2-2020.md]]
+  - [[sources/hbr-leadership-vol2-2020]]
 - Pages updated:
-  - [[principles/executive-presence.md]]
-  - [[communication/strategy-communication.md]]
+  - [[principles/executive-presence]]
+  - [[communication/strategy-communication]]
 - Key concepts: organizational conversation (intimacy, interactivity, inclusion, intentionality), seven seismic shifts, six strategic leadership skills, authenticity paradox, both/and leadership, collaborative leadership, triple focus
 - Contradictions / tensions: Ibarra's "adaptively authentic" framework tensions with Sinek's WHY as fixed core.
 - Follow-up questions: Do the seven seismic shifts apply to founder-path leaders? How does both/and thinking hold under cognitive load in crisis?
@@ -107,10 +107,10 @@ Chronological record of all ingestions and coaching queries.
 
 - Source: raw/books/markdown/Leading Outside the Lines (Katzenbach, Khan).md
 - Pages created:
-  - [[organization/informal-organization.md]]
-  - [[sources/katzenbach-khan-leading-outside-lines-2010.md]]
+  - [[organization/informal-organization]]
+  - [[sources/katzenbach-khan-leading-outside-lines-2010]]
 - Pages updated:
-  - [[organization/culture.md]]
+  - [[organization/culture]]
 - Key concepts: informal organization, formal vs informal, organizational quotient (OQ), fast zebras, frozen tundra, pride as motivator, informal hubs, mobilization
 - Contradictions / tensions: Complements Sinek's WHY (purpose motivates informally); tensions with overly-formal views of change management.
 - Follow-up questions: How do informal networks function in remote-first organizations? Is the formal/informal binary sufficient?
@@ -118,16 +118,16 @@ Chronological record of all ingestions and coaching queries.
 ## [2026-05-16] ingest | Second pass — filling stub pages from book content
 
 - Pages updated:
-  - [[principles/psychological-safety.md]]
-  - [[principles/accountability.md]]
-  - [[principles/ownership.md]]
-  - [[communication/difficult-conversations.md]]
-  - [[communication/feedback-scripts.md]]
-  - [[communication/conflict-language.md]]
-  - [[communication/stakeholder-updates.md]]
-  - [[management/underperformance.md]]
-  - [[management/coaching-junior-people.md]]
-  - [[management/managing-senior-people.md]]
+  - [[principles/psychological-safety]]
+  - [[principles/accountability]]
+  - [[principles/ownership]]
+  - [[communication/difficult-conversations]]
+  - [[communication/feedback-scripts]]
+  - [[communication/conflict-language]]
+  - [[communication/stakeholder-updates]]
+  - [[management/underperformance]]
+  - [[management/coaching-junior-people]]
+  - [[management/managing-senior-people]]
 - Key concepts added: accountability vs responsibility (Lopp), the "checklist sentence" for performance, SBI feedback framing, Lopp's three classes of feedback (no big deal / slow burn / just plain hard), Old Guard / New Guard dynamic, pride-builder vs "good manager" vs "people person," disagree-and-commit language, the WHY-first stakeholder update structure, escalation from coaching to written feedback to formal process, "say the hard thing" loop, "shush, little voice" letting work be a B.
 - Sources used: lopp-art-of-leadership-2020 (primary for management/communication playbooks), hbr-leadership-vol2-2020 (Authenticity Paradox, Cross-Silo Leadership, How CEOs Manage Time, How Managers Become Leaders), katzenbach-khan-leading-outside-lines-2010 (pride-builders, informal motivation), sinek-start-with-why-2009 (WHY-first framing for stakeholder updates).
 - Contradictions / tensions: Lopp's "say the hard thing" trust loop and HBR's "managing distance and approachability" both warn against the same authenticity-as-friendliness failure mode but prescribe different first moves. Katzenbach's pride-as-engine framing tensions with rigid PIP/performance-process traditions.
@@ -156,21 +156,21 @@ Chronological record of all ingestions and coaching queries.
 
 - Sources ingested: sinek-leaders-eat-last-2014, bradberry-emotional-intelligence-2009, edmondson-extreme-teaming-2017, george-authentic-leadership-2003
 - Pages created:
-  - [[sources/sinek-leaders-eat-last-2014.md]]
-  - [[sources/bradberry-emotional-intelligence-2009.md]]
-  - [[sources/edmondson-extreme-teaming-2017.md]]
-  - [[sources/george-authentic-leadership-2003.md]]
-  - [[principles/emotional-intelligence.md]]
-  - [[principles/authentic-leadership.md]]
-  - [[management/cross-functional-teaming.md]]
+  - [[sources/sinek-leaders-eat-last-2014]]
+  - [[sources/bradberry-emotional-intelligence-2009]]
+  - [[sources/edmondson-extreme-teaming-2017]]
+  - [[sources/george-authentic-leadership-2003]]
+  - [[principles/emotional-intelligence]]
+  - [[principles/authentic-leadership]]
+  - [[management/cross-functional-teaming]]
 - Pages updated:
-  - [[principles/trust.md]] — added biology of trust (oxytocin), foxhole test, NYT front-page test, CEO-itis
-  - [[principles/psychological-safety.md]] — added Circle of Safety framing, authentic caring practice, EQ as the daily skill set
-  - [[organization/culture.md]] — added Truly Human Leadership (Barry-Wehmiller), Lifetime Employment (Next Jump), Mission and Medallion (Medtronic), values-centered AND performance-driven synthesis
-  - [[principles/purpose-and-why.md]] — added "outsize the resources" framing, the mission-driven flywheel, "missions motivate; dollars don't"
-  - [[communication/feedback-scripts.md]] — added calibrate-to-receiver (Todd vs. Jenni), intent-vs-impact check, feedback as a relationship-building event
-  - [[communication/difficult-conversations.md]] — added Emotion vs. Reason list, acknowledge-before-solving, four-stage EQ sequence
-  - [[management/one-on-ones.md]] — added "don't take notes during the meeting" and "live in the moment" practices
+  - [[principles/trust]] — added biology of trust (oxytocin), foxhole test, NYT front-page test, CEO-itis
+  - [[principles/psychological-safety]] — added Circle of Safety framing, authentic caring practice, EQ as the daily skill set
+  - [[organization/culture]] — added Truly Human Leadership (Barry-Wehmiller), Lifetime Employment (Next Jump), Mission and Medallion (Medtronic), values-centered AND performance-driven synthesis
+  - [[principles/purpose-and-why]] — added "outsize the resources" framing, the mission-driven flywheel, "missions motivate; dollars don't"
+  - [[communication/feedback-scripts]] — added calibrate-to-receiver (Todd vs. Jenni), intent-vs-impact check, feedback as a relationship-building event
+  - [[communication/difficult-conversations]] — added Emotion vs. Reason list, acknowledge-before-solving, four-stage EQ sequence
+  - [[management/one-on-ones]] — added "don't take notes during the meeting" and "live in the moment" practices
 - Key concepts: Circle of Safety, E.D.S.O. (endorphins/dopamine/serotonin/oxytocin), Truly Human Leadership, Lifetime Employment, "I intend to" (Marquet), Dunbar's number, Mission and Medallion, the Four-Skill EQ model (self-awareness → self-management → social awareness → relationship management), Emotion vs. Reason list, intent-vs-impact alignment, Five Dimensions of Authentic Leadership (Purpose, Values, Heart, Relationships, Self-Discipline), the crucible, the two concentric circles (Houghton), the stakeholder order (customers → employees → shareholders), Extreme Teaming's four leadership functions (Build Engaging Vision, Cultivate Psychological Safety, Develop Shared Mental Models, Empower Agile Execution), authentic caring, boundary objects, expert decision clusters, room to maneuver.
 - Contradictions / tensions: George's "be yourself" (2003) vs. Ibarra's "authenticity paradox" (HBR Vol. 2) — the synthesis is core-stable / expression-adaptive. Sinek's protection-first ethic vs. Lopp's say-the-hard-thing — both fail in opposite directions; the synthesis is protection-from-external-blame as the precondition for internal honesty. Bradberry & Greaves's calibrate-to-receiver vs. Lopp's directness — Todd vs. Jenni framing reconciles them. Sinek and George together push the wiki away from shareholder-primacy framing and toward stakeholder-order framing.
 - Follow-up questions: How does the Circle of Safety / Mission-and-Medallion model adapt to remote-first organizations where physical presence is structurally limited? Can extreme teaming's four-function model be inverted to diagnose which function is missing when a project is failing? What does the realistic curve of EQ improvement look like by age and starting score? How does George's stakeholder order hold up in industries with diffuse missions (financial services, platform software)?
@@ -179,27 +179,27 @@ Chronological record of all ingestions and coaching queries.
 
 - Sources ingested: hbr-must-reads-2025, hbr-must-reads-2026, hbr-communication-vol2, hbr-managing-yourself
 - Pages created:
-  - [[sources/hbr-must-reads-2025.md]]
-  - [[sources/hbr-must-reads-2026.md]]
-  - [[sources/hbr-communication-vol2.md]]
-  - [[sources/hbr-managing-yourself.md]]
-  - [[coaching/personal-leadership-development.md]] — long-arc self-development frame (Drucker + Coleman + Christensen + BCG's Strategize Your Life seven steps + Su's five leadership voices)
-  - [[coaching/managing-yourself.md]] — Drucker's five questions in playbook form
-  - [[coaching/resilience.md]] — microstress (Cross & Dillon), happiness traps (McKee), learning to learn (Andersen), moxie (Dorsey), strategic patience (Clark)
-  - [[principles/energy-management.md]] — Schwartz & McCarthy's four-wellsprings model + Zaki's empathic-concern-vs-emotional-empathy distinction
-  - [[principles/curiosity.md]] — Andersen's four attributes + Chevallier's five question domains + Kuwabara's growth mindset for relationships
-  - [[principles/decision-making-biases.md]] — Soll/Milkman/Payne's debiasing toolkit + Flyvbjerg's uniqueness-trap (outside view, premortem, reference-class forecasting, noise audit)
-  - [[principles/courage.md]] — Detert's competent courage four phases + Kouchaki/Smith's ethical-career planning + Su's voice of character
-  - [[communication/listening-and-conversation.md]] — Groysberg/Slind's four-I model + Brooks/John on questions + Chevallier's five question domains + Toegel/Barsoux's five preempt-conflict conversations + Meyer's cross-cultural rules
-  - [[communication/cross-cultural-negotiation.md]] — Meyer's five rules (disagreement style, emotional expression, cognitive vs affective trust, yes/no semantics, written commitment) + cultural-bridge practice
-  - [[organization/leadership-teams.md]] — Keil & Zangrillo's three dysfunction patterns (shark tank / petting zoo / mediocracy) and targeted repairs
+  - [[sources/hbr-must-reads-2025]]
+  - [[sources/hbr-must-reads-2026]]
+  - [[sources/hbr-communication-vol2]]
+  - [[sources/hbr-managing-yourself]]
+  - [[coaching/personal-leadership-development]] — long-arc self-development frame (Drucker + Coleman + Christensen + BCG's Strategize Your Life seven steps + Su's five leadership voices)
+  - [[coaching/managing-yourself]] — Drucker's five questions in playbook form
+  - [[coaching/resilience]] — microstress (Cross & Dillon), happiness traps (McKee), learning to learn (Andersen), moxie (Dorsey), strategic patience (Clark)
+  - [[principles/energy-management]] — Schwartz & McCarthy's four-wellsprings model + Zaki's empathic-concern-vs-emotional-empathy distinction
+  - [[principles/curiosity]] — Andersen's four attributes + Chevallier's five question domains + Kuwabara's growth mindset for relationships
+  - [[principles/decision-making-biases]] — Soll/Milkman/Payne's debiasing toolkit + Flyvbjerg's uniqueness-trap (outside view, premortem, reference-class forecasting, noise audit)
+  - [[principles/courage]] — Detert's competent courage four phases + Kouchaki/Smith's ethical-career planning + Su's voice of character
+  - [[communication/listening-and-conversation]] — Groysberg/Slind's four-I model + Brooks/John on questions + Chevallier's five question domains + Toegel/Barsoux's five preempt-conflict conversations + Meyer's cross-cultural rules
+  - [[communication/cross-cultural-negotiation]] — Meyer's five rules (disagreement style, emotional expression, cognitive vs affective trust, yes/no semantics, written commitment) + cultural-bridge practice
+  - [[organization/leadership-teams]] — Keil & Zangrillo's three dysfunction patterns (shark tank / petting zoo / mediocracy) and targeted repairs
 - Pages updated (Group B notes appended):
-  - [[principles/psychological-safety.md]] — added Four Freedoms (Roberts) and petting-zoo failure-mode caveat
-  - [[organization/culture.md]] — added Sutton & Rao's subtraction-as-culture (good-riddance reviews, addition sickness) and Meyer's six dilemma-grounded culture rules
-  - [[principles/purpose-and-why.md]] — added Coleman's "purpose is built, not found" + multiple-purposes + evolution-over-time caveats
-  - [[communication/feedback-scripts.md]] — added Heen & Stone's three triggers (truth / relationship / identity) and McKee's happiness-trap interaction
-  - [[coaching/recurring-patterns.md]] — populated with framework-pattern categories from microstress, happiness traps, feedback triggers, leadership voices, question domains, decision-making biases (subsequently extended by other agents)
-  - [[coaching/development-plan.md]] — populated with Drucker's five questions structure, PERMA-V audit, SLU time audit, OKR template, energy targets (subsequently extended by other agents)
+  - [[principles/psychological-safety]] — added Four Freedoms (Roberts) and petting-zoo failure-mode caveat
+  - [[organization/culture]] — added Sutton & Rao's subtraction-as-culture (good-riddance reviews, addition sickness) and Meyer's six dilemma-grounded culture rules
+  - [[principles/purpose-and-why]] — added Coleman's "purpose is built, not found" + multiple-purposes + evolution-over-time caveats
+  - [[communication/feedback-scripts]] — added Heen & Stone's three triggers (truth / relationship / identity) and McKee's happiness-trap interaction
+  - [[coaching/recurring-patterns]] — populated with framework-pattern categories from microstress, happiness traps, feedback triggers, leadership voices, question domains, decision-making biases (subsequently extended by other agents)
+  - [[coaching/development-plan]] — populated with Drucker's five questions structure, PERMA-V audit, SLU time audit, OKR template, energy targets (subsequently extended by other agents)
 - Key concepts: managing yourself (Drucker's five questions), purpose-is-built (Coleman), Strategize Your Life seven steps (Strack/Dyrchs/Bailey PERMA-V + 16 SLUs + OKRs), manage-energy-not-time (Schwartz/McCarthy four wellsprings), sustainable empathy (Zaki — empathic concern vs emotional empathy), microstress (Cross/Dillon — 14 sources, three categories, push back / attune / rise above), happiness traps (McKee — ambition / "should" / overwork), learning to learn (Andersen — aspiration / self-awareness / curiosity / vulnerability), moxie (Dorsey), strategic patience (Clark — research the terrain, raindrops of progress, directionally correct), five leadership voices (Su — character / context / clarity / curiosity / connection), four-I organizational conversation (Groysberg/Slind — intimacy / interactivity / inclusion / intentionality), five question domains (Chevallier/Dalsace/Barsoux — investigative / speculative / productive / interpretive / subjective), four question types (Brooks/John — favouring follow-up), three feedback triggers (Heen/Stone — truth / relationship / identity), five cross-cultural rules (Meyer — disagreement / emotion / trust / yes-no / written), competent courage (Detert — groundwork / battle selection / persuasion / follow-up), ethical career planning (Kouchaki/Smith — moral humility, if-then plans, three tests), debiasing toolkit (Soll/Milkman/Payne — three estimates, premortems, outside view, vanishing options, trip wires), uniqueness trap (Flyvbjerg — reference-class forecasting, noise audit), six dilemma-grounded culture rules (Meyer), three leadership-team dysfunctions (Keil/Zangrillo — shark tank, petting zoo, mediocracy), subtraction culture (Sutton/Rao — addition sickness, good-riddance reviews, rule of halves), four freedoms (Roberts — be / become / fade / fail), FAIR framework (Zheng — Fairness / Access / Inclusion / Representation), Activator playbook (Dixon et al. — commit / connect / create), four versions of stakeholder capitalism (Paine), RDM growth framework (Pisano — rate / direction / method), Strategize Your Life one-pager.
 - Sources used by domain:
   - hbr-managing-yourself: foundational for [[coaching/personal-leadership-development]], [[coaching/managing-yourself]], [[coaching/resilience]], [[principles/energy-management]], [[principles/curiosity]], [[principles/decision-making-biases]], [[principles/courage]]
@@ -274,3 +274,22 @@ Chronological record of all ingestions and coaching queries.
 
 - Pages filled: management/onboarding, organization/organizational-politics, organization/decision-rights, organization/incentives, organization/operating-rhythm
 - Sources used: lopp-art-of-leadership-2020, hbr-managers-handbook-17-skills, katzenbach-khan-leading-outside-lines-2010, hbr-must-reads-2026, hbr-leadership-vol1
+
+---
+
+## [2026-05-17] lint | Full audit and fix pass
+
+- Issues fixed:
+  - Wikilink format: stripped `[[wiki/...]]` prefix and `.md` suffix across 4 source pages (hbr-year-in-tech-2026, hbr-decision-making, hbr-now-what, hbr-change-anyones-mind-2021) and log.md — ~147 wikilink replacements in total
+  - Broken `related:` slug in principles/executive-presence (`organization/managing-senior-people` -> `management/managing-senior-people`)
+  - Removed duplicate "Related Frameworks" section in management/managing-senior-people
+  - Updated index.md row for organization/organizational-politics (was source-empty; now lists 3 sources)
+  - Updated index.md row for organization/operating-rhythm (was source-empty; now lists 2 sources)
+  - Added missing sources column to organization/c-suite-as-team row in index.md
+  - Corrected index.md page count header from 85 to 87 (actual count)
+- Pages enriched: none required — audit found no truly empty section bodies and no concept/playbook missing required Diagnostic Questions / Suggested Language sections
+- Orphans: none — every page has at least one inbound link from index.md
+- Source pages: all 21 source files indexed; all 87 wiki pages on disk indexed
+- Broken wikilinks: 0 after fixes
+- Broken `related:` slugs: 0 after fixes
+- Index updated: yes (page count, 3 row updates, date now 2026-05-17)
