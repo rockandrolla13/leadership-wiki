@@ -229,3 +229,8 @@ Chronological record of all ingestions and coaching queries.
   - Wilkins's blockers are descriptive; when multiple are active, how do you sequence which to address first?
   - The Rooke & Torbert action logics show only 5% reach Strategist; what does the developmental path actually look like for the 95% stuck at Expert/Achiever?
 
+
+## [2026-05-17] lint-fix | Fill 5 empty critical pages
+
+- Pages filled: management/onboarding, organization/organizational-politics, organization/decision-rights, organization/incentives, organization/operating-rhythm
+- Sources used: lopp-art-of-leadership-2020, hbr-managers-handbook-17-skills, katzenbach-khan-leading-outside-lines-2010, hbr-must-reads-2026, hbr-leadership-vol1
