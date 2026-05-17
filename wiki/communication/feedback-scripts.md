@@ -1,11 +1,11 @@
 ---
 type: playbook
 title: "Feedback Scripts"
-tags: [feedback, communication, scripts]
+tags: [feedback, communication, scripts, no-surprises]
 created: 2026-05-16
-updated: 2026-05-16
-sources: [lopp-art-of-leadership-2020, hbr-leadership-vol2-2020, bradberry-emotional-intelligence-2009, hbr-managers-handbook-17-skills, hbr-stop-holding-yourself-back-2025, hbr-communication-vol2, hbr-managing-yourself]
-related: [communication/difficult-conversations, principles/psychological-safety, principles/trust, management/one-on-ones, management/performance-management, principles/emotional-intelligence, management/sbi-feedback-model, communication/productive-disagreement, communication/listening-and-conversation]
+updated: 2026-05-17
+sources: [lopp-art-of-leadership-2020, hbr-leadership-vol2-2020, bradberry-emotional-intelligence-2009, hbr-managers-handbook-17-skills, hbr-stop-holding-yourself-back-2025, hbr-communication-vol2, hbr-managing-yourself, hbr-decision-making]
+related: [communication/difficult-conversations, principles/psychological-safety, principles/trust, management/one-on-ones, management/performance-management, principles/emotional-intelligence, management/sbi-feedback-model, communication/productive-disagreement, communication/listening-and-conversation, principles/courage]
 ---
 
 # Feedback Scripts
@@ -152,3 +152,17 @@ If you are receiving feedback that you genuinely cannot act on (e.g., you disagr
   When delivering feedback, you can defuse triggers by naming them: *"I want to give you feedback. I'm not saying you're a bad colleague — I'm saying this specific behaviour had a specific impact. Let's separate those."*
 
 - [[sources/hbr-managing-yourself]] — Annie McKee's "Happiness Traps" framing complements Heen & Stone: identity triggers are amplified when the feedback hits a trap the receiver is already in (ambition, "should," overwork). Feedback to someone in the ambition trap that says "you're not collaborative" hits both identity (I'm a winner!) and trap (collaboration costs me my edge). The deliverer should expect a harder reaction in those cases and plan a longer follow-up arc.
+
+## The No-Surprises Principle (Brown / Charan)
+
+A specific principle added from the decision-making literature: **the annual review should contain no surprises.** Dick Brown at EDS, quoted by Ram Charan:
+
+> *"A leader should be constructing his appraisal all year long, and giving his appraisal all year long. You have 20, 30, 60 opportunities a year to share your observations. Don't let those opportunities pass. If, at the end of the year, someone is truly surprised by what you have to say, that's a failure of leadership."*
+
+The implication for the feedback script library: **the annual review is the wrong forum for novel feedback.** If the review contains feedback the report has not heard before, the manager has under-supplied feedback throughout the year — and the cost is paid by the report, who cannot act on information they did not have.
+
+Operational implication: every weekly 1:1 should contain at least one micro-feedback observation, positive or negative. The cumulative effect is that the annual review becomes a synthesis of a year of small conversations, not a delivery of new information.
+
+Charan's framing: *"Leaders get the behavior they tolerate."* If the manager tolerates the annual-review surprise as a recurring pattern, they have designed the system to produce it.
+
+This principle interlocks with [[principles/courage]] — the "heavy lifting of leadership" is exactly this recurring micro-feedback discipline, not the heroic occasional speech. See [[sources/hbr-decision-making]] for the Brown/Charan context.

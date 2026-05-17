@@ -1,11 +1,11 @@
 ---
 type: playbook
 title: "Difficult Conversations"
-tags: [difficult-conversations, feedback, conflict]
+tags: [difficult-conversations, feedback, conflict, persuasion]
 created: 2026-05-16
-updated: 2026-05-16
-sources: [lopp-art-of-leadership-2020, hbr-leadership-vol2-2020, bradberry-emotional-intelligence-2009]
-related: [communication/feedback-scripts, communication/conflict-language, principles/psychological-safety, principles/trust, management/underperformance, principles/emotional-intelligence]
+updated: 2026-05-17
+sources: [lopp-art-of-leadership-2020, hbr-leadership-vol2-2020, bradberry-emotional-intelligence-2009, hbr-change-anyones-mind-2021, hbr-now-what]
+related: [communication/feedback-scripts, communication/conflict-language, principles/psychological-safety, principles/trust, management/underperformance, principles/emotional-intelligence, communication/persuasion]
 ---
 
 # Difficult Conversations
@@ -81,10 +81,32 @@ If the conversation involves a peer or senior person rather than a direct report
 - Watch for the behavior over the next two weeks. Note instances (positive or negative) to bring to the next check-in.
 - If the conversation went badly, debrief with a peer or mentor — not to vent but to figure out what to do differently.
 
+## When the Counterpart Is Structurally Resistant
+
+The playbook above assumes a counterpart who can be reasoned with, even if uncomfortable. When the counterpart is *structurally* resistant — overconfident, stubborn, narcissistic, or disagreeable — the standard moves can make things worse.
+
+For these cases, diagnose the resistance profile and switch to the [[communication/persuasion|persuasion playbook]]. Quick map:
+
+- **The know-it-all who rejects evidence:** stop bringing more evidence. Ask them to *explain how it works* step by step. The articulation pressure does the work.
+- **The stubborn counterpart who snaps back when pushed:** re-frame conclusions as questions ("what if?" "could we?"). Let them claim the idea.
+- **The narcissist who hears criticism as ego threat:** affirm a sincere strength *unrelated* to the issue. *Do not* sandwich. The strength-affirmation is first; the substantive concern is second.
+- **The disagreeable boss who treats disagreement as combat:** do not back down. Capitulation forecloses your influence permanently.
+
+Grant's deeper claim — *personality is not fixed across situations* — applies to your own difficult conversations too. The counterpart who is impossible in a public setting may be persuadable 1:1; the boss who is rigid in a status meeting may be open in a Sunday-afternoon coaching call (Freeman's model in [[sources/hbr-now-what]]). Diagnose the *condition*, not just the *trait*.
+
+## Red Flags From the Now What Case (Mullins)
+
+A specific diagnostic for the high-stakes conversation where the counterpart's behavior has shifted late in the process:
+
+- **Late-stage contract or term changes.** If a key term is rewritten near closure — even framed as a "clerical error" — treat it as a signal about *future* behavior, not a one-off. The Petrolink lesson: *"If they're trying to screw us before our deal is even done, what will they try to do to us in the future?"*
+- **Psychological commitment clouding judgment.** When you have already sunk costs (publicly committed to a path, given notice on alternatives), you become vulnerable to accepting worse terms than you would have walked away from cold. Name the commitment; ask whether the deal still makes sense if you were starting fresh.
+- **Trust as the threshold.** William Sahlman: *"Whenever you take VC money, you are simultaneously paying for it and hiring a partner."* Generalize: a hard conversation that ends with a counterpart who has acted in bad faith is the beginning of a long, expensive relationship of monitoring and litigation — not the end of a problem.
+
 ## Related Frameworks
 
 - [[communication/feedback-scripts]] — language for the standard feedback patterns.
 - [[communication/conflict-language]] — de-escalation when the conversation gets heated.
+- [[communication/persuasion]] — when the counterpart is structurally resistant.
 - [[principles/psychological-safety]] — the precondition that makes the conversation possible.
 - [[principles/trust]] — the account that the conversation either spends or builds.
 - [[management/underperformance]] — when difficult conversations need to become a structured process.

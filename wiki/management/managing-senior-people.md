@@ -1,11 +1,11 @@
 ---
 type: playbook
 title: "Managing Senior People"
-tags: [stakeholder-management, trust, credibility]
+tags: [stakeholder-management, trust, credibility, succession, ai-augmented]
 created: 2026-05-16
-updated: 2026-05-16
-sources: [lopp-art-of-leadership-2020, hbr-leadership-vol2-2020, katzenbach-khan-leading-outside-lines-2010]
-related: [principles/trust, principles/delegation, principles/executive-presence, communication/difficult-conversations, communication/feedback-scripts, management/one-on-ones]
+updated: 2026-05-17
+sources: [lopp-art-of-leadership-2020, hbr-leadership-vol2-2020, katzenbach-khan-leading-outside-lines-2010, hbr-change-anyones-mind-2021, hbr-now-what, hbr-year-in-tech-2026]
+related: [principles/trust, principles/delegation, principles/executive-presence, communication/difficult-conversations, communication/feedback-scripts, management/one-on-ones, communication/persuasion, management/leading-technical-teams]
 ---
 
 # Managing Senior People
@@ -119,8 +119,52 @@ This is the inverse failure mode from [[management/coaching-junior-people]]: ins
 - [[management/coaching-junior-people]] — the contrast case.
 - [[organization/informal-organization]] — where senior people's real influence lives.
 
+## When a Senior IC Is Structurally Resistant — Use the If…Then Map
+
+A specific case: the senior IC who is overconfident, stubborn, narcissistic, or disagreeable. These are not rare profiles at the top of a technical or functional ladder — they often correlate with the qualities that produced excellence on the way up. Standard feedback moves do not work on them. Use Grant's if…then map (full playbook in [[communication/persuasion]]):
+
+- **The know-it-all senior IC** who rejects suggestions from anyone less expert: ask them to *explain the mechanism* of their preferred approach step by step. The Yale "explain how a toilet flushes" effect generalizes — articulation pressure exposes gaps the conscious mind has glossed over. Wendell Weeks at Corning used this on Steve Jobs.
+- **The stubborn senior IC** who treats new directions as attacks: stop pitching conclusions. Re-frame as questions: *"what if we tried…?"* *"could we explore…?"* Let them claim the idea. Mike Bell's Apple TV move is the canonical example.
+- **The narcissistic senior IC** whose ego is fused with their technical identity: affirm a real, unrelated strength first. *Do not sandwich.* The strength must be sincere; the substantive concern comes second, from the secure base of the affirmation.
+- **The disagreeable senior IC** who challenges every directive: do not back down. Disagreeable people who lose respect for their manager become permanent obstacles. Standing your ground earns respect — even when you lose the immediate argument.
+
+The deeper move: design the conversation to fit the conditional that opens them, not the one that closes them. *Personality is situational; find the if…then condition where they become persuadable.*
+
+## Succession: Coaching a Senior IC Into Your Role
+
+If a senior IC is on a path to your role or a peer's, the Kenneth Freeman model from [[sources/hbr-now-what]] applies even at sub-CEO levels:
+
+- **Force the calendar.** Recurring time, not ad hoc. Freeman: weekly Sunday-afternoon calls for five years with Surya Mohapatra. The calendar discipline is the lever.
+- **Look for differences.** The successor whose strengths match where the *team* is going, not where it has been. Promoting the senior IC who resembles you most reproduces your strengths and your blind spots.
+- **Make the successor's success your own.** Coach them. Defend them. Be willing to be wrong in front of them. Their growth is your legacy.
+- **Don't drag your feet.** Once they are ready, transition. The leader who clings to the role past their successor's readiness creates the bitterest succession failures.
+
+## Managing Senior ICs in an AI-Augmented Environment
+
+A specific challenge from 2026 onward: senior technical ICs whose former craft is increasingly performable by agentic AI. The leadership moves (see [[management/leading-technical-teams]] for the full playbook):
+
+- **Name the shift.** *"The work that used to be your craft is moving to agents. The work that's left — and the work I need you on — is judgment, architecture, supervision, and edge cases."* Do not paper over this; the senior IC has likely noticed before you have.
+- **Update the success metrics.** Throughput-of-output gives way to quality-of-supervision, agent-team performance, and judgment-on-edge-cases.
+- **Address the identity question directly.** Many senior engineers and analysts find their craft identity threatened by AI. The threat is real; do not dismiss it. Help them locate the new identity — what part of their work is now uniquely human, and how do they double down on it?
+- **Watch for atrophy.** Skills delegated to agents will atrophy in humans. Decide deliberately which skills to preserve through practice (and design the practice) and which to let go.
+
+## Related Frameworks
+
+- [[principles/trust]] — the operating currency.
+- [[principles/delegation]] — what good management of senior people looks like at scale.
+- [[principles/executive-presence]] — what makes senior people willing to follow your lead even when you are less expert than they are.
+- [[communication/difficult-conversations]] — the conversation craft.
+- [[communication/persuasion]] — when the senior IC is structurally resistant.
+- [[communication/feedback-scripts]] — specifically the "asking for feedback" and "lightweight observation" patterns.
+- [[management/coaching-junior-people]] — the contrast case.
+- [[management/leading-technical-teams]] — when the senior IC is in an AI-augmented technical role.
+- [[organization/informal-organization]] — where senior people's real influence lives.
+
 ## Sources
 
 - [[sources/lopp-art-of-leadership-2020]] — "Assume They Have Something to Teach You," "The Guard" (Old Guard / New Guard), "Say the Hard Thing." The operating model for managing inside the informal hierarchy.
 - [[sources/hbr-leadership-vol2-2020]] — Ibarra's "Authenticity Paradox" on managing the tension between authority and approachability, particularly Cynthia's case of over-disclosure with a new senior team.
 - [[sources/katzenbach-khan-leading-outside-lines-2010]] — pride-builder model, the limits of extrinsic motivation, and the role of the informal organization in senior people's loyalty.
+- [[sources/hbr-change-anyones-mind-2021]] — Grant's if…then map for difficult counterparts; the four resistance profiles (overconfident, stubborn, narcissist, disagreeable) and matched moves.
+- [[sources/hbr-now-what]] — Freeman's CEO-led succession (look for differences, weekly recurring time, make their success your own) generalizes to manager-led IC succession. Mintzberg's "just enough leadership" applies to managing senior people: provide context, not commands.
+- [[sources/hbr-year-in-tech-2026]] — managing senior technical ICs whose craft is being reshaped by agentic AI; the partition design, the identity question, the atrophy risk.

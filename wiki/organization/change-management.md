@@ -1,11 +1,11 @@
 ---
 type: playbook
 title: "Change Management"
-tags: [change-management, informal-organization, culture, resistance, transformation, mobilization]
+tags: [change-management, informal-organization, culture, resistance, transformation, mobilization, persuasion]
 created: 2026-05-17
 updated: 2026-05-17
-sources: [katzenbach-khan-leading-outside-lines-2010, hbr-leadership-vol1, hbr-must-reads-2025]
-related: [organization/informal-organization, organization/culture, principles/trust, management/managing-senior-people, principles/motivation, principles/purpose-and-why, principles/psychological-safety]
+sources: [katzenbach-khan-leading-outside-lines-2010, hbr-leadership-vol1, hbr-must-reads-2025, hbr-change-anyones-mind-2021]
+related: [organization/informal-organization, organization/culture, principles/trust, management/managing-senior-people, principles/motivation, principles/purpose-and-why, principles/psychological-safety, communication/persuasion]
 ---
 
 # Change Management
@@ -150,3 +150,12 @@ After the first 90 days of a change initiative:
 **hbr-leadership-vol1 (Kotter):** Kotter's distinction between leadership (direction, alignment, motivation) and management (planning, organizing, controlling) provides the formal framework within which Katzenbach's informal model operates. The two are complementary: Kotter describes what must be done; Katzenbach describes the informal mechanisms through which it must be done.
 
 **hbr-must-reads-2025 (Sutton & Rao, "Friction Project"):** The "addition sickness" framework — the organizational tendency to add process, approve layers, and increase coordination without removing what's obsolete — is a common formal barrier to change. Good-riddance reviews and subtraction tools are useful complements when formal friction is part of the resistance.
+
+**hbr-change-anyones-mind-2021 (Adam Grant, "Persuading the Unpersuadable"):** Provides the *upward* counterpart to Katzenbach & Khan's *downward/outward* framework. When the change is stalling because a senior leader will not move — not the frozen tundra of middle management, but the boss or peer with formal authority — Grant's if…then map is the diagnostic. Match the resistance profile:
+
+- *Know-it-all who insists the current way is fine* → ask them to *explain the mechanism* of the current system step by step. The articulation pressure exposes the gaps.
+- *Stubborn senior who treats every change pitch as an attack* → stop pitching conclusions. Re-frame as questions ("what if?" "could we?"). Plant; let them grow attached; let them claim the idea.
+- *Narcissistic founder whose ego is tied to the old design* → praise an unrelated, secure-identity strength first. Deliver the substantive concern from the secure base.
+- *Disagreeable executive who blocks every proposal* → stand your ground. Build the multi-week persuasion campaign (Fadell on iPhone: weeks of prototypes, refined pitches, and group pressure to get Jobs to change his mind). Backing down forecloses your influence permanently.
+
+The full playbook lives in [[communication/persuasion]]. Use it when the change is failing *upward*; use Katzenbach & Khan's framework when the change is failing *outward and downward* through the informal organization. Most stalled changes are both — and require both playbooks running in parallel.

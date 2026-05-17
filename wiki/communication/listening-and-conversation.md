@@ -1,10 +1,10 @@
 ---
 type: playbook
 title: "Listening and Conversation"
-tags: [communication, listening, questions, conversation, dialogue]
+tags: [communication, listening, questions, conversation, dialogue, listening-ecosystem]
 created: 2026-05-16
-updated: 2026-05-16
-sources: [hbr-communication-vol2, hbr-must-reads-2026, hbr-managing-yourself]
+updated: 2026-05-17
+sources: [hbr-communication-vol2, hbr-must-reads-2026, hbr-managing-yourself, hbr-change-anyones-mind-2021]
 related: [communication/strategy-communication, communication/feedback-scripts, communication/difficult-conversations, principles/curiosity, principles/trust, management/one-on-ones]
 ---
 
@@ -168,11 +168,33 @@ If repeated conversations are not landing:
 - **When someone has shared something hard:** "Thank you for telling me. I want to sit with that for a minute before I respond. Is that OK?"
 - **To probe an under-discussed risk (premortem):** "Imagine it's six months from now and this didn't work. Tell me the story of why."
 
+## Building a Listening Ecosystem (Bryant & Sharer)
+
+The playbook above is about *single conversations.* The deeper move for senior leaders is building the *system* of conversations that bring honest signal to them. Kevin Sharer's "listening ecosystem" at Amgen is the canonical example.
+
+The paradox: the more senior you are, the more information channels you sit atop — and the more filtered, censored, and self-serving the information flowing to you is. Without a deliberate ecosystem, the CEO's view of the company is the most polished and least true view in the building.
+
+**Components of a listening ecosystem:**
+
+- **Structured external relationships** — quarterly reports from competitor activity, recurring scheduled time with regulators or major customers, briefings from suppliers about your team's behaviour.
+- **Structured internal channels** — rides with frontline staff (Sharer rode with sales reps to ask between calls what they were worried about); regular skip-levels with explicit purpose; a compliance/legal liaison with structured questions.
+- **Structured upward feedback** — anonymous employee surveys that include "what do you think of the job [the leader] is doing?"; HR-mediated leadership reviews that go to the board *before* they go to the leader; a confidant who will disagree with you.
+- **The closure loop** — write back what you heard. After important meetings or surveys, send a one-pager: *here is what I heard, here is what I plan to do, here is what I cannot do and why.* Without the loop, people stop telling you the truth because they conclude it goes nowhere.
+
+> "Creating listening systems is not just about passively accepting what comes your way. You have to create structures so that people know you want to hear what they have to say." — Kevin Sharer
+
+> "If you just walk around and see a bunch of smiling faces and say, 'Gee, everybody looks happy to me,' you're not listening." — Sharer
+
+**The WAIT diagnostic (Joel Peterson):** whenever you find yourself about to speak in a meeting that was meant to surface input, ask: *Why Am I Talking?* The act of asking is usually enough to keep you quiet.
+
+**Implementation note:** the ecosystem is built over years, not weeks. Pick one or two channels to formalize this quarter; add one per quarter. The full ecosystem at Amgen took most of Sharer's CEO tenure to build.
+
 ## Source Notes
 
 - [[sources/hbr-communication-vol2]] — Groysberg & Slind's "Leadership Is a Conversation" gives the four-I model. Brooks & John's "The Surprising Power of Questions" provides the question typology and the relational-vs-informational evidence. Heen & Stone's "Find the Coaching in Criticism" provides the three triggers. Meyer's "Getting to Sí, Ja, Oui, Hai, and Da" provides the cross-cultural rules. Toegel & Barsoux's "How to Preempt Team Conflict" provides the five-conversation framework. Rosh & Offermann provide the self-disclosure archetypes.
 - [[sources/hbr-must-reads-2026]] — Chevallier, Dalsace, Barsoux's "The Art of Asking Smarter Questions" provides the five question domains and the self-assessment.
 - [[sources/hbr-managing-yourself]] — Amy Jen Su's "You Need Many Leadership Voices, Not Just One" provides the voice-of-curiosity framing.
+- [[sources/hbr-change-anyones-mind-2021]] — Bryant & Sharer's "Are You Really Listening?" provides the listening-ecosystem frame, the WAIT diagnostic, and the closure-loop discipline. The deeper claim: senior leaders are systematically under-listening, and the defense is *system design* rather than personal effort alone.
 
 ## Open Questions
 

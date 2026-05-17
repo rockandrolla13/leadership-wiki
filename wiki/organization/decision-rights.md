@@ -1,11 +1,11 @@
 ---
 type: concept
 title: "Decision Rights"
-tags: [decision-rights, delegation, accountability, raci, rapid, governance]
+tags: [decision-rights, delegation, accountability, raci, rapid, governance, closure, decisive-dialogue]
 created: 2026-05-16
 updated: 2026-05-17
-sources: [katzenbach-khan-leading-outside-lines-2010, hbr-managers-handbook-17-skills]
-related: [principles/delegation, principles/accountability, principles/ownership, management/cross-functional-teaming, organization/operating-rhythm, organization/organizational-politics, organization/incentives]
+sources: [katzenbach-khan-leading-outside-lines-2010, hbr-managers-handbook-17-skills, hbr-decision-making, hbr-now-what]
+related: [principles/delegation, principles/accountability, principles/ownership, management/cross-functional-teaming, organization/operating-rhythm, organization/organizational-politics, organization/incentives, principles/decision-making]
 ---
 
 # Decision Rights
@@ -164,9 +164,65 @@ Katzenbach and Khan ([[sources/katzenbach-khan-leading-outside-lines-2010]]) pro
 
 Marquet's "push authority where the information is" (cited in the [[management/cross-functional-teaming]] page and via Sinek) is the deeper philosophical claim: senior leaders' instinct is to hoard decisions, and that instinct is structurally wrong because the information they need to decide well lives further down.
 
+[[sources/hbr-decision-making]] adds two crucial layers:
+
+- Rogers & Blenko's RAPID frame, with examples from British American Tobacco, Wyeth, John Lewis, and outdoor-equipment outsourcing showing the four bottlenecks (global vs. local, center vs. business unit, function vs. function, inside vs. outside partners) and how to resolve each.
+- Ram Charan's *Conquering a Culture of Indecision* — the closure discipline (openness, candor, informality, closure) and the four dialogue-killers. Charan's argument that *indecision is a cultural pattern produced by leaders who tolerate it* is one of the strongest in the literature: > *"Leaders get the behavior they tolerate."*
+- Hill, Tedards & Swan on innovation-decision capabilities — diverse perspectives, clear decision rights (RACI), the right cadence, and good fights anchored in data and shared purpose.
+
+[[sources/hbr-now-what]] contributes Useem's anti-proxy discipline (judge content, not context) and Ertel's negotiation-as-decision frame: signing a contract is the *beginning* of value creation, not the end — which has direct implications for how decision rights should be structured around external partnerships.
+
+## Closure: The Discipline That Makes Decision Rights Live (Charan)
+
+RAPID and RACI are inert artifacts unless paired with a *closure discipline* — the practice of ending every decision conversation with named accountability, deadlines, and follow-through. Without closure, the apparent consensus quietly dissolves over the following week, and the same decision is re-litigated next month.
+
+Ram Charan's four characteristics of a healthy decision-making forum:
+
+- **Openness** — the outcome is not predetermined; alternatives are genuinely explored.
+- **Candor** — people say what they actually think, not what they think leaders want to hear.
+- **Informality** — defenses are down; people ask real questions rather than reciting scripts.
+- **Closure** — at the end, people know exactly what they are expected to do.
+
+> *"Lack of closure, coupled with a lack of sanctions, is the primary reason for a culture of indecision."* — Ram Charan
+
+Four dialogue-killers to eliminate:
+
+| Killer | Symptom | Remedy |
+|---|---|---|
+| **Dangling dialogue** | Meeting ends without clear next step. People interpret the meeting self-servingly. | Give closure: write it down. Who, what, by when. |
+| **Information clogs** | A crucial fact emerges after the decision is made, forcing reopening. | Ask "what's missing?" Coach against information hoarding. |
+| **Piecemeal perspectives** | People defend narrow turf instead of seeking integrative answers. | Draw people out until all sides represented. Restate common purpose repeatedly. |
+| **Free-for-all** | Extortionists, sidetrackers, silent liars, and dividers flourish unchecked. | Leader names unacceptable behaviors; sanctions persistent offenders. |
+
+The discipline of closure is itself a leadership behavior — and what makes the difference between a leader whose meetings produce decisions and one whose meetings produce more meetings. Dick Brown at EDS: *"Leaders get the behavior they tolerate."*
+
+## Beware Decision Proxies (Useem)
+
+A specific failure mode: when decision rights are formally clear, the decider can still rubber-stamp a recommendation because the presenter *sounded* confident, *looked* the part, or carried board-room status. This is the "proxy" trap — judging decisions by surface signs of leadership quality rather than substance.
+
+Michael Useem's frame: charisma, polished presentation, structural governance metrics (board independence, outside chair) — these are *surrogates* for decision quality, not the thing itself. McClellan was beloved and indecisive; Lee was reserved and decisive. Enron's board was structurally model — and rubber-stamped fraud in 60-minute teleconferences.
+
+The discipline for the D: judge the *content* of a recommendation, not the *context* in which it is presented. Ask: *what is the analysis? what is the alternative considered? what is the evidence?* — not *who is making the case and how confident did they sound?*
+
+This pairs naturally with [[principles/decision-making-biases]]: the recallability and confirming-evidence traps both produce proxy reliance.
+
+## Decision Rights for AI-Augmented Decisions
+
+Agentic AI introduces a new layer of decision rights: *which decisions does the agent make alone, which does it recommend for human approval, and which does it never touch?* The same discipline as RAPID applies — but the partition must be written down explicitly and revisited as capabilities change.
+
+The failure mode unique to AI: *if you do not write the partition, the partition is being decided by whoever pushes hardest in the moment.* Either operators who push to delegate more (out of efficiency); or skeptics who push to delegate less (out of caution). Neither maps cleanly to the actual risk profile of each decision class.
+
+The recommended discipline (see [[management/leading-technical-teams]] and [[sources/hbr-year-in-tech-2026]]):
+
+1. For each decision class your team handles, classify: **agent decides alone** (low-stakes, reversible, well-bounded), **agent recommends for human approval** (higher-stakes, common patterns), **agent never touches** (high-stakes, irreversible, ethically charged).
+2. Publish the partition.
+3. Revisit quarterly as capabilities and confidence grow.
+4. Treat it as scaffolding — agents get more authority over time as track record builds, like a junior team member.
+
 ## Open Questions
 
 - How do decision rights scale across organizational sizes? RAPID-style formality is appropriate at large enterprise scale and overkill at startup scale. What is the simplest viable artifact at each stage?
 - The framework assumes a relatively low-conflict organization where formal decision rights are respected. In high-conflict or low-trust environments, how should leaders sequence the rebuild of decision rights?
 - For decisions that span legal jurisdictions, regulatory regimes, or geographies, the *D* may legitimately be different in different places. How do leaders manage decision-rights variation without producing chaos?
 - When informal authority structures persist after formal decision rights are clarified, what is the right intervention? Is it patience (informal will catch up to formal), enforcement (formal must be defended explicitly), or honesty (acknowledge that informal is winning and re-formalize accordingly)?
+- For AI-augmented decisions, the partition needs to be revisited as the agent's track record builds. What is the right cadence — quarterly? per incident? per capability change?

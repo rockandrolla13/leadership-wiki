@@ -1,11 +1,11 @@
 ---
 type: concept
 title: "Influence and Power"
-tags: [influence, power, managing-up, silo-busting, political-savvy]
+tags: [influence, power, managing-up, silo-busting, political-savvy, persuasion]
 created: 2026-05-16
-updated: 2026-05-16
-sources: [hbr-managers-handbook-17-skills, hbr-leadership-vol1]
-related: [organization/organizational-politics, communication/strategy-communication, communication/stakeholder-updates, principles/executive-presence, principles/trust, management/manager-skills-overview]
+updated: 2026-05-17
+sources: [hbr-managers-handbook-17-skills, hbr-leadership-vol1, hbr-change-anyones-mind-2021]
+related: [organization/organizational-politics, communication/strategy-communication, communication/stakeholder-updates, principles/executive-presence, principles/trust, management/manager-skills-overview, communication/persuasion, communication/listening-and-conversation]
 ---
 
 # Influence and Power
@@ -82,9 +82,28 @@ A new manager often discovers that authority does not move things. Their team wo
 - [[principles/executive-presence]] — presence increases the *return* on influence efforts
 - [[management/manager-skills-overview]] — influence is Skill 5 of 17 in the handbook taxonomy
 
+## When Influence Means Persuading the Unpersuadable
+
+Most influence is built through reciprocity over time. But some situations are different: the senior counterpart who blocks the decision, the founder who rejects all evidence, the disagreeable peer who treats every conversation as combat. For these, Adam Grant's if…then map ([[communication/persuasion]]) is the right diagnostic.
+
+The core insight: **personality is not consistent across situations**. Every difficult counterpart has conditions under which they become persuadable. Diagnose the resistance profile and match the move:
+
+- **Know-it-all (overconfident):** ask them to *explain how it works* step by step; the articulation pressure exposes gaps better than any external argument.
+- **Stubborn (snap-back):** hand them the chisel — re-frame conclusions as questions; let them claim the idea as their own.
+- **Narcissist (fragile self-esteem):** praise a strength *unrelated* to the area where you need change; the secure identity makes the imperfection safer to acknowledge.
+- **Disagreeable (energized by conflict):** stand your ground. Backing down forecloses your influence permanently; standing up earns respect, even when you lose the immediate argument.
+
+Persuasion is multi-week, not single-meeting. The Fadell-on-iPhone pattern — *"had to work as a group, not simply in one meeting but possibly over weeks, to get him to change his mind"* — is the norm, not the exception, for senior persuasion campaigns. Build prototypes, refine pitches, repeat.
+
+> "When leaders lack the wisdom to question their convictions, followers need the courage to persuade them to change their minds." — Adam Grant, *Persuading the Unpersuadable*
+
+The full playbook lives in [[communication/persuasion]].
+
 ## Source Notes
 
 The positional-vs-personal-power frame is from HBR's Manager's Handbook chapter on "Becoming a Person of Influence" (Skill 5). The Handbook also provides the explicit manage-up, partner-with-peers, silo-busting, and idea-promotion sub-skills. Goleman's emotional-intelligence work (HBR Vol. 1) provides the deeper substrate: social skill ("managing relationships to move people in desired directions") is one of the five components of EI and is the most directly relevant to influence.
+
+Adam Grant's *Persuading the Unpersuadable* ([[sources/hbr-change-anyones-mind-2021]]) extends the influence work into the harder cases where reciprocity-based influence has failed. The if…then framework is the deepest contribution: it treats difficult counterparts not as immovable, but as *conditionally movable* — and provides the operational moves for each condition.
 
 ## Open Questions
 

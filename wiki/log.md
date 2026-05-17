@@ -4,6 +4,46 @@ Chronological record of all ingestions and coaching queries.
 
 ---
 
+## [2026-05-17] ingest | HBR articles — change-anyones-mind-2021, decision-making, now-what, year-in-tech-2026
+
+- Sources ingested: hbr-change-anyones-mind-2021, hbr-decision-making, hbr-now-what, hbr-year-in-tech-2026
+- Pages created:
+  - [[wiki/sources/hbr-change-anyones-mind-2021.md]]
+  - [[wiki/sources/hbr-decision-making.md]]
+  - [[wiki/sources/hbr-now-what.md]]
+  - [[wiki/sources/hbr-year-in-tech-2026.md]]
+  - [[wiki/communication/persuasion.md]]
+  - [[wiki/principles/decision-making.md]]
+  - [[wiki/management/leading-technical-teams.md]]
+- Pages updated:
+  - [[wiki/principles/influence.md]] — Grant if…then map added as persuading-up tactic
+  - [[wiki/communication/difficult-conversations.md]] — structural-resistance diagnostic + Mullins red-flag patterns
+  - [[wiki/organization/change-management.md]] — Grant's upward persuasion as complement to Katzenbach informal-organization
+  - [[wiki/communication/listening-and-conversation.md]] — Sharer's listening ecosystem + WAIT diagnostic
+  - [[wiki/principles/decision-making-biases.md]] — Hammond eight traps + bias vs. noise + reasoned rules + intuition vs. fear + Reeves dataism critique
+  - [[wiki/organization/decision-rights.md]] — Charan closure discipline + Useem anti-proxy + AI-augmented decision partition
+  - [[wiki/organization/incentives.md]] — Narayanan & Raman three-cause cross-organization incentive diagnostic
+  - [[wiki/management/managing-senior-people.md]] — if…then map + Freeman succession model + AI-augmented IC management
+  - [[wiki/principles/courage.md]] — Brown/Charan "heavy lifting of leadership" (recurring candid feedback as courage)
+  - [[wiki/communication/feedback-scripts.md]] — no-surprises-in-annual-review principle
+  - [[wiki/coaching/personal-leadership-development.md]] — Mintzberg just-enough-leadership
+  - [[wiki/communication/cross-cultural-negotiation.md]] — Ertel implementation-minded negotiating layer
+- Key concepts: if…then map / persuading-the-unpersuadable (Grant); listening ecosystem + WAIT (Sharer); four-field decision matrix (Rosenzweig); bias vs. noise + noise audits (Kahneman et al.); RAPID + closure discipline (Rogers/Blenko + Charan); gray-area five questions (Badaracco); CEO-led succession (Freeman); implementation-minded negotiating (Ertel); cross-organization incentive alignment (Narayanan & Raman); just-enough-leadership (Mintzberg); anti-proxy discipline (Useem); the four disruption patterns (Anthony); agentic AI imperatives + scaffolding (Purdy); blockchain-based AI governance (Zoldi & Levine); explainable cyber risk + vendor dependency (Yahalom); data cooperatives (Parra-Moyano & Joshi); Technology Feasibility Matrix + convergence window (Marion/Deeds/Friar); future-of-work field frames (Dries/Luyckx/Rogiers); triangular executive coaching contract (Sherman & Freas)
+- Contradictions / tensions:
+  - Grant's situational-personality view vs. Sinek's stable-WHY core (both can be true; behavior is situational, purpose is stable)
+  - "Trust your gut" (Wilding) vs. Kahneman bias-and-noise frame — reconciled by domain feedback quality
+  - "Praise a narcissist" move sits uneasily next to anti-manipulation posture — Grant frames it as defusing defensiveness, not creating false belief
+  - Year in Tech 2026's agentic-AI optimism vs. Reeves/Moldoveanu/Job's dataism critique — reconciled by designed human-AI partition
+  - Freeman's "board won't drive succession" frame is dated for 2026 governance norms
+  - Mintzberg's diffused-leadership tensions with executive-presence; reconciled by treating presence as necessary but insufficient
+- Follow-up questions:
+  - For agentic AI in 2026, where does the human-AI partition migrate as capabilities grow? Specifically: which of Reeves's eight non-data dimensions begins to move to machines?
+  - The noise-audit method requires organizational willingness to confront unflattering results — what scaffolding helps adoption *before* a crisis?
+  - The if…then persuasion map is descriptive; is there a developmental version — can a leader train themselves *out* of being the unpersuadable boss?
+  - For senior ICs facing AI atrophy, what is the right deliberate-practice regimen to preserve high-leverage skills?
+
+---
+
 ## [2026-05-17] lint-fix | Create 3 missing concept pages
 
 - Pages created: principles/motivation, organization/change-management, coaching/microstress

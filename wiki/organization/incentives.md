@@ -1,10 +1,10 @@
 ---
 type: concept
 title: "Incentives"
-tags: [incentives, motivation, accountability, performance, recognition, pride]
+tags: [incentives, motivation, accountability, performance, recognition, pride, supply-chain, hidden-actions]
 created: 2026-05-16
 updated: 2026-05-17
-sources: [katzenbach-khan-leading-outside-lines-2010, hbr-must-reads-2026, hbr-managers-handbook-17-skills]
+sources: [katzenbach-khan-leading-outside-lines-2010, hbr-must-reads-2026, hbr-managers-handbook-17-skills, hbr-now-what]
 related: [organization/informal-organization, organization/culture, organization/decision-rights, organization/operating-rhythm, principles/purpose-and-why, principles/trust, management/performance-management]
 ---
 
@@ -159,6 +159,27 @@ The HBR Must Reads 2026 collection emphasizes that culture is built from *dilemm
 
 - **Setting a high-standards expectation (pride-builder mode):** *"I am asking more from you than you have done before. I am asking because I think you can do it, and I will be in this with you. When we finish, you should feel something you have not felt about your work before."*
 
+## Diagnosing Cross-Organization Incentive Misalignment (Narayanan & Raman)
+
+The principles above apply *within* an organization. When the incentive problem crosses organizational boundaries — supplier relationships, joint ventures, outsourcing arrangements, channel partnerships — the diagnostic is slightly different. Narayanan and Raman's three-cause framework:
+
+1. **Hidden actions** — you cannot observe whether your partner is doing their best for you. (Whirlpool cannot see how aggressively Sears salespeople push Whirlpool products versus Kenmore.) The partner has no incentive to over-deliver if you cannot tell.
+2. **Hidden information** — your partner has private knowledge about costs, capacity, demand, or quality that they will not share. (Cisco's contract manufacturers stockpiled inventory; Cisco could not see how much.) The asymmetry biases the relationship.
+3. **Badly designed incentives** — partners are paid for behaviors that produce private gain at the supply chain's expense. (Beating Cisco's negotiated component prices became a profit center for contract manufacturers, regardless of whether Cisco actually needed the volume.)
+
+The remedy is in six stages:
+
+1. **Identify symptoms.** Excess inventory, stock-outs, missed forecasts, inadequate effort, poor customer service.
+2. **Diagnose the misalignment.** Which of the three causes — hidden actions, hidden information, badly designed incentives — is operative?
+3. **Rewrite contracts.** Pay for outcomes the supply chain cares about, not just deliverables in isolation.
+4. **Reveal hidden information.** Build trust by exchanging information that creates joint upside.
+5. **Develop trust.** Repeated cooperation, transparent metrics, willingness to leave money on the table when the deal is going to fail. (Ertel's *"leaving some money on the table is OK if you realize that the most expensive deal is one that fails"* applies.)
+6. **Monitor periodically.** Incentive systems decay; revisit annually.
+
+Cisco's $2.5 billion inventory write-off in 2001 is the cautionary tale: a sophisticated company with engineered supply chains was undone not by bad logistics but by partners acting rationally on misaligned incentives that no one had audited.
+
+The deeper lesson — for both internal and external relationships: *engineers build systems; psychologists design incentives.* Most supply chain, alliance, and partnership failures are incentive failures wearing the clothes of operational failures.
+
 ## Related Concepts
 
 - [[organization/informal-organization]] — pride, peer recognition, and the manager-type taxonomy live here
@@ -176,6 +197,8 @@ The dominant frame in this page is Katzenbach and Khan's ([[sources/katzenbach-k
 The HBR Must Reads 2026 collection ([[sources/hbr-must-reads-2026]]) contributes the contemporary research on motivation and performance. Two especially relevant threads: Meyer's argument that culture must be grounded in real dilemmas your people face (incentives reveal the dilemmas the culture actually rewards), and Keil & Zangrillo's diagnosis of leadership-team dysfunction (the "shark tank" / "petting zoo" / "mediocracy" patterns are partly produced by misaligned incentive structures at the top — competition without trust, harmony without standards, or neither at all). > *"Adequate performance gets a generous severance."* (Netflix, cited in Meyer) — the most direct articulation of incentive-by-recognition in the collection, and an unusual one because it makes consequence explicit.
 
 The HBR Manager's Handbook ([[sources/hbr-managers-handbook-17-skills]]) treats feedback and recognition as discrete, learnable skills rather than personality traits, and is the source for the SBI feedback structure and the career-conversation cadence. > *"Feedback is a gift. Give it in real time. Make it specific. Focus on behaviors, not personalities."* The same logic governs effective recognition: timely, specific, behavioral. The Handbook is also explicit that the manager who only manages compensation is doing the smallest part of the incentive job.
+
+Narayanan & Raman's *Aligning Incentives in Supply Chains* in [[sources/hbr-now-what]] extends the incentive lens *across* organizational boundaries. The three-cause framework (hidden actions, hidden information, badly designed incentives) and the six-stage remedy (identify symptoms → diagnose → rewrite contracts → reveal information → develop trust → monitor) generalize to any external partnership where outcomes depend on a counterpart whose interests are not automatically aligned. Their cautionary case — Cisco's $2.5B inventory write-off — is one of the most instructive incentive-failure stories in the modern literature.
 
 ## Open Questions
 

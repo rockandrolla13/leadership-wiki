@@ -1,10 +1,10 @@
 ---
 type: playbook
 title: "Cross-Cultural Negotiation"
-tags: [negotiation, culture, communication, trust, cross-cultural]
+tags: [negotiation, culture, communication, trust, cross-cultural, implementation-minded]
 created: 2026-05-16
-updated: 2026-05-16
-sources: [hbr-communication-vol2]
+updated: 2026-05-17
+sources: [hbr-communication-vol2, hbr-now-what]
 related: [communication/listening-and-conversation, communication/conflict-language, principles/trust, communication/difficult-conversations]
 ---
 
@@ -150,9 +150,28 @@ If the deal is unwinding:
 - **Re-anchoring after a contract dispute:** "I want to step back from the contract for a moment. What's your understanding of where we are in this relationship?"
 - **To the cultural bridge:** "What did I miss? What would have read better to them?"
 
+## Implementation-Minded Negotiating (Ertel)
+
+Meyer's five rules govern *how* cross-cultural negotiations are conducted; Danny Ertel's framework (from [[sources/hbr-now-what]]) governs *what to optimize for*. The two layer naturally. Ertel's central claim: **signing is the beginning of value creation, not the end**. Deal-minded negotiators optimize for signature; implementation-minded negotiators optimize for the value produced *after* signature.
+
+The five behavioral shifts:
+
+1. **Start with the end in mind.** Run a 12-months-from-now pre-mortem: *is the deal working? what has gone wrong? what capabilities, processes, and tools must be in place?* If you cannot answer these before signing, you should not sign.
+2. **Help them prepare too.** Surprise is not your friend if you have to work with them after signing. Equitas's "commutations action pack" — sent to counterparts before negotiations begin — describes the company's own structure, preferred process, and critical issues. The counterpart arrives prepared; the deal lands faster and stickier.
+3. **Treat alignment as a shared responsibility.** If their stakeholders are unaligned (they have not enrolled their finance team, their operations group, their key business partners), that is *your problem too*. An unaligned counterpart will not deliver, no matter how clean the contract.
+4. **Send one message.** Brief implementation teams on both sides *together*, with the negotiators present. IBM's Steve Fenn ran joint hand-off meetings where both delivery teams heard *why* the trade-offs were made, not just *what* the document said.
+5. **Manage negotiation as a business process.** Disciplined preparation; postnegotiation reviews; structural controls. Treat negotiation as an organizational competence, not as the talent of whoever happens to be at the table.
+
+> *"Leaving some money on the table is OK if you realize that the most expensive deal is one that fails."* — Tom Finn, P&G Pharmaceuticals, in Ertel
+
+The contrast between deal-minded and implementation-minded behavior is sharpest under stress. Deal-minded: surprise the other side; withhold information; create artificial deadlines; limit participation to decision-makers; rely on penalty clauses. Implementation-minded: propose agendas in advance; raise issues early; ask tough questions about both parties' ability to deliver; define joint communication strategy; involve those who will need to perform the deal.
+
+In cross-cultural contexts this matters double: the cultures with affective-trust norms (Meyer's framework) cannot recover from deal-minded surprise tactics that violate the relationship.
+
 ## Source Notes
 
 - [[sources/hbr-communication-vol2]] — Erin Meyer's "Getting to Sí, Ja, Oui, Hai, and Da" is the spine. The Tim Carr / Saudi opening case, the Russian-debate framing, the Mexican-downgraders example, the German *Sachlichkeit* concept, the Sarah Stevens / Japan story, the Burundi-recap-email example, the John Wagner / China contract case — all from Meyer. The cognitive-vs-affective trust framework is Roy Chua's research as reported by Meyer.
+- [[sources/hbr-now-what]] — Danny Ertel's "Getting Past Yes: Negotiating as if Implementation Mattered" supplies the five behavioral shifts (start with end in mind; help them prepare; alignment as shared responsibility; send one message; manage negotiation as a process). The Concert/AT&T-BT joint venture case, the Equitas commutations action pack, IBM Global Services' joint hand-off meetings, and the P&G "most expensive deal is one that fails" principle all originate here. The Mullins "Take the Money or Run?" case adds the diagnostic: when a counterpart changes terms late in the process, treat it as a signal about post-signing behavior — and recognize how psychological commitment (sunk costs in a negotiation process) clouds judgment about whether to walk away.
 
 ## Open Questions
 

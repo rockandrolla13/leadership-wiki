@@ -1,11 +1,11 @@
 ---
 type: concept
 title: "Workplace Courage"
-tags: [courage, voice, integrity, ethics, dissent]
+tags: [courage, voice, integrity, ethics, dissent, indecision]
 created: 2026-05-16
-updated: 2026-05-16
-sources: [hbr-communication-vol2, hbr-managing-yourself]
-related: [communication/difficult-conversations, communication/conflict-language, principles/trust, principles/accountability, coaching/personal-leadership-development]
+updated: 2026-05-17
+sources: [hbr-communication-vol2, hbr-managing-yourself, hbr-decision-making]
+related: [communication/difficult-conversations, communication/conflict-language, principles/trust, principles/accountability, coaching/personal-leadership-development, principles/decision-making]
 ---
 
 # Workplace Courage
@@ -104,10 +104,28 @@ Kouchaki & Smith's ethical-careers framing makes the bigger point: ethical lapse
 - [[coaching/personal-leadership-development]] — courage in the life-strategy sense (walking away, choosing your contribution).
 - [[coaching/resilience]] — moxie as a form of personal courage.
 
+## The Heavy Lifting of Leadership (Charan / Brown)
+
+A specific application of courage that the wiki should name directly: *delivering candid feedback to subordinates*, especially negative feedback. Dick Brown at EDS called this "the heavy lifting of leadership," and Ram Charan in *Conquering a Culture of Indecision* identifies it as the single most under-supplied act of courage in organizational life.
+
+The deeper failure: a manager who gives an inflated review last year because the conversation was uncomfortable has *deprived* the report of the information needed to improve, and has made *next year's* conversation impossible. Brown's response to a confused employee who thought he'd been doing well: *"if you're staying the same, you're falling behind."*
+
+The discipline:
+
+- **A leader should be constructing the appraisal all year long.** *"You have 20, 30, 60 opportunities a year to share your observations. Don't let those opportunities pass."* (Brown)
+- **Surprise in the annual review is a leadership failure.** *"If, at the end of the year, someone is truly surprised by what you have to say, that's a failure of leadership."* (Brown)
+- **Avoidance "sentences the organization to mediocrity."** (Brown) The cost is paid by the team, not just the leader.
+- **Leaders get the behavior they tolerate.** (Brown's central aphorism) If you tolerate dangling dialogue, information clogs, and free-for-all meetings, you produce them.
+
+This is courage of the *quiet, recurring* kind — not the one-off heroic stand. The leader who gives one brave speech but cannot deliver weekly candid feedback is, on the empirical evidence, the less courageous leader.
+
+> *"Critical feedback is part of what Brown calls 'the heavy lifting of leadership.' Avoiding it sentences the organization to mediocrity. What's more, by failing to provide honest feedback, leaders cheat their people by depriving them of the information they need to improve."* — Charan, summarizing Brown
+
 ## Source Notes
 
 - [[sources/hbr-communication-vol2]] — Detert's "Cultivating Everyday Courage" is the primary source for the four phases of competent courage, the idiosyncrasy-credits framing, and the Catherine Gill / Mel Exon / Erik / Fred Keller examples.
 - [[sources/hbr-managing-yourself]] — Kouchaki & Smith's "Building an Ethical Career" provides the moral humility / if-then planning / three-tests / ethical-mentor framing. Christensen's "How Will You Measure Your Life?" provides the marginal-cost warning. Drucker provides the values-mismatch / walk-away example. Dorsey's "moxie" provides the impostor-syndrome / walk-away tactic. Su's "voice of character" provides the constancy idea.
+- [[sources/hbr-decision-making]] — Charan's *Conquering a Culture of Indecision* and Dick Brown's EDS practice supply the "heavy lifting of leadership" framing for candid feedback as the under-supplied form of recurring courage. The four dialogue-killers (dangling, information clogs, piecemeal, free-for-all) are the failure modes the courageous leader actively works against in their meetings.
 
 ## Open Questions
 

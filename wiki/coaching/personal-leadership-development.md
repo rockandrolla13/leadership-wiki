@@ -1,10 +1,10 @@
 ---
 type: playbook
 title: "Personal Leadership Development"
-tags: [self-management, purpose, development, strengths, life-strategy]
+tags: [self-management, purpose, development, strengths, life-strategy, just-enough-leadership]
 created: 2026-05-16
-updated: 2026-05-16
-sources: [hbr-managing-yourself, hbr-must-reads-2025, hbr-must-reads-2026]
+updated: 2026-05-17
+sources: [hbr-managing-yourself, hbr-must-reads-2025, hbr-must-reads-2026, hbr-now-what]
 related: [coaching/managing-yourself, coaching/personal-leadership-profile, coaching/development-plan, principles/energy-management, principles/purpose-and-why, coaching/resilience]
 ---
 
@@ -142,11 +142,27 @@ If self-directed work is not producing change after 6–12 months:
 - **To manager, when proposing a role redesign:** "I am most useful when I do [specific work]. I am least useful when I do [specific work]. Here is what I would propose for the next six months."
 - **To self, when stuck:** "What kind of empathy is this situation calling for — for myself? Am I being kind to myself the way I would be to a friend, or am I being harsh?"
 
+## Just-Enough Leadership (Mintzberg)
+
+Henry Mintzberg's 2004 article in [[sources/hbr-now-what]] is a useful corrective to the heroic-leader frame implicit in much of the personal-development literature. The argument: leaders who treat themselves as singular saviors — sweeping into companies, formulating grand strategies, downsizing left and right, sprinting between titles — often *succeed* for a year or two and then leave a wreck behind. The deeper practice is "just enough leadership":
+
+- **Care more than you cure.** Treat leadership as an investment in the work and the people, not as a performance of fixing.
+- **Connect more than you control.** The work that matters at scale runs through relationships, not commands.
+- **Demonstrate more than you decide.** Model the behavior you ask of others.
+- **Engage with your industry, your company, your job — seriously, quietly.** Stick around long enough to live the consequences of your own decisions. The career-hopper who sprints between roles never has to.
+
+> *"Unhappy the land that has no heroes." "No. Unhappy the land that needs heroes."* — Brecht, cited by Mintzberg
+
+For a leader at any stage, the diagnostic is: *am I trying to be the hero, or am I trying to make the work and the people succeed?* The two answers produce different choices about how to spend the next decade.
+
+This frame pairs with Drucker's "you cannot improve yourself by being someone you are not" and Christensen's "your real allocation of resources reveals your real strategy": the heroic-leader self-image is often a *cost* of personal development, not a target — pursuing it usually means under-investing in the slower, quieter practices that produce durable contribution.
+
 ## Source Notes
 
 - [[sources/hbr-managing-yourself]] — Drucker's "Managing Oneself" is the spine. Coleman's "You Don't Find Your Purpose, You Build It" amends the Sinek WHY framing. Christensen's "How Will You Measure Your Life?" provides the resource-allocation and marginal-cost frames. Su's "You Need Many Leadership Voices, Not Just One" provides the five voices.
 - [[sources/hbr-must-reads-2025]] — Strack, Dyrchs, Bailey's "Use Strategic Thinking to Create the Life You Want" provides the seven-step BCG-derived life-strategy programme.
 - [[sources/hbr-must-reads-2026]] — Chevallier et al.'s "The Art of Asking Smarter Questions" supplements the curiosity voice with the five question types (investigative, speculative, productive, interpretive, subjective).
+- [[sources/hbr-now-what]] — Mintzberg's "Enough Leadership" (the just-enough-leadership frame); Freeman's "The CEO's Real Legacy" (succession as the deepest legacy-building act); Sherman & Freas's "The Wild West of Executive Coaching" (the triangular coaching contract that protects the coachee's own development).
 
 ## Open Questions
 

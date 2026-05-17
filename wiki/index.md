@@ -1,6 +1,6 @@
 # Leadership Wiki Index
 
-_Last updated: 2026-05-17 | Pages: 79_
+_Last updated: 2026-05-17 | Pages: 85_
 
 ## Concept Pages
 | Page | Summary | Tags | Updated | Sources |
@@ -21,21 +21,22 @@ _Last updated: 2026-05-17 | Pages: 79_
 | [[organization/culture]] | What is actually valued and rewarded, carried by the people who do the work | culture, trust, purpose, hiring | 2026-05-16 | lopp-art-of-leadership-2020, sinek-find-your-why-2017, sinek-start-with-why-2009, katzenbach-khan-leading-outside-lines-2010, sinek-leaders-eat-last-2014, george-authentic-leadership-2003, hbr-must-reads-2025, hbr-must-reads-2026 |
 | [[organization/informal-organization]] | The networks, norms, and emotional commitments that exist outside formal lines | informal-organization, change-management, motivation | 2026-05-16 | katzenbach-khan-leading-outside-lines-2010 |
 | [[organization/organizational-politics]] | Navigating interests and coalitions in the organization | organizational-politics, stakeholders | 2026-05-16 | — |
-| [[organization/decision-rights]] | Who decides what and how | decision-rights, accountability | 2026-05-16 | — |
-| [[organization/incentives]] | How compensation and recognition shape behavior | incentives, motivation | 2026-05-16 | — |
+| [[organization/decision-rights]] | RAPID/RACI + Charan closure discipline + anti-proxy + AI-augmented decision partition | decision-rights, accountability, raci, rapid, closure | 2026-05-17 | katzenbach-khan-leading-outside-lines-2010, hbr-managers-handbook-17-skills, hbr-decision-making, hbr-now-what |
+| [[organization/incentives]] | Pride-builder model; stated vs. enacted; cross-organization incentive alignment (Narayanan & Raman) | incentives, motivation, recognition, supply-chain | 2026-05-17 | katzenbach-khan-leading-outside-lines-2010, hbr-must-reads-2026, hbr-managers-handbook-17-skills, hbr-now-what |
 | [[organization/team-design]] | Virtuoso vs. traditional, two-pizza rule, role clarity with task ambiguity | team-design, organization, virtuoso-teams | 2026-05-16 | hbr-building-better-teams, hbr-stop-holding-yourself-back-2025, lopp-art-of-leadership-2020 |
 | [[organization/operating-rhythm]] | The cadence of meetings, reviews, and decisions that keeps an organization aligned | operating-rhythm, management | 2026-05-16 | — |
 | [[organization/leadership-teams]] | Three dysfunction patterns (shark tank, petting zoo, mediocracy) and targeted repairs | leadership-team, dysfunction, governance | 2026-05-16 | hbr-must-reads-2026 |
 | [[principles/hands-on-leadership]] | Cook & Nohria's five principles: top CEOs architect how work gets done | hands-on, ceo-role, execution, continuous-improvement | 2026-05-16 | hbr-stop-holding-yourself-back-2025 |
-| [[principles/influence]] | Positional vs. personal power; managing up, peer partnering, idea promotion | influence, power, managing-up, silo-busting | 2026-05-16 | hbr-managers-handbook-17-skills, hbr-leadership-vol1 |
+| [[principles/influence]] | Positional vs. personal power; managing up, peer partnering, idea promotion; Grant's if…then map for persuading the unpersuadable | influence, power, managing-up, silo-busting, persuasion | 2026-05-17 | hbr-managers-handbook-17-skills, hbr-leadership-vol1, hbr-change-anyones-mind-2021 |
 | [[organization/adaptive-organization]] | Octopus Org: clarity, ownership, curiosity through hypothesize/experiment/reflect/spread | adaptive-organization, octopus-org, antipatterns | 2026-05-16 | hbr-stop-holding-yourself-back-2025 |
 | [[organization/c-suite-as-team]] | Gartner: only 31% of C-suite see peers as primary team; shared goals as the lever | c-suite, executive-team, top-team, chro | 2026-05-16 |
 | [[principles/motivation]] | Sustained directed energy — intrinsic vs extrinsic, neurochemistry, pride-builder taxonomy, and what a leader can actually do | motivation, intrinsic-motivation, incentives, informal-organization | 2026-05-17 | hbr-stop-holding-yourself-back-2025, hbr-building-better-teams |
+| [[principles/decision-making]] | Four-field matrix, gray-area five questions, AI partition, closure discipline, anti-proxy stance | decision-making, judgment, gray-area, ai-decisions | 2026-05-17 | hbr-decision-making, hbr-now-what, hbr-must-reads-2026, hbr-year-in-tech-2026 |
 
 ## Framework Pages
 | Page | Summary | Tags | Updated |
 |------|---------|------|---------|
-| [[principles/decision-making-biases]] | Debiasing toolkit: three estimates, premortems, outside view, vanishing options, trip wires, uniqueness trap | decisions, biases, judgment, debiasing | 2026-05-16 |
+| [[principles/decision-making-biases]] | Debiasing toolkit + eight classic traps + bias vs. noise + reasoned rules + intuition vs. fear + dataism critique | decisions, biases, judgment, debiasing, noise | 2026-05-17 |
 | [[principles/leadership-styles]] | Goleman's six leadership styles: coercive, authoritative, affiliative, democratic, pacesetting, coaching | leadership-styles, emotional-intelligence, goleman | 2026-05-16 |
 | [[principles/leadership-development-stages]] | Rooke & Torbert's seven action logics (Opportunist → Alchemist) | action-logics, leadership-development, executive-development | 2026-05-16 |
 | [[principles/incomplete-leader]] | Ancona et al.'s four capabilities: sensemaking, relating, visioning, inventing | incomplete-leader, sensemaking, relating, visioning, inventing | 2026-05-16 |
@@ -53,22 +54,24 @@ _Last updated: 2026-05-17 | Pages: 79_
 | [[management/onboarding]] | Setting up new team members for success in the first 90 days | onboarding, trust, culture | 2026-05-16 |
 | [[management/underperformance]] | Diagnosing and addressing underperformance before it becomes a crisis | underperformance, coaching, feedback | 2026-05-16 |
 | [[management/coaching-junior-people]] | Developing early-career team members | coaching, mentoring, development | 2026-05-16 |
-| [[management/managing-senior-people]] | Working with senior individual contributors and principal-level talent | senior-people, management | 2026-05-16 |
+| [[management/managing-senior-people]] | Working with senior ICs; if…then map for resistant profiles; Freeman succession model; AI-augmented IC management | senior-people, management, succession, ai-augmented | 2026-05-17 |
 | [[management/cross-functional-teaming]] | Leading cross-disciplinary, cross-org project teams using Edmondson's four leadership functions | teaming, cross-functional, psychological-safety, innovation | 2026-05-16 |
 | [[communication/strategy-communication]] | Communicating direction starting with WHY, then HOW, then WHAT | strategy, communication, inspiration | 2026-05-16 |
-| [[communication/difficult-conversations]] | Navigating uncomfortable conversations with directness and care | difficult-conversations, feedback | 2026-05-16 |
+| [[communication/difficult-conversations]] | Navigating uncomfortable conversations; if…then map for structurally resistant counterparts; Mullins late-stage red flags | difficult-conversations, feedback, persuasion | 2026-05-17 |
 | [[communication/feedback-scripts]] | Exact language for delivering and requesting feedback | feedback, communication | 2026-05-16 |
 | [[communication/conflict-language]] | De-escalating and resolving conflict productively | conflict, communication | 2026-05-16 |
 | [[communication/stakeholder-updates]] | Keeping stakeholders informed effectively | stakeholders, communication | 2026-05-16 |
-| [[communication/listening-and-conversation]] | Leadership-as-conversation: four-I model, five question domains, follow-up questions, cross-cultural reads | conversation, listening, questions | 2026-05-16 |
-| [[communication/cross-cultural-negotiation]] | Meyer's five rules: disagreement style, emotion, trust type, yes/no semantics, written commitment | negotiation, culture, cross-cultural | 2026-05-16 |
+| [[communication/listening-and-conversation]] | Leadership-as-conversation: four-I model, five question domains, follow-up questions, cross-cultural reads; Sharer's listening ecosystem + WAIT diagnostic | conversation, listening, questions, listening-ecosystem | 2026-05-17 |
+| [[communication/cross-cultural-negotiation]] | Meyer's five rules + Ertel's implementation-minded negotiating (signing is the beginning) | negotiation, culture, cross-cultural, implementation-minded | 2026-05-17 |
 | [[coaching/managing-yourself]] | Drucker's five questions: strengths, performance mode, values, belonging, contribution | self-management, drucker, strengths | 2026-05-16 |
 | [[coaching/personal-leadership-development]] | The long-arc self-development frame: BCG's seven-step life strategy, Drucker, Coleman, Christensen | self-management, purpose, development | 2026-05-16 |
 | [[management/team-building]] | Group EI, productive conflict, virtuoso vs. traditional teams, multicultural friction | team-building, group-emotional-intelligence, virtuoso-teams | 2026-05-16 |
 | [[management/multicultural-teams]] | Brett/Behfar/Kern's four-intervention hierarchy for cross-cultural friction | multicultural-teams, cross-cultural, brett-behfar-kern | 2026-05-16 |
 | [[coaching/career-development]] | Career conversations distinct from performance; stretch design; hidden-blocker diagnosis | career, development, stretch-assignments | 2026-05-16 |
 | [[communication/productive-disagreement]] | Minson et al.: words matter more than mindset; hedge, acknowledge, ask, surface | disagreement, conflict, minson, scripts | 2026-05-16 |
-| [[organization/change-management]] | When formal change is failing: map the informal network, mobilize fast zebras, address frozen tundra | change-management, informal-organization, resistance, mobilization | 2026-05-17 |
+| [[organization/change-management]] | When formal change is failing: map the informal network, mobilize fast zebras, address frozen tundra; persuasion-up for resistant senior leaders | change-management, informal-organization, resistance, mobilization, persuasion | 2026-05-17 |
+| [[communication/persuasion]] | Grant's if…then map for know-it-alls, stubborn, narcissists, and disagreeable counterparts | persuasion, influence, change-minds, scripts | 2026-05-17 |
+| [[management/leading-technical-teams]] | Leading technical orgs in the AI era: partition design, model governance, vendor risk, AI-augmented IC roles | technical-leadership, ai-management, agentic-ai, model-governance, vendor-risk | 2026-05-17 |
 
 ## Case Pages
 | Page | Summary | Tags | Date | Status |
@@ -95,6 +98,10 @@ _Last updated: 2026-05-17 | Pages: 79_
 | [[sources/hbr-must-reads-2026]] | Harvard Business Review (multiple) | Book | 2026-05-16 | listening-and-conversation, curiosity, decision-making-biases, culture, leadership-teams, psychological-safety |
 | [[sources/hbr-communication-vol2]] | Harvard Business Review (multiple) | Book | 2026-05-16 | listening-and-conversation, cross-cultural-negotiation, courage, feedback-scripts, difficult-conversations |
 | [[sources/hbr-managing-yourself]] | Harvard Business Review (multiple) | Book | 2026-05-16 | personal-leadership-development, managing-yourself, energy-management, resilience, decision-making-biases, curiosity, courage, purpose-and-why, recurring-patterns, development-plan, feedback-scripts |
+| [[sources/hbr-change-anyones-mind-2021]] | HBR (Grant, Bryant & Sharer, Freeman, Dachner & Makarius) | Article | 2026-05-17 | persuasion, influence, difficult-conversations, change-management, listening-and-conversation, managing-senior-people |
+| [[sources/hbr-decision-making]] | HBR (Badaracco, Hammond/Keeney/Raiffa, Kahneman et al., Rosenzweig, Rogers/Blenko, Charan, Hill/Tedards/Swan, Pentland, Wilding, Reeves/Moldoveanu/Job, Luca/Edmondson, Soyer/Hogarth, Menon/Thompson, Morris) | Book | 2026-05-17 | decision-making, decision-making-biases, decision-rights, courage, feedback-scripts |
+| [[sources/hbr-now-what]] | HBR (Mintzberg, Useem, Freeman, Ertel, Sherman & Freas, Narayanan & Raman, McGovern et al., Mullins, Kramer) | Article | 2026-05-17 | managing-senior-people, difficult-conversations, decision-rights, incentives, personal-leadership-development, cross-cultural-negotiation, decision-making |
+| [[sources/hbr-year-in-tech-2026]] | HBR (Anthony, Purdy, Zoldi & Levine, Hughes/Overhage/Glaser, Webb, Yahalom, Parra-Moyano & Joshi, Stuart, Shim, Marion/Deeds/Friar, Dries/Luyckx/Rogiers) | Book | 2026-05-17 | leading-technical-teams, managing-senior-people, decision-making |
 
 ## Personal Development Pages
 | Page | Summary | Updated |
