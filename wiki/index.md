@@ -1,6 +1,6 @@
 # Leadership Wiki Index
 
-_Last updated: 2026-05-17 | Pages: 98_
+_Last updated: 2026-05-17 | Pages: 99_
 
 ## Concept Pages
 | Page | Summary | Tags | Updated | Sources |
@@ -48,6 +48,7 @@ _Last updated: 2026-05-17 | Pages: 98_
 ## Playbook Pages
 | Page | Summary | Tags | Updated |
 |------|---------|------|---------|
+| [[communication/open-inquiry-playbook]] | 7-situation playbook for genuine inquiry when you're the most experienced person in the room | inquiry, listening, psychological-safety, openness | 2026-05-17 |
 | [[management/one-on-ones]] | Weekly recurring meetings that build trust and surface the highest signal | one-on-ones, trust, management | 2026-05-16 |
 | [[management/performance-management]] | Coaching through performance gaps before entering formal process | performance, feedback, coaching | 2026-05-16 |
 | [[management/hiring]] | The highest-leverage activity: building the team through relationships and pipeline | hiring, recruiting, culture | 2026-05-16 |
