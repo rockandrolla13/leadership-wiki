@@ -1,13 +1,13 @@
 # Leadership Wiki Index
 
-_Last updated: 2026-05-17 | Pages: 87_
+_Last updated: 2026-05-17 | Pages: 98_
 
 ## Concept Pages
 | Page | Summary | Tags | Updated | Sources |
 |------|---------|------|---------|---------|
 | [[principles/delegation]] | Entrusting work with authority; the most important leadership merit badge | delegation, trust, ownership, scaling | 2026-05-16 | lopp-art-of-leadership-2020, hbr-managers-handbook-17-skills, hbr-stop-holding-yourself-back-2025 |
 | [[principles/trust]] | The accumulated belief that a leader acts consistently and in the team's interests | trust, psychological-safety, one-on-ones | 2026-05-16 | lopp-art-of-leadership-2020, sinek-leaders-eat-last-2014, george-authentic-leadership-2003, bradberry-emotional-intelligence-2009 |
-| [[principles/psychological-safety]] | Conditions under which people take interpersonal risks; the Circle of Safety | psychological-safety, trust, feedback, circle-of-safety | 2026-05-16 | lopp-art-of-leadership-2020, hbr-leadership-vol2-2020, katzenbach-khan-leading-outside-lines-2010, sinek-leaders-eat-last-2014, edmondson-extreme-teaming-2017, bradberry-emotional-intelligence-2009 |
+| [[principles/psychological-safety]] | Conditions under which people take interpersonal risks; Circle of Safety + Edmondson Leader's Tool Kit + failure archetypes | psychological-safety, trust, feedback, circle-of-safety, leader-toolkit | 2026-05-17 | lopp-art-of-leadership-2020, hbr-leadership-vol2-2020, katzenbach-khan-leading-outside-lines-2010, sinek-leaders-eat-last-2014, edmondson-extreme-teaming-2017, edmondson-fearless-organization-2019, bradberry-emotional-intelligence-2009 |
 | [[principles/accountability]] | Distinguishing accountability from responsibility; owning outcomes | accountability, ownership, management | 2026-05-16 | lopp-art-of-leadership-2020, hbr-leadership-vol2-2020 |
 | [[principles/ownership]] | Team members acting as owners rather than executors | ownership, accountability | 2026-05-16 | lopp-art-of-leadership-2020, katzenbach-khan-leading-outside-lines-2010, sinek-start-with-why-2009 |
 | [[principles/executive-presence]] | The ability to command attention and inspire confidence at scale | executive-presence, authenticity, leadership-transition | 2026-05-16 | hbr-leadership-vol2-2020, lopp-art-of-leadership-2020, hbr-leadership-vol1, hbr-stop-holding-yourself-back-2025 |
@@ -43,6 +43,7 @@ _Last updated: 2026-05-17 | Pages: 87_
 | [[management/manager-skills-overview]] | The 17 manager skills in five clusters, mapped to behavior and development | manager-skills, competency-map, manager-development | 2026-05-16 |
 | [[management/sbi-feedback-model]] | Situation-Behavior-Impact: the workhorse feedback structure | sbi, feedback, ccl | 2026-05-16 |
 | [[coaching/self-limiting-beliefs]] | Wilkins's seven hidden blockers + Uncover/Unpack/Unblock framework | self-limiting-beliefs, mindset, self-coaching, wilkins | 2026-05-16 |
+| [[principles/cynefin-decision-framework]] | Snowden & Boone: five domains (Simple, Complicated, Complex, Chaotic, Disorder) and their matched decision processes | cynefin, decision-making, complexity, snowden, problem-classification | 2026-05-17 |
 
 ## Playbook Pages
 | Page | Summary | Tags | Updated |
@@ -72,6 +73,7 @@ _Last updated: 2026-05-17 | Pages: 87_
 | [[organization/change-management]] | When formal change is failing: map the informal network, mobilize fast zebras, address frozen tundra; persuasion-up for resistant senior leaders | change-management, informal-organization, resistance, mobilization, persuasion | 2026-05-17 |
 | [[communication/persuasion]] | Grant's if…then map for know-it-alls, stubborn, narcissists, and disagreeable counterparts | persuasion, influence, change-minds, scripts | 2026-05-17 |
 | [[management/leading-technical-teams]] | Leading technical orgs in the AI era: partition design, model governance, vendor risk, AI-augmented IC roles | technical-leadership, ai-management, agentic-ai, model-governance, vendor-risk | 2026-05-17 |
+| [[principles/crisis-leadership]] | George's 7 lessons + Heifetz adaptive/technical + Cynefin Chaotic; first-72-hours / stabilize / reframe / transform | crisis, true-north, root-cause, transparency, recovery | 2026-05-17 |
 
 ## Case Pages
 | Page | Summary | Tags | Date | Status |
@@ -102,6 +104,16 @@ _Last updated: 2026-05-17 | Pages: 87_
 | [[sources/hbr-decision-making]] | HBR (Badaracco, Hammond/Keeney/Raiffa, Kahneman et al., Rosenzweig, Rogers/Blenko, Charan, Hill/Tedards/Swan, Pentland, Wilding, Reeves/Moldoveanu/Job, Luca/Edmondson, Soyer/Hogarth, Menon/Thompson, Morris) | Book | 2026-05-17 | decision-making, decision-making-biases, decision-rights, courage, feedback-scripts |
 | [[sources/hbr-now-what]] | HBR (Mintzberg, Useem, Freeman, Ertel, Sherman & Freas, Narayanan & Raman, McGovern et al., Mullins, Kramer) | Article | 2026-05-17 | managing-senior-people, difficult-conversations, decision-rights, incentives, personal-leadership-development, cross-cultural-negotiation, decision-making |
 | [[sources/hbr-year-in-tech-2026]] | HBR (Anthony, Purdy, Zoldi & Levine, Hughes/Overhage/Glaser, Webb, Yahalom, Parra-Moyano & Joshi, Stuart, Shim, Marion/Deeds/Friar, Dries/Luyckx/Rogiers) | Book | 2026-05-17 | leading-technical-teams, managing-senior-people, decision-making |
+| [[sources/george-7-lessons-crisis-2009]] | Bill George | Book | 2026-05-17 | crisis-leadership, courage, trust, resilience, change-management, stakeholder-updates |
+| [[sources/edmondson-fearless-organization-2019]] | Amy C. Edmondson | Book | 2026-05-17 | psychological-safety, feedback-scripts, culture |
+| [[sources/heifetz-adaptive-leadership-2009]] | Heifetz, Grashow & Linsky | Book | 2026-05-17 | change-management, courage, personal-leadership-development, difficult-conversations, decision-making, crisis-leadership |
+| [[sources/hbr-communication-vol1]] | HBR (Williams & Miller, Cialdini, Tannen, Conger, Perlow & Williams, Anderson, Heath & Heath, Pentland, Bryant, Argyris) | Book | 2026-05-17 | influence, persuasion, listening-and-conversation |
+| [[sources/hbr-essential-leadership-guide]] | HBR (Friedman, Drucker, Montgomery, Rooke & Torbert, Snowden & Boone, Martin, Brett/Behfar/Kern, Buckingham) | Book | 2026-05-17 | cynefin-decision-framework, decision-making, personal-leadership-development |
+| [[sources/hbr-managing-overthinking-2025]] | HBR (Wilding, Beilock, Taitz, Kross, Boyes, Batista, Davenport, Christfort & Vickberg, Petrie) | Book | 2026-05-17 | microstress, resilience, decision-making, emotional-intelligence |
+| [[sources/braddock-spys-guide-strategy]] | John Braddock | Book | 2026-05-17 | strategy-communication, organizational-politics |
+| [[sources/allchin-communicating-with-data-2024]] | Carl Allchin | Book | 2026-05-17 | stakeholder-updates |
+| [[sources/shaw-machiavelli-mindset]] | R. Shaw | Book | 2026-05-17 | organizational-politics |
+| [[sources/lin-strategic-thinking-startup-fs-2025]] | Alfred Lin (Sequoia) interviewed by Shane Parrish | Podcast Transcript | 2026-05-17 | strategy-communication, decision-making, hiring |
 
 ## Personal Development Pages
 | Page | Summary | Updated |

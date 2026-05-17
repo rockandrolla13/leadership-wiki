@@ -4,6 +4,68 @@ Chronological record of all ingestions and coaching queries.
 
 ---
 
+## [2026-05-17] ingest | Documents scan — 9 new PDFs (George crisis, Edmondson Fearless, Heifetz Adaptive, HBR Comm Vol 1, HBR Essential Leadership, HBR Overthinking, Braddock Spy Strategy, Allchin Data, Shaw Machiavelli, Lin/Sequoia)
+
+- PDFs scanned: 784 in /home/ak/Documents
+- Leadership-relevant new candidates: 11 PDFs
+- Skipped (scanned/empty): 2 PDFs — `Fearless leadership (Malandro)` and `HBRs 10 Must Reads on Managing People` (both produced 6–10KB markdowns of front matter only; the body is page-images and pymupdf4llm could not extract substantive content)
+- Sources ingested (9):
+  - george-7-lessons-crisis-2009
+  - edmondson-fearless-organization-2019
+  - heifetz-adaptive-leadership-2009
+  - hbr-communication-vol1
+  - hbr-essential-leadership-guide
+  - hbr-managing-overthinking-2025
+  - braddock-spys-guide-strategy
+  - allchin-communicating-with-data-2024
+  - shaw-machiavelli-mindset
+  - lin-strategic-thinking-startup-fs-2025
+- Pages created:
+  - [[wiki/sources/george-7-lessons-crisis-2009.md]]
+  - [[wiki/sources/edmondson-fearless-organization-2019.md]]
+  - [[wiki/sources/heifetz-adaptive-leadership-2009.md]]
+  - [[wiki/sources/hbr-communication-vol1.md]]
+  - [[wiki/sources/hbr-essential-leadership-guide.md]]
+  - [[wiki/sources/hbr-managing-overthinking-2025.md]]
+  - [[wiki/sources/braddock-spys-guide-strategy.md]]
+  - [[wiki/sources/allchin-communicating-with-data-2024.md]]
+  - [[wiki/sources/shaw-machiavelli-mindset.md]]
+  - [[wiki/sources/lin-strategic-thinking-startup-fs-2025.md]]
+  - [[wiki/principles/cynefin-decision-framework.md]] (new framework page — Snowden & Boone domain classification)
+  - [[wiki/principles/crisis-leadership.md]] (new playbook page — synthesises George + Heifetz + Cynefin into a 72-hour / 2-week / 12-week / 12-month sequenced playbook)
+- Pages updated:
+  - [[wiki/principles/psychological-safety.md]] — Edmondson's full Leader's Tool Kit (Setting the Stage / Inviting Participation / Responding Productively) + three failure archetypes + Standards × Safety matrix + Default Frame vs. Reframe + Leadership Inclusiveness + Naive Realism
+  - [[wiki/index.md]] — added 12 new entries; page count 87 → 98
+- Key concepts:
+  - **Crisis leadership architecture (George's 7 Lessons):** face reality, don't be Atlas, dig deep for root cause, get ready for long haul, never waste a good crisis, follow True North in spotlight, go on offense
+  - **Technical vs. Adaptive challenges (Heifetz):** most leadership failure is treating adaptive challenges as technical problems; remedy is the balcony view + holding environment + productive zone of disequilibrium (PZD)
+  - **Cynefin domain classification (Snowden & Boone):** Simple / Complicated / Complex / Chaotic / Disorder, each with a matched decision-action pattern; misclassification is the most common decision-making failure
+  - **Edmondson Leader's Tool Kit (2019):** the consolidated psychological-safety operating manual — Set the Stage (frame work + emphasize purpose), Invite Participation (situational humility + proactive inquiry + structures), Respond Productively (appreciate + destigmatize failure + sanction violations)
+  - **Three failure archetypes (Edmondson):** preventable (process deviation; never good news), complex (system breakdown; not good news), intelligent (novel forays; must be celebrated)
+  - **Standards × Safety matrix (Edmondson):** high + high = learning zone; high + low = anxiety zone (Wells Fargo, VW); low + high = comfort zone
+  - **Five executive decision-making styles (Williams & Miller):** Charismatic 25%, Thinker 11%, Skeptic 19%, Follower 36%, Controller 9%; 80% of presentations are mismatched to the audience's style
+  - **Four steps of persuasion (Conger):** credibility → common ground → vivid evidence → emotional connection
+  - **Total Leadership (Friedman):** work / home / community / self, mutually reinforcing; REFLECT → BRAINSTORM → CHOOSE EXPERIMENTS → MEASURE
+  - **Three types of overthinking (Wilding):** rumination (past) / future tripping (forward) / overanalyzing (depth), each with targeted remedies — worry time, temporal distancing, satisficing
+  - **Endgame discipline (Braddock):** strategy starts with explicit Endgame for self + for the other side; three Zero-Sum outcomes (destroy / forever-rival / future positive-sum); game-inside-the-game
+  - **First-order issues (Lin):** identify the *one* root cause that dissolves the others; inputs over outputs; advantageous divergence (contrarian and right); free cash flow = freedom
+  - **Pre-attentive attributes (Allchin):** length, position, color, shape — processed before conscious attention; charts should align salient cue with load-bearing message
+- Contradictions / tensions surfaced:
+  - George (decisive action in crisis, abandon consensus) vs. Heifetz (resist the leap to action on adaptive challenges) — reconciled by recognizing that crises usually have both layers; technical takes fast action, adaptive takes diagnosis
+  - Edmondson's high-standards-with-high-safety vs. Welch-style "be #1 or #2" framing — Edmondson's matrix shows high standards *without* safety produce the anxiety zone (Wells Fargo, VW), not sustained performance
+  - Shaw's Machiavellian prescriptive ruthlessness vs. wiki's authentic-leadership / psychological-safety stance — wiki absorbs Shaw's *descriptive* realism (implicit hierarchies, reputation operates independently of behavior, flattery requires active counter-permission) and rejects the prescriptive moves
+  - Cynefin's "Complicated" (expert analysis) vs. "Complex" (probe-sense-respond) — most modern leadership decisions are misclassified into Complicated because experts are available, when they are actually Complex
+  - Williams & Miller's strategic style-matching vs. HBR Vol 2's "leadership-as-conversation" — both coexist: posture is conversational, technique is style-matched
+  - Overthinking remedies (satisficing, "make every decision right") vs. decision-making-biases page's emphasis on more deliberation — synthesis: bias-checks early, satisficing-mode closure at the end
+  - Lin's "free cash flow = freedom" vs. long-term-investment thesis (Amazon's two-decade free-cash-flow deferral) — resolved at unit-economic level: Amazon ran positive unit economics from early on
+- Follow-up questions:
+  - For 2026 AI-augmented organizations, how do these frameworks need to be updated? Specifically: George's "trust but verify" (when data is mediated by agents), Heifetz's holding environment (in remote/hybrid contexts), Cynefin's domain transitions (when AI behavior is emergent)
+  - The descriptive-vs-prescriptive line in Shaw's Machiavellianism is the wiki's stance; but is there a clean operational test for staying on the descriptive side? Provisional: re-grounding in values + checking whose interest each move serves
+  - Lin's first-order-issue discipline assumes a single root cause exists; in Heifetz adaptive challenges there often isn't one. How does the discipline degrade gracefully?
+  - Edmondson's Leader's Tool Kit assumes leader will. What about organizations where senior leadership *prefers* the default frame because it concentrates power? Edmondson's "change happens one team at a time" is true but slow — is there a faster mechanism?
+
+---
+
 ## [2026-05-17] ingest | HBR articles — change-anyones-mind-2021, decision-making, now-what, year-in-tech-2026
 
 - Sources ingested: hbr-change-anyones-mind-2021, hbr-decision-making, hbr-now-what, hbr-year-in-tech-2026

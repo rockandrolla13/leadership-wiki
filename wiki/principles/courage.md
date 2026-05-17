@@ -4,8 +4,8 @@ title: "Workplace Courage"
 tags: [courage, voice, integrity, ethics, dissent, indecision]
 created: 2026-05-16
 updated: 2026-05-17
-sources: [hbr-communication-vol2, hbr-managing-yourself, hbr-decision-making]
-related: [communication/difficult-conversations, communication/conflict-language, principles/trust, principles/accountability, coaching/personal-leadership-development, principles/decision-making]
+sources: [hbr-communication-vol2, hbr-managing-yourself, hbr-decision-making, george-7-lessons-crisis-2009, heifetz-adaptive-leadership-2009]
+related: [communication/difficult-conversations, communication/conflict-language, principles/trust, principles/accountability, coaching/personal-leadership-development, principles/decision-making, principles/crisis-leadership]
 ---
 
 # Workplace Courage
@@ -126,6 +126,8 @@ This is courage of the *quiet, recurring* kind — not the one-off heroic stand.
 - [[sources/hbr-communication-vol2]] — Detert's "Cultivating Everyday Courage" is the primary source for the four phases of competent courage, the idiosyncrasy-credits framing, and the Catherine Gill / Mel Exon / Erik / Fred Keller examples.
 - [[sources/hbr-managing-yourself]] — Kouchaki & Smith's "Building an Ethical Career" provides the moral humility / if-then planning / three-tests / ethical-mentor framing. Christensen's "How Will You Measure Your Life?" provides the marginal-cost warning. Drucker provides the values-mismatch / walk-away example. Dorsey's "moxie" provides the impostor-syndrome / walk-away tactic. Su's "voice of character" provides the constancy idea.
 - [[sources/hbr-decision-making]] — Charan's *Conquering a Culture of Indecision* and Dick Brown's EDS practice supply the "heavy lifting of leadership" framing for candid feedback as the under-supplied form of recurring courage. The four dialogue-killers (dangling, information clogs, piecemeal, free-for-all) are the failure modes the courageous leader actively works against in their meetings.
+- [[sources/george-7-lessons-crisis-2009]] — adds the *structural substrate* of courage: it requires the support team (intimate partner, mentors, peer groups) and resilience practices built *in calm times.* George's Lesson 1 ("face reality, starting with yourself") is courage applied to the leader's own role in the crisis. The Tad Piper case (sharing chemical-dependency story with branch leaders during near-bankruptcy) shows that *vulnerability is a form of courage* — strategic disclosure of one's own struggle, used sparingly, builds support more powerfully than projecting invulnerability. Medtronic's "you'll never get fired for having a problem, but you will get fired for covering one up" is the cultural counterpart of individual courage. The "heavy lifting" maxim now has a complement: in normal times, deliver candid feedback recurringly; in crisis, *acknowledge your own role* before asking others to act.
+- [[sources/heifetz-adaptive-leadership-2009]] — sharpens the operational definition of courage: *"finding a way to disappoint people without pushing them completely over the edge."* Adaptive leadership *necessarily* disrupts authorizers' expectations because it challenges priorities, beliefs, habits, and loyalties — exactly what they hired you not to do. The courage required is the willingness to *raise the heat into the productive zone of disequilibrium* and tolerate the resulting backlash. Heifetz's "don't do it alone" discipline (allies, confidants, opposition) is the structural support that makes this courage sustainable.
 
 ## Open Questions
 

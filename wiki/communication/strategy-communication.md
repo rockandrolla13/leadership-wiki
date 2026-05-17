@@ -1,10 +1,10 @@
 ---
 type: playbook
 title: "Strategy Communication"
-tags: [strategy, communication, alignment, purpose, why, inspiration]
+tags: [strategy, communication, alignment, purpose, why, inspiration, endgame, first-order]
 created: 2026-05-16
-updated: 2026-05-16
-sources: [sinek-start-with-why-2009, sinek-find-your-why-2017, hbr-leadership-vol2-2020, hbr-leadership-vol1, hbr-managers-handbook-17-skills, hbr-stop-holding-yourself-back-2025]
+updated: 2026-05-17
+sources: [sinek-start-with-why-2009, sinek-find-your-why-2017, hbr-leadership-vol2-2020, hbr-leadership-vol1, hbr-managers-handbook-17-skills, hbr-stop-holding-yourself-back-2025, braddock-spys-guide-strategy, lin-strategic-thinking-startup-fs-2025]
 related: [principles/purpose-and-why, organization/culture, communication/stakeholder-updates, communication/difficult-conversations, principles/incomplete-leader, communication/productive-disagreement, principles/hands-on-leadership, management/manager-skills-overview]
 ---
 
@@ -123,3 +123,11 @@ Kotter's other relevant point: *alignment* is not the same as planning. Once dir
 ### Minson on Productive Disagreement
 
 [[sources/hbr-stop-holding-yourself-back-2025]] — Strategy communication often produces disagreement. The Minson et al. framing applies: hedging certainty, naming shared ground, and asking genuine questions makes the strategic conversation productive rather than adversarial. See [[communication/productive-disagreement]].
+
+### Braddock's Endgame Discipline
+
+[[sources/braddock-spys-guide-strategy]] — Strategy starts with the *Endgame*: what does the world look like when you've won? Who, where, what is in it? Most strategy communication fails because the Endgame was never made explicit. The discipline: before communicating *what* to do, communicate *what the won-state looks like* — concretely, in terms of people, places, and things. Then identify what the *counterparts'* Endgames are (Sun Tzu: *"if you know yourself but not the other side, for every victory gained you will also suffer a defeat"*). Most strategic mistakes come from assuming counterparts want what you want — or its opposite. They usually want something orthogonal. Braddock's three Zero-Sum outcomes (no future games / future zero-sum games / future positive-sum games) also calibrate the *tone* of strategy communication: are you communicating to *destroy* the counterpart, to *outlast* them, or to *eventually ally* with them? Each requires a different message.
+
+### Lin's First-Order-Issue Discipline
+
+[[sources/lin-strategic-thinking-startup-fs-2025]] — Alfred Lin's discipline of identifying the *first-order issue* — the single root cause that, if solved, dissolves the others — is the strategy-communication equivalent of *what is this strategy actually about?* If you cannot identify the first-order issue in one sentence, you do not have a strategy; you have a list. Lin's complementary moves: optimize for *inputs* (the daily disciplines that compound) rather than outputs (the quarterly metrics that follow from inputs); operate in the *infinite game* (enduring impact) rather than the *finite game* (next milestone); aim for *advantageous divergence* — be different *and* be right. The 2×2: conventional-and-right is acceptable; contrarian-and-right is the outsized payoff; contrarian-and-wrong fails alone. Communication implication: when the strategy is divergent, communicate *why* — the underlying analysis that makes the divergence correct, not just the divergence itself.

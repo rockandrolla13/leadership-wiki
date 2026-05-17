@@ -3,8 +3,8 @@ type: concept
 title: "Psychological Safety"
 tags: [psychological-safety, trust, feedback, circle-of-safety]
 created: 2026-05-16
-updated: 2026-05-16
-sources: [lopp-art-of-leadership-2020, hbr-leadership-vol2-2020, katzenbach-khan-leading-outside-lines-2010, sinek-leaders-eat-last-2014, edmondson-extreme-teaming-2017, bradberry-emotional-intelligence-2009, hbr-leadership-vol1, hbr-building-better-teams, hbr-stop-holding-yourself-back-2025, hbr-must-reads-2025, hbr-must-reads-2026]
+updated: 2026-05-17
+sources: [lopp-art-of-leadership-2020, hbr-leadership-vol2-2020, katzenbach-khan-leading-outside-lines-2010, sinek-leaders-eat-last-2014, edmondson-extreme-teaming-2017, edmondson-fearless-organization-2019, bradberry-emotional-intelligence-2009, hbr-leadership-vol1, hbr-building-better-teams, hbr-stop-holding-yourself-back-2025, hbr-must-reads-2025, hbr-must-reads-2026]
 related: [principles/trust, communication/feedback-scripts, communication/difficult-conversations, management/one-on-ones, management/cross-functional-teaming, principles/emotional-intelligence, communication/productive-disagreement, management/team-building, organization/leadership-teams]
 ---
 
@@ -114,3 +114,65 @@ Lopp ties the same idea to feedback specifically: people are "extremely slow to 
 - HBR 2025 ([[sources/hbr-must-reads-2025]]) — Laura Morgan Roberts's **Four Freedoms** framing (freedom to be, become, fade, fail) reframes the psychological-safety conversation: the **freedom to fail** is the cousin of safety, but the other three are usually missing in safety discussions. A team can be "safe to speak" but still unsafe to *be authentically yourself* (freedom to be), unsafe to *grow into your strengths* (freedom to become), or unsafe to *step back from constant spotlight* (freedom to fade). The wiki should treat psychological safety as one of four freedoms, not as the totality.
 
 - HBR 2026 ([[sources/hbr-must-reads-2026]]) — Keil & Zangrillo's **petting-zoo** dysfunction pattern is the cautionary note this page needed: too much safety can become its own pathology, where no one is willing to disagree and the team confuses harmony with health. Safety should produce *productive disagreement*, not consensus-by-default. See [[organization/leadership-teams]] for the diagnostic and repair. Erin Meyer's "Build a Corporate Culture That Works" supplies the related Netflix maxim: *"No brilliant jerks; the cost to teamwork is just too high"* — safety is preserved by removing chronically corrosive members, not by tolerating them in the name of inclusion.
+
+## Edmondson's Leader's Tool Kit (the canonical 2019 framework)
+
+[[sources/edmondson-fearless-organization-2019|The Fearless Organization]] (2019) is Edmondson's consolidated leader's operating manual. The wiki incorporates it as the spine of psychological-safety practice. Three categories of leadership work:
+
+**1. Setting the Stage** (shared expectations and meaning)
+- **Frame the work.** Set expectations about failure, uncertainty, and interdependence to clarify the need for voice. Different work demands different stances on failure — high-volume repetitive work celebrates "good catches" of deviations; complex operations balance vigilance with teamwork; innovation work *courts* intelligent failures.
+- **Emphasize purpose.** Identify what's at stake, why it matters, and for whom. Even when the purpose seems obvious (a hospital, a mine), name it explicitly and repeatedly.
+
+**2. Inviting Participation** (confidence that voice is welcome)
+- **Demonstrate situational humility.** Acknowledge gaps. *"I may miss something; I need to hear from you."* Anne Mulcahy at Xerox: "Master of I Don't Know." Edgar Schein's *Here-and-Now Humility.*
+- **Practice inquiry.** Ask good (non-rhetorical, non-yes/no) questions. Model intense listening. World Café attributes of a powerful question: generates curiosity, stimulates reflection, surfaces underlying assumptions, opens further inquiry.
+- **Set up structures and processes.** Forums for input. Anonymous reporting channels. Whiteboards. Round-the-table protocols. Structure is more reliable than disposition.
+
+**3. Responding Productively** (orientation toward continuous learning)
+- **Express appreciation.** Listen. Acknowledge and thank. The leader's first move when bad news arrives sets the cost of all future bad news in the organization.
+- **Destigmatize failure.** Look forward (next steps), offer help, brainstorm. *"When someone comes to me with bad news, how do I make sure it's a positive experience?"*
+- **Sanction clear violations.** Clarify boundaries. *But* be precise about what's blameworthy: ethical violations, repeated negligence after coaching, intentional deception — yes. Honest mistakes, near-misses, surfaced concerns — no.
+
+## Failure Archetypes (Edmondson typology)
+
+Different failures require different leader responses. Treating all failures alike is itself a safety-eroding move.
+
+- **Preventable failures** (process deviation): deviations from known procedures (missing safety glasses). Never good news. *Sanction* clear violations.
+- **Complex failures** (system breakdown): novel combinations of events in familiar contexts (Superstorm Sandy flooding the Wall Street subway). Still not good news, but unavoidable. *Learn* from systemic patterns.
+- **Intelligent failures** (unsuccessful trial): thoughtful forays into new territory (drug development, new product design). *Must be celebrated.* A.G. Lafley (P&G) publicly celebrated his 11 most expensive product failures.
+
+## The Standards × Safety Matrix (Edmondson 2019)
+
+- **High standards + High safety → Learning zone.** Pixar, Google X. The desired state.
+- **High standards + Low safety → Anxiety zone.** Wells Fargo cross-selling, VW dieselgate. Produces unethical shortcuts and avoidable failures.
+- **Low standards + High safety → Comfort zone.** Collegial mediocrity. No learning because there's no demand for it.
+- **Low standards + Low safety → Apathy zone.** Disengagement. The worst state.
+
+The implication: high standards *require* high safety to produce sustained performance rather than corner-cutting. Welch-style "be #1 or #2 or be divested" without safety becomes the anxiety zone.
+
+## Default Frame vs. Reframe of the Boss
+
+Edmondson identifies the *Default Frame* most people unconsciously bring to "the boss" — and the *Reframe* required for psychological safety:
+
+| | Default Frame | Reframe |
+|---|---|---|
+| **The Boss** | Has answers | Sets direction |
+| | Gives orders | Invites input to clarify and improve |
+| | Assesses performance | Creates conditions for continued learning |
+| **Others** | Subordinates who must do what they're told | Contributors with crucial knowledge and insight |
+
+In the default frame, interpersonal fear is sensible. In the reframe, psychological safety is necessary. Volkswagen's Martin Winterkorn operated in the default frame; the result was engineers who cheated the emissions test rather than report that the goal was infeasible.
+
+## Leadership Inclusiveness (NICU Study)
+
+Edmondson, Nembhard & Tucker found that neonatal ICUs with high psychological safety had substantially better quality-improvement results than those with low safety. The differentiating leader behavior they called **leadership inclusiveness** — three components:
+
+1. **Approachable and accessible.**
+2. **Acknowledged fallibility.**
+3. **Proactively invited input.**
+
+Inclusive Medical Directors said things like *"I may miss something; I need to hear from you."* Non-inclusive ones assumed people knew to speak up.
+
+## Naive Realism (the cognitive obstacle to inquiry)
+
+All adults — especially high-achievers — experience their subjective view of reality as *reality.* This cognitive bias is why genuine curiosity about what others see is so rare. The leader's question *"what am I missing?"* is a deliberate act *against* naive realism. Without it, the inquiry tools above devolve into rhetorical questions.

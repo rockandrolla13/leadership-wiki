@@ -1,11 +1,11 @@
 ---
 type: playbook
 title: "Change Management"
-tags: [change-management, informal-organization, culture, resistance, transformation, mobilization, persuasion]
+tags: [change-management, informal-organization, culture, resistance, transformation, mobilization, persuasion, adaptive-leadership, balcony]
 created: 2026-05-17
 updated: 2026-05-17
-sources: [katzenbach-khan-leading-outside-lines-2010, hbr-leadership-vol1, hbr-must-reads-2025, hbr-change-anyones-mind-2021]
-related: [organization/informal-organization, organization/culture, principles/trust, management/managing-senior-people, principles/motivation, principles/purpose-and-why, principles/psychological-safety, communication/persuasion]
+sources: [katzenbach-khan-leading-outside-lines-2010, hbr-leadership-vol1, hbr-must-reads-2025, hbr-change-anyones-mind-2021, heifetz-adaptive-leadership-2009, george-7-lessons-crisis-2009]
+related: [organization/informal-organization, organization/culture, principles/trust, management/managing-senior-people, principles/motivation, principles/purpose-and-why, principles/psychological-safety, communication/persuasion, principles/crisis-leadership]
 ---
 
 # Change Management
@@ -159,3 +159,52 @@ After the first 90 days of a change initiative:
 - *Disagreeable executive who blocks every proposal* → stand your ground. Build the multi-week persuasion campaign (Fadell on iPhone: weeks of prototypes, refined pitches, and group pressure to get Jobs to change his mind). Backing down forecloses your influence permanently.
 
 The full playbook lives in [[communication/persuasion]]. Use it when the change is failing *upward*; use Katzenbach & Khan's framework when the change is failing *outward and downward* through the informal organization. Most stalled changes are both — and require both playbooks running in parallel.
+
+## Heifetz: Technical vs. Adaptive Diagnosis (the upstream classification)
+
+[[sources/heifetz-adaptive-leadership-2009]] — most change-management failures are *diagnostic* failures: the leader applies technical solutions to adaptive challenges. The distinction:
+
+- **Technical problems** have known solutions; can be resolved through existing expertise and current structures. The new IT system. The consultant report. The reorganization on paper.
+- **Adaptive challenges** require changes in people's *priorities, beliefs, habits, and loyalties* — they generate loss, trigger resistance, and have no expert who can hand down the answer.
+
+The most common mistake: treating an adaptive challenge (cultural transformation, post-merger integration, strategic repositioning) as if it were technical (deliverable by a project plan, a consultant, or a new system). The Katzenbach & Khan framework above is partly the corrective — adaptive change must mobilize the informal organization, not just rewire the formal one. But the *prior* move is the diagnosis: which kind of challenge is this, actually?
+
+### The Balcony Discipline
+
+The leader of adaptive change must continually move between the *dance floor* (where action happens) and the *balcony* (where patterns are visible). From the dance floor, you see the immediate conflict, the resistance, the project plan slipping. From the balcony, you see: who is benefiting from the status quo, who is losing what, which work-avoidance patterns are operating, where the system is over-heating or under-heating. The skill is to do both simultaneously — keep one eye on events around you and the other on the larger pattern.
+
+### Productive Zone of Disequilibrium (PZD)
+
+Adaptive change requires *some* heat — discomfort, urgency, conflict — to overcome the system's preference for the status quo. Heifetz's heat-modulation discipline:
+
+- **Below the PZD:** people are comfortable; the work avoidance dominates; nothing moves. Raise the heat. (Surface a difficult issue. Refuse to defer the decision. Name an interpretation that contradicts the dominant story.)
+- **In the PZD:** the discomfort of *not* dealing with the problem is at least equal to the discomfort of dealing with it. The work happens.
+- **Above the PZD:** the system breaks down — people panic, exit, blow up. Lower the heat. (Slow the pace. Acknowledge what's being lost. Add structure. Reduce immediate stakes.)
+
+Most change-management failures over-pace (above the PZD; system breakdown) or under-pace (below the PZD; work avoidance dominates).
+
+### Work Avoidance Patterns
+
+Predictable forms include: creating a new committee with no authority; finding a scapegoat; attacking the messenger; demanding more data ("we need more analysis"); insisting on consensus; ritualistic compliance without internalization. The leader's job is to *name* the avoidance pattern publicly and *put the work back to the group that owns it.*
+
+### Pace and Path
+
+Adaptive change is bumblebee-shaped, not linear. *"Once you help unleash the energy to deal with an adaptive issue, you cannot control the outcome."* Patience and persistence are operating requirements; the resolution may differ from what was first imagined. Linear project plans are a category error when applied to adaptive work.
+
+### Engaging Opposition Explicitly
+
+The most under-supplied move in change management: *scheduling the conversation with the person whose loss is greatest.* Ask: what will you lose if this change happens? Acknowledge it. Do not promise to prevent it; do promise to honor it. Most resistance is rational once you understand what the resister is losing.
+
+### Don't Do It Alone
+
+Heifetz's three-relationship discipline:
+
+- **Allies** share your purpose. Build coalitions of allies before raising the heat.
+- **Confidants** are outside the system. They can tell you the truth without political cost. Form these in calm times (see [[sources/george-7-lessons-crisis-2009]]).
+- **Opposition** must be engaged, not avoided. Treat their resistance as data.
+
+## George (2009) on Using Crisis as the Change Lever
+
+[[sources/george-7-lessons-crisis-2009]] — Lesson 5 ("Never waste a good crisis") supplies the *timing* dimension. Resistance to adaptive change is high in calm times because the losses are concrete and the gains abstract. In crisis, the losses of *not* changing become salient; the political resistance drops; previously-impossible moves become possible. The discipline: identify the structural changes that are blocked by calm-time politics; have the plan ready; execute when the window opens.
+
+Examples in the wiki: Welch's GE transformation (created a crisis to break the bureaucracy); Wendy Kopp at TFA (used 1995 near-collapse to refocus on core mission); Medtronic 1998 (used growth slowdown to acquire seven companies). The cost of crisis is real; the cost of *wasting* a crisis is larger.
