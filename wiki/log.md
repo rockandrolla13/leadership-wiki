@@ -4,6 +4,36 @@ Chronological record of all ingestions and coaching queries.
 
 ---
 
+## [2026-05-20] coaching | Three-session arc — giving feedback to an experienced report + the user's own open-inquiry / feedback-receiving development priority
+
+- **Topics covered (in sequence):**
+  1. Giving feedback to an eager, smart, experienced report in a low-trust early relationship who produces narrow / surface-level analyses. *Initial agent framing mis-routed to [[management/coaching-junior-people]]; user corrected ("this feels like I dont trust him. He is experienced, and I need to be softer there"); recalibrated to [[management/managing-senior-people]] partnership-framing.*
+  2. The reframe: distinguish capability gaps (need structure) from context gaps (need context-sharing partnership). User extends trust first, asymmetrically — share what you know up front, ask before assessing, invite as sparring partner.
+  3. User's own development priority: team perception that they are *"not as good at taking feedback or as open as I think."* Built a three-behavior playbook + 30/60/90 review cadence.
+- **Wiki pages consulted:** [[management/managing-senior-people]], [[communication/open-inquiry-playbook]], [[communication/feedback-scripts]], [[management/sbi-feedback-model]], [[management/coaching-junior-people]], [[principles/delegation]], [[management/one-on-ones]], [[principles/trust]], [[communication/listening-and-conversation]]
+- **Sources cited:** Lopp 2020 (*The Art of Leadership*); Edmondson 2019 (*The Fearless Organization*); Heen & Stone via HBR Communication Vol. 2 (truth/relationship/identity triggers); Bradberry & Greaves 2009 (calibrate-to-receiver, don't-take-notes); Grant 2021 (*Think Again* — order-of-speaking effect); HBR Manager's Handbook (SBI model)
+- **Three behaviors installed for the user (the spine):**
+  1. **Speak last, ask first** — in team meetings, state the question not the answer; restate before responding
+  2. **Visibly update** — *"That changes how I see it"* at least once per month, out loud, in front of the team
+  3. **Receive feedback by investigating, not defending** — no immediate clarification, counter-example, or intent-explanation; ask for one specific example, sit with it, come back
+- **Anti-patterns surfaced as never-say phrases:**
+  - *"I think you're misreading my intent"*
+  - *"I actually do consider everyone's opinion"*
+  - *"I just have more context than the team on this one"*
+  - *"That's not how I see myself"*
+- **Development plan updated:** [[coaching/development-plan]] Active Priorities populated for the first time (was an empty placeholder section before this session). Two priorities added:
+  - Priority 1: open inquiry and feedback-receiving discipline
+  - Priority 2: partnership framing with experienced reports
+- **Review cadence set:** Week 1–2 (~2026-06-03) install Behaviors 1 + 3; Week 3–4 (~2026-06-17) first visible update; Week 6 (~2026-07-01) return to original feedback-giver; Week 12 (~2026-08-12) 1-to-10 + one-point-change question in 1:1s.
+- **In-session learning (agent meta):**
+  - Junior-vs-experienced framing must be confirmed early; *"doesn't go into details, perhaps lacks background"* read as junior when it actually described an experienced report new to the domain. Cost of the mis-tag was a full recalibration round.
+  - The user's own real-time response to the agent's miscalibration ("this feels like I don't trust him") was itself a textbook receiving-feedback move — surfaced impact without defending or piling on. Worth mirroring back to the user that they already do the move they're trying to install elsewhere.
+  - The user prefers softer / invitational form (*"would it help if…"*) over directive form, even when substance is identical. Form matters when trust is forming.
+- **Memory saved (agent-side):** user role and context, project (active development priority), feedback (softer framing for experienced reports). Indexed in `memory/MEMORY.md`.
+- **Filed as case page?** No — the patterns are general-development rather than a single specific situation. Filed as Active Priorities in [[coaching/development-plan]] instead.
+
+---
+
 ## [2026-05-17] ingest | Documents scan — 9 new PDFs (George crisis, Edmondson Fearless, Heifetz Adaptive, HBR Comm Vol 1, HBR Essential Leadership, HBR Overthinking, Braddock Spy Strategy, Allchin Data, Shaw Machiavelli, Lin/Sequoia)
 
 - PDFs scanned: 784 in /home/ak/Documents

@@ -1,6 +1,6 @@
 # Leadership Wiki Index
 
-_Last updated: 2026-05-17 | Pages: 99_
+_Last updated: 2026-05-20 | Pages: 99_
 
 ## Concept Pages
 | Page | Summary | Tags | Updated | Sources |
@@ -121,7 +121,7 @@ _Last updated: 2026-05-17 | Pages: 99_
 |------|---------|---------|
 | [[coaching/personal-leadership-profile]] | Living profile: style, patterns, goals | 2026-05-16 |
 | [[coaching/recurring-patterns]] | Patterns observed across cases | 2026-05-16 |
-| [[coaching/development-plan]] | Active development priorities | 2026-05-16 |
+| [[coaching/development-plan]] | Active development priorities | 2026-05-20 |
 | [[coaching/microstress]] | Cross & Dillon's 14-source taxonomy: the invisible cumulative load that erodes high-performers | microstress, resilience, burnout, energy | 2026-05-17 |
 | [[coaching/leadership-scorecard]] | Track leadership effectiveness across key dimensions over time | 2026-05-16 |
 | [[coaching/weekly-reflections]] | Structured weekly reflection on leadership patterns and experiments | 2026-05-16 |

@@ -3,9 +3,9 @@ type: profile
 title: "Development Plan"
 tags: [development, goals, self-awareness]
 created: 2026-05-16
-updated: 2026-05-16
-sources: [hbr-managing-yourself, hbr-stop-holding-yourself-back-2025, hbr-leadership-vol1, hbr-managers-handbook-17-skills]
-related: [coaching/personal-leadership-development, coaching/managing-yourself, coaching/recurring-patterns, principles/energy-management, coaching/self-limiting-beliefs, coaching/career-development, principles/leadership-development-stages, management/manager-skills-overview]
+updated: 2026-05-20
+sources: [hbr-managing-yourself, hbr-stop-holding-yourself-back-2025, hbr-leadership-vol1, hbr-managers-handbook-17-skills, edmondson-fearless-organization-2019, lopp-art-of-leadership-2020, hbr-communication-vol2]
+related: [coaching/personal-leadership-development, coaching/managing-yourself, coaching/recurring-patterns, principles/energy-management, coaching/self-limiting-beliefs, coaching/career-development, principles/leadership-development-stages, management/manager-skills-overview, communication/open-inquiry-playbook, communication/feedback-scripts, management/managing-senior-people]
 ---
 
 # Development Plan
@@ -14,7 +14,76 @@ _This page is maintained by the agent based on cases and coaching queries. The s
 
 ## Active Priorities
 
-_(To be populated by the agent as the user identifies specific development goals.)_
+### Priority 1 — Open Inquiry and Feedback-Receiving Discipline
+
+**Identified:** 2026-05-20
+**Origin:** Team feedback that the user is perceived as *"not as good at taking feedback or as open as I think."*
+**Frame:** The perception is the data, regardless of whether it feels fair. The fix is behavioral and repeated over 6–12 weeks, not a single speech or conversation. *"Being right and being effective are different things."* ([[communication/open-inquiry-playbook]])
+
+**Three behaviors installed (the spine):**
+
+1. **Speak last, ask first.** In team meetings where you have a strong view, hold it. State the question. Let everyone speak first. Restate the strongest version of what you heard. *Then* contribute. The senior person speaking first anchors the room — reverse the order, reverse the read. See [[communication/open-inquiry-playbook]] Situation 1.
+
+2. **Visibly update.** At least once per month, allow someone else's input to change your view *in the room* — and say so out loud: *"That changes how I see it."* Then state what changed and what you'll do differently. This is the one move that cannot be faked. *"This single sentence, said in front of the team, does more for psychological safety than any structural intervention."* See [[communication/open-inquiry-playbook]] (the explicit-update discipline).
+
+3. **Receive feedback by investigating, not defending.** When feedback lands, no immediate defense, clarification, or counter-example. Ask one specific-example question, sit with it, restate, come back in a day or two. Lopp mantra: *"Listen. Search for one realization. Don't respond yet."* See [[communication/feedback-scripts]] and [[communication/open-inquiry-playbook]] Situation 7.
+
+**Anti-pattern phrases** (each confirms the feedback even as it denies it — memorize as things never to say):
+- *"I think you're misreading my intent."*
+- *"I actually do consider everyone's opinion."*
+- *"I just have more context than the team on this one."*
+- *"That's not how I see myself."*
+
+**Review cadence (30/60/90 arc):**
+
+| Milestone | Target | Check |
+|-----------|--------|-------|
+| Week 1–2 | by ~2026-06-03 | Behaviors 1 and 3 installed in next 6+ meetings; no announcement |
+| Week 3–4 | by ~2026-06-17 | First visible update (Behavior 2) has occurred; flag if 4 weeks pass without one |
+| Week 6 | ~2026-07-01 | Go back to original feedback-giver: *"Has anything looked different from where you sit? Be specific — what should I keep doing, and what am I still doing?"* |
+| Week 12 | ~2026-08-12 | Ask in 1:1s: *"If you were grading me on how open I am to the team's input — on a 1 to 10 — what would you say, and what would have to change to move it up one point?"* |
+
+**One-on-one moves (in service of this priority):**
+- Open with *"How are you?"* and wait for the real answer; mood sets the agenda
+- Close laptop, phone face-down — *don't take notes during the conversation* (Bradberry); 30-second post-meeting capture instead
+- Manager talks <40% of the time
+- Universal follow-up: *"Tell me more about that."*
+- End every 1:1 with *"Do you have any feedback for me?"* — and keep asking when they say "no"
+
+**Team meeting moves (in service of this priority):**
+- Write your view on paper; leave it on paper; deploy only after others have shaped theirs
+- Pre-identify two quiet people; draw them in by name
+- Direct calls beat *"anyone?"* — *"[Name], you've been quiet — what's your read?"*
+- Close meetings by naming what changed in your thinking (or what would change it)
+- After significant discussions, ask: *"Did anyone hold back on anything in this conversation?"* — and wait
+
+**Source:** [[communication/open-inquiry-playbook]] (Edmondson 2019, Grant 2021, Heen & Stone, Lopp 2020); [[communication/feedback-scripts]]; [[management/one-on-ones]]; [[management/managing-senior-people]] (the asymmetric-trust-extension principle).
+
+---
+
+### Priority 2 — Partnership Framing with Experienced Reports
+
+**Identified:** 2026-05-19
+**Origin:** Pattern noticed with an experienced report (new to the user's domain) in a low-trust early relationship — narrow analyses being misread as performance gaps when the underlying issue is context-sharing gaps. User-named insight in the session: *"this feels like I dont trust him. He is experienced, and I need to be softer there."*
+
+**The principle:**
+The differentiator between a structural-coaching response and a partnership response is not the report's seniority alone — it's whether the gap is **capability** or **context**. Asking about context before recommending structure is the move.
+
+> *"Senior people do not need you to do their job. They need you to do yours. Your job is context, air cover, sequencing, and trust — not technical direction."* — [[management/managing-senior-people]]
+
+**Practice:**
+- With **junior** reports missing capability → process and scaffolding ([[management/coaching-junior-people]], one-pagers, *"bring two options and your lean"*)
+- With **experienced** reports missing context → context-sharing partnership ([[management/managing-senior-people]], context-dump-first scoping, *"walk me through how you scoped this before I share my read"*)
+- Open with what *you* will change about how you work together, not what *they* should do
+- Use invitational form (*"would it help if…"*, *"want to take another pass with [X] added in?"*) when trust is still forming
+
+**This priority interlocks with Priority 1:** the meta-move is the same — reduce the manager's positional stance, increase the partner's / team's voice. Practising one builds the muscle for the other.
+
+**Source:** [[management/managing-senior-people]]; [[principles/delegation]] (the half-delegation principle).
+
+---
+
+_(Future priorities to be populated as the user identifies them.)_
 
 ## Drucker's Five Questions — User's Current Answers
 
@@ -130,5 +199,7 @@ _(Populate as Wilkins's framework is applied to specific situations. Track which
 - **Anchor practice for next 18 months:** _(one habit aligned with the transition)_
 
 ## Last Reviewed
+
+2026-05-20 (Active Priorities populated for the first time — Priority 1: open inquiry and feedback-receiving discipline, with 30/60/90 review cadence; Priority 2: partnership framing with experienced reports. Pulled from coaching sessions 2026-05-19 and 2026-05-20.)
 
 2026-05-16 (initial structure from HBR Managing Yourself ingestion; expanded with Wilkins's blockers, 17-skill assessment, and Rooke & Torbert action logic from Group C ingestion)
